@@ -4,7 +4,6 @@
     "created": "2026-05-17",
     "description": "Configuration statique — zones, budgets, catégories. Ne pas modifier manuellement."
   },
-
   "isin_cache": {
     "FR001400AE00": "PRFL.PA",
     "LU1834983477": "ABRE.PA",
@@ -22,9 +21,12 @@
     "FR0011341205": "NANO.PA",
     "FR0012333284": "ABVX.PA",
     "DE000HAG0005": "HAG.DE",
-    "FR0011341205": "NANO.PA"
+    "IE00B42Z5J44": "IBJP.PA",
+    "LU1681045370": "PAASI.PA",
+    "FR0010331421": "IPH.PA",
+    "US8740391003": "TSM",
+    "US98418T1043": "XYL"
   },
-
   "indices": {
     ".PA": "^FCHI",
     ".DE": "^GDAXI",
@@ -33,7 +35,6 @@
     ".MI": "^FTMIB",
     "default": "^GSPC"
   },
-
   "positions_detenues": {
     "PEA_PROFILE": {
       "nom": "PEA Profile Offensif",
@@ -45,6 +46,7 @@
         "basse_min": 120.0,
         "basse_max": 130.0,
         "surveillance": 140.0,
+        "complement": 146.0,
         "breakout": 150.0
       },
       "sl_initial": 110.0,
@@ -59,7 +61,8 @@
       "zones": {
         "basse_min": 120.0,
         "basse_max": 132.0,
-        "surveillance": 145.0,
+        "surveillance": 143.0,
+        "complement": 150.0,
         "breakout": 155.0
       },
       "sl_initial": 112.0,
@@ -74,7 +77,8 @@
       "zones": {
         "basse_min": 130.0,
         "basse_max": 145.0,
-        "surveillance": 155.0,
+        "surveillance": 152.0,
+        "complement": 160.0,
         "breakout": 165.0
       },
       "sl_initial": 122.0,
@@ -90,6 +94,7 @@
         "basse_min": 16.0,
         "basse_max": 18.5,
         "surveillance": 20.0,
+        "complement": 21.0,
         "breakout": 22.0
       },
       "sl_initial": 15.0,
@@ -105,6 +110,7 @@
         "basse_min": 20.0,
         "basse_max": 23.0,
         "surveillance": 26.0,
+        "complement": 27.5,
         "breakout": 29.0
       },
       "sl_initial": 19.0,
@@ -120,6 +126,7 @@
         "basse_min": 14.0,
         "basse_max": 16.0,
         "surveillance": 17.5,
+        "complement": 18.2,
         "breakout": 19.0
       },
       "sl_initial": 13.0,
@@ -135,6 +142,7 @@
         "basse_min": 100.0,
         "basse_max": 115.0,
         "surveillance": 125.0,
+        "complement": 130.0,
         "breakout": 135.0
       },
       "sl_initial": 95.0,
@@ -147,12 +155,13 @@
       "categorie": "Croissance",
       "budget_cible": 400,
       "zones": {
-        "basse_min": 4.80,
-        "basse_max": 5.50,
-        "surveillance": 7.00,
-        "breakout": 8.50
+        "basse_min": 4.8,
+        "basse_max": 5.5,
+        "surveillance": 7.0,
+        "complement": 7.8,
+        "breakout": 8.5
       },
-      "sl_initial": 6.20,
+      "sl_initial": 6.2,
       "these": "Fondeur semi-conducteurs analogiques/mixtes. Électrification auto + medtech."
     },
     "SIDETRADE": {
@@ -165,6 +174,7 @@
         "basse_min": 150.0,
         "basse_max": 162.0,
         "surveillance": 170.0,
+        "complement": 176.0,
         "breakout": 180.0
       },
       "sl_initial": 145.0,
@@ -180,6 +190,7 @@
         "basse_min": 27.0,
         "basse_max": 30.0,
         "surveillance": 32.0,
+        "complement": 33.5,
         "breakout": 35.0
       },
       "sl_initial": 25.0,
@@ -195,6 +206,7 @@
         "basse_min": 14.0,
         "basse_max": 16.5,
         "surveillance": 18.0,
+        "complement": 19.0,
         "breakout": 20.0
       },
       "sl_initial": 13.5,
@@ -210,6 +222,7 @@
         "basse_min": 12.0,
         "basse_max": 14.0,
         "surveillance": 15.5,
+        "complement": 16.2,
         "breakout": 17.0
       },
       "sl_initial": 11.0,
@@ -225,6 +238,7 @@
         "basse_min": 85.0,
         "basse_max": 95.0,
         "surveillance": 102.0,
+        "complement": 106.0,
         "breakout": 110.0
       },
       "sl_initial": 80.0,
@@ -240,6 +254,7 @@
         "basse_min": 110.0,
         "basse_max": 122.0,
         "surveillance": 130.0,
+        "complement": 135.0,
         "breakout": 140.0
       },
       "sl_initial": 105.0,
@@ -255,6 +270,7 @@
         "basse_min": 130.0,
         "basse_max": 145.0,
         "surveillance": 160.0,
+        "complement": 168.0,
         "breakout": 175.0
       },
       "sl_initial": 125.0,
@@ -270,6 +286,7 @@
         "basse_min": 88.0,
         "basse_max": 98.0,
         "surveillance": 108.0,
+        "complement": 114.0,
         "breakout": 120.0
       },
       "sl_initial": 82.0,
@@ -285,6 +302,7 @@
         "basse_min": 155.0,
         "basse_max": 172.0,
         "surveillance": 190.0,
+        "complement": 198.0,
         "breakout": 205.0
       },
       "sl_initial": 148.0,
@@ -300,6 +318,7 @@
         "basse_min": 650.0,
         "basse_max": 720.0,
         "surveillance": 760.0,
+        "complement": 780.0,
         "breakout": 800.0
       },
       "sl_initial": 620.0,
@@ -315,13 +334,13 @@
         "basse_min": 60.0,
         "basse_max": 68.0,
         "surveillance": 75.0,
+        "complement": 78.5,
         "breakout": 82.0
       },
       "sl_initial": 57.0,
       "these": "Solutions eau résidentielle et industrielle. Dividende croissant."
     }
   },
-
   "watchlist": {
     "EXOSENS": {
       "nom": "Exosens",
@@ -332,7 +351,8 @@
       "zones": {
         "basse_min": 52.0,
         "basse_max": 56.0,
-        "surveillance": 65.0,
+        "surveillance": 60.0,
+        "complement": 62.5,
         "breakout": 65.0
       },
       "sl_initial": 48.0,
@@ -348,7 +368,8 @@
       "zones": {
         "basse_min": 32.0,
         "basse_max": 38.0,
-        "surveillance": 42.0,
+        "surveillance": 41.0,
+        "complement": 43.0,
         "breakout": 44.44
       },
       "sl_initial": 29.0,
@@ -365,6 +386,7 @@
         "basse_min": 82.0,
         "basse_max": 92.0,
         "surveillance": 110.0,
+        "complement": 122.0,
         "breakout": 132.0
       },
       "sl_initial": 76.0,
@@ -381,10 +403,45 @@
         "basse_min": 30.0,
         "basse_max": 34.0,
         "surveillance": 42.0,
+        "complement": 45.0,
         "breakout": 48.0
       },
       "sl_initial": 28.0,
       "these": "Capteurs militaires EU. Réarmement EU structurel.",
+      "actif": true
+    },
+    "EXAIL": {
+      "nom": "Exail Technologies",
+      "isin": "FR0000062671",
+      "enveloppe": "PEA",
+      "categorie": "Croissance",
+      "budget_cible": 400,
+      "zones": {
+        "basse_min": 112.0,
+        "basse_max": 122.0,
+        "surveillance": 132.0,
+        "complement": 138.0,
+        "breakout": 145.0
+      },
+      "sl_initial": 105.0,
+      "these": "Defense/photonique/maritime. CA T1 +40%. Cession automation mai 2026. Re-rentrer sur repli 112-122 EUR.",
+      "actif": true
+    },
+    "INNATE": {
+      "nom": "Innate Pharma",
+      "isin": "FR0010331421",
+      "enveloppe": "PEA",
+      "categorie": "Speculatif",
+      "budget_cible": 300,
+      "zones": {
+        "basse_min": 1.4,
+        "basse_max": 1.65,
+        "surveillance": 1.8,
+        "complement": 2.0,
+        "breakout": 2.2
+      },
+      "sl_initial": 1.25,
+      "these": "Biotech immuno-oncologie. Spike +35% le 14/05. Re-rentrer sur consolidation 1.40-1.65 EUR avec MACD+RSI confirmes.",
       "actif": true
     }
   }

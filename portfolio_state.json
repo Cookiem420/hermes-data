@@ -2,17 +2,16 @@
   "meta": {
     "version": "1.0",
     "last_run": null,
-    "derniere_maj_manuelle": "2026-05-15",
+    "derniere_maj_manuelle": "2026-05-18",
     "market_state": "NEUTRAL",
-    "engine_paused": false
+    "engine_paused": false,
+    "last_maj_by": "wizard"
   },
-
   "cash": {
-    "pea": 120.08,
-    "cto": 6.25,
+    "pea": 9.05,
+    "cto": 6.02,
     "pme": 16.38
   },
-
   "positions": {
     "PEA_PROFILE": {
       "isin": "FR001400AE00",
@@ -20,31 +19,31 @@
       "quantite_detenue": 23,
       "prix_moyen_entree": 125.17,
       "date_premiere_entree": "2024-01-01",
-      "sl_actuel": 110.0,
+      "sl_actuel": 110,
       "budget_consomme": 2878.91,
       "derniere_valorisation": 3332.66,
       "alert_sent_at": null,
       "last_unanswered_alert": null,
       "zones_a_definir": false,
-      "indicateurs_recents": {"rsi": [], "macd_hist": []},
+      "indicateurs_recents": {
+        "rsi": [],
+        "macd_hist": []
+      },
       "historique_signaux": [],
       "historique_transactions": []
     },
     "LEGRAND": {
-      "isin": "FR0010307086",
+      "isin": "FR0010307819",
       "etat": "FULL",
-      "quantite_detenue": 4,
-      "prix_moyen_entree": 144.06,
-      "date_premiere_entree": "2024-06-01",
-      "sl_actuel": 130.0,
-      "budget_consomme": 576.24,
-      "derniere_valorisation": 618.80,
+      "enveloppe": "PEA",
       "alert_sent_at": null,
-      "last_unanswered_alert": null,
-      "zones_a_definir": false,
-      "indicateurs_recents": {"rsi": [], "macd_hist": []},
+      "zones_a_definir": true,
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "quantite_detenue": 6,
+      "prix_moyen_entree": 146.73,
+      "derniere_valorisation": 901.2,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
     },
     "PLANISWARE": {
       "isin": "FR001400PFU4",
@@ -52,15 +51,19 @@
       "quantite_detenue": 8,
       "prix_moyen_entree": 14.39,
       "date_premiere_entree": "2024-10-01",
-      "sl_actuel": 15.0,
+      "sl_actuel": 15,
       "budget_consomme": 115.12,
-      "derniere_valorisation": 136.0,
+      "derniere_valorisation": 135.84,
       "alert_sent_at": null,
       "last_unanswered_alert": null,
       "zones_a_definir": false,
-      "indicateurs_recents": {"rsi": [], "macd_hist": []},
+      "indicateurs_recents": {
+        "rsi": [],
+        "macd_hist": []
+      },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
     },
     "LUMIBIRD": {
       "isin": "FR0000038242",
@@ -68,15 +71,19 @@
       "quantite_detenue": 24,
       "prix_moyen_entree": 23.61,
       "date_premiere_entree": "2024-03-01",
-      "sl_actuel": 21.0,
+      "sl_actuel": 21,
       "budget_consomme": 566.64,
-      "derniere_valorisation": 591.60,
+      "derniere_valorisation": 550.8,
       "alert_sent_at": null,
       "last_unanswered_alert": null,
       "zones_a_definir": false,
-      "indicateurs_recents": {"rsi": [], "macd_hist": []},
+      "indicateurs_recents": {
+        "rsi": [],
+        "macd_hist": []
+      },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
     },
     "ETF_BANQUES": {
       "isin": "DE000A2QP387",
@@ -84,31 +91,39 @@
       "quantite_detenue": 107,
       "prix_moyen_entree": 16.55,
       "date_premiere_entree": "2024-05-01",
-      "sl_actuel": 15.0,
+      "sl_actuel": 15,
       "budget_consomme": 1770.85,
       "derniere_valorisation": 1868.65,
       "alert_sent_at": null,
       "last_unanswered_alert": null,
       "zones_a_definir": false,
-      "indicateurs_recents": {"rsi": [], "macd_hist": []},
+      "indicateurs_recents": {
+        "rsi": [],
+        "macd_hist": []
+      },
       "historique_signaux": [],
       "historique_transactions": []
     },
     "EXAIL": {
       "isin": "FR0000062671",
-      "etat": "PARTIAL",
-      "quantite_detenue": 2,
+      "etat": "EXITED",
+      "quantite_detenue": 0,
       "prix_moyen_entree": 133.16,
       "date_premiere_entree": "2024-09-01",
-      "sl_actuel": 100.0,
+      "sl_actuel": 100,
       "budget_consomme": 266.32,
-      "derniere_valorisation": 228.60,
+      "derniere_valorisation": 220.4,
       "alert_sent_at": null,
       "last_unanswered_alert": null,
       "zones_a_definir": false,
-      "indicateurs_recents": {"rsi": [], "macd_hist": []},
+      "indicateurs_recents": {
+        "rsi": [],
+        "macd_hist": []
+      },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z",
+      "date_sortie": "2026-05-18"
     },
     "XFAB": {
       "isin": "BE0974310430",
@@ -116,13 +131,16 @@
       "quantite_detenue": 82,
       "prix_moyen_entree": 4.98,
       "date_premiere_entree": "2024-09-12",
-      "sl_actuel": 6.20,
+      "sl_actuel": 6.2,
       "budget_consomme": 408.36,
       "derniere_valorisation": 636.73,
       "alert_sent_at": null,
       "last_unanswered_alert": null,
       "zones_a_definir": false,
-      "indicateurs_recents": {"rsi": [], "macd_hist": []},
+      "indicateurs_recents": {
+        "rsi": [],
+        "macd_hist": []
+      },
       "historique_signaux": [],
       "historique_transactions": []
     },
@@ -132,15 +150,19 @@
       "quantite_detenue": 2,
       "prix_moyen_entree": 165.02,
       "date_premiere_entree": "2024-07-01",
-      "sl_actuel": 150.0,
+      "sl_actuel": 150,
       "budget_consomme": 330.04,
-      "derniere_valorisation": 329.60,
+      "derniere_valorisation": 318,
       "alert_sent_at": null,
       "last_unanswered_alert": null,
       "zones_a_definir": false,
-      "indicateurs_recents": {"rsi": [], "macd_hist": []},
+      "indicateurs_recents": {
+        "rsi": [],
+        "macd_hist": []
+      },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
     },
     "ETF_EAU": {
       "isin": "FR0011882364",
@@ -148,47 +170,59 @@
       "quantite_detenue": 10,
       "prix_moyen_entree": 32.06,
       "date_premiere_entree": "2024-04-01",
-      "sl_actuel": 27.0,
-      "budget_consomme": 320.60,
-      "derniere_valorisation": 308.16,
+      "sl_actuel": 27,
+      "budget_consomme": 320.6,
+      "derniere_valorisation": 299.53,
       "alert_sent_at": null,
       "last_unanswered_alert": null,
       "zones_a_definir": false,
-      "indicateurs_recents": {"rsi": [], "macd_hist": []},
+      "indicateurs_recents": {
+        "rsi": [],
+        "macd_hist": []
+      },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
     },
     "LECTRA": {
       "isin": "FR0000065484",
       "etat": "WATCHLIST",
-      "quantite_detenue": 10,
-      "prix_moyen_entree": 17.75,
+      "quantite_detenue": 19,
+      "prix_moyen_entree": 16.98,
       "date_premiere_entree": "2024-08-01",
       "sl_actuel": 14.5,
-      "budget_consomme": 177.50,
-      "derniere_valorisation": 161.40,
+      "budget_consomme": 177.5,
+      "derniere_valorisation": 304,
       "alert_sent_at": null,
       "last_unanswered_alert": null,
       "zones_a_definir": false,
-      "indicateurs_recents": {"rsi": [], "macd_hist": []},
+      "indicateurs_recents": {
+        "rsi": [],
+        "macd_hist": []
+      },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
     },
     "VINCI": {
       "isin": "FR0000125486",
       "etat": "FULL",
       "quantite_detenue": 4,
-      "prix_moyen_entree": 119.46,
+      "prix_moyen_entree": 129.48,
       "date_premiere_entree": "2024-02-01",
-      "sl_actuel": 108.0,
+      "sl_actuel": 108,
       "budget_consomme": 477.84,
-      "derniere_valorisation": 509.80,
+      "derniere_valorisation": 491.2,
       "alert_sent_at": null,
       "last_unanswered_alert": null,
       "zones_a_definir": false,
-      "indicateurs_recents": {"rsi": [], "macd_hist": []},
+      "indicateurs_recents": {
+        "rsi": [],
+        "macd_hist": []
+      },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
     },
     "TSMC": {
       "isin": "US8740391003",
@@ -196,31 +230,32 @@
       "quantite_detenue": 1,
       "prix_moyen_entree": 348.68,
       "date_premiere_entree": "2024-11-01",
-      "sl_actuel": 300.0,
+      "sl_actuel": 300,
       "budget_consomme": 348.68,
-      "derniere_valorisation": 356.79,
+      "derniere_valorisation": 348.04,
       "alert_sent_at": null,
       "last_unanswered_alert": null,
       "zones_a_definir": false,
-      "indicateurs_recents": {"rsi": [], "macd_hist": []},
+      "indicateurs_recents": {
+        "rsi": [],
+        "macd_hist": []
+      },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
     },
     "XYLEM": {
-      "isin": "US98418T1043",
-      "etat": "WEAKENING_TECH",
-      "quantite_detenue": 6,
-      "prix_moyen_entree": 105.47,
-      "date_premiere_entree": "2024-04-01",
-      "sl_actuel": 82.0,
-      "budget_consomme": 632.82,
-      "derniere_valorisation": 561.18,
+      "isin": "US98419M1009",
+      "etat": "FULL",
+      "enveloppe": "CTO",
       "alert_sent_at": null,
-      "last_unanswered_alert": null,
-      "zones_a_definir": false,
-      "indicateurs_recents": {"rsi": [], "macd_hist": []},
+      "zones_a_definir": true,
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "quantite_detenue": 6,
+      "prix_moyen_entree": 106.47,
+      "derniere_valorisation": 557.95,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
     },
     "HEIDELBERG": {
       "isin": "DE0006047004",
@@ -228,15 +263,19 @@
       "quantite_detenue": 2,
       "prix_moyen_entree": 194.23,
       "date_premiere_entree": "2024-06-01",
-      "sl_actuel": 155.0,
+      "sl_actuel": 155,
       "budget_consomme": 388.46,
-      "derniere_valorisation": 364.40,
+      "derniere_valorisation": 330.5,
       "alert_sent_at": null,
       "last_unanswered_alert": null,
       "zones_a_definir": false,
-      "indicateurs_recents": {"rsi": [], "macd_hist": []},
+      "indicateurs_recents": {
+        "rsi": [],
+        "macd_hist": []
+      },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
     },
     "ETF_WORLD": {
       "isin": "LU1681043599",
@@ -244,13 +283,16 @@
       "quantite_detenue": 4,
       "prix_moyen_entree": 706.11,
       "date_premiere_entree": "2024-01-01",
-      "sl_actuel": 640.0,
+      "sl_actuel": 640,
       "budget_consomme": 2824.44,
-      "derniere_valorisation": 2952.60,
+      "derniere_valorisation": 2952.6,
       "alert_sent_at": null,
       "last_unanswered_alert": null,
       "zones_a_definir": false,
-      "indicateurs_recents": {"rsi": [], "macd_hist": []},
+      "indicateurs_recents": {
+        "rsi": [],
+        "macd_hist": []
+      },
       "historique_signaux": [],
       "historique_transactions": []
     },
@@ -260,18 +302,286 @@
       "quantite_detenue": 3,
       "prix_moyen_entree": 66.25,
       "date_premiere_entree": "2024-10-01",
-      "sl_actuel": 57.0,
+      "sl_actuel": 57,
       "budget_consomme": 198.75,
-      "derniere_valorisation": 191.85,
+      "derniere_valorisation": 187.44,
       "alert_sent_at": null,
       "last_unanswered_alert": null,
       "zones_a_definir": false,
-      "indicateurs_recents": {"rsi": [], "macd_hist": []},
+      "indicateurs_recents": {
+        "rsi": [],
+        "macd_hist": []
+      },
+      "historique_signaux": [],
+      "historique_transactions": [],
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
+    },
+    "PEA_PROFILE_OFF": {
+      "isin": "FR001400AED5",
+      "etat": "FULL",
+      "enveloppe": "PEA",
+      "alert_sent_at": null,
+      "zones_a_definir": true,
+      "historique_signaux": [],
+      "historique_transactions": [],
+      "quantite_detenue": 23.62,
+      "prix_moyen_entree": 125.17,
+      "derniere_valorisation": 3285.65,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
+    },
+    "AMUNDI_STOXX_EU": {
+      "isin": "LU1834983550",
+      "etat": "FULL",
+      "enveloppe": "PEA",
+      "alert_sent_at": null,
+      "zones_a_definir": true,
+      "historique_signaux": [],
+      "historique_transactions": [],
+      "quantite_detenue": 5,
+      "prix_moyen_entree": 129.09,
+      "derniere_valorisation": 682.95,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
+    },
+    "ISHARES_EURO_ST": {
+      "isin": "DE000A2QP372",
+      "etat": "FULL",
+      "enveloppe": "PEA",
+      "alert_sent_at": null,
+      "zones_a_definir": true,
+      "historique_signaux": [],
+      "historique_transactions": [],
+      "quantite_detenue": 119,
+      "prix_moyen_entree": 16.6,
+      "derniere_valorisation": 2022.05,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
+    },
+    "X_FAB_SILICON": {
+      "isin": "BE0974310428",
+      "etat": "FULL",
+      "enveloppe": "PEA",
+      "alert_sent_at": null,
+      "zones_a_definir": true,
+      "historique_signaux": [],
+      "historique_transactions": [],
+      "quantite_detenue": 82,
+      "prix_moyen_entree": 4.98,
+      "derniere_valorisation": 622.59,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
+    },
+    "RIVIERA": {
+      "isin": "QS0004065114",
+      "etat": "FULL",
+      "enveloppe": "PEA-PME",
+      "alert_sent_at": null,
+      "zones_a_definir": true,
+      "historique_signaux": [],
+      "historique_transactions": [],
+      "quantite_detenue": 1,
+      "prix_moyen_entree": 1000,
+      "derniere_valorisation": 1000,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
+    },
+    "EAGLESTONE_FRAN": {
+      "isin": "QS0004120687",
+      "etat": "FULL",
+      "enveloppe": "PEA-PME",
+      "alert_sent_at": null,
+      "zones_a_definir": true,
+      "historique_signaux": [],
+      "historique_transactions": [],
+      "quantite_detenue": 1,
+      "prix_moyen_entree": 1000,
+      "derniere_valorisation": 1000,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
+    },
+    "PORTEFEUILLE_RE": {
+      "isin": "QS0004138556",
+      "etat": "FULL",
+      "enveloppe": "PEA-PME",
+      "alert_sent_at": null,
+      "zones_a_definir": true,
+      "historique_signaux": [],
+      "historique_transactions": [],
+      "quantite_detenue": 1,
+      "prix_moyen_entree": 1000,
+      "derniere_valorisation": 1000,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
+    },
+    "OD_BHF_IN_F_T_B": {
+      "isin": "FR001400E4E3",
+      "etat": "FULL",
+      "enveloppe": "PEA-PME",
+      "alert_sent_at": null,
+      "zones_a_definir": true,
+      "historique_signaux": [],
+      "historique_transactions": [],
+      "quantite_detenue": 10,
+      "prix_moyen_entree": 100,
+      "derniere_valorisation": 1019.85,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
+    },
+    "MANDARINE_EUROP": {
+      "isin": "LU1303940784",
+      "etat": "FULL",
+      "enveloppe": "PEA-PME",
+      "alert_sent_at": null,
+      "zones_a_definir": true,
+      "historique_signaux": [],
+      "historique_transactions": [],
+      "quantite_detenue": 26,
+      "prix_moyen_entree": 24.66,
+      "derniere_valorisation": 731.9,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
+    },
+    "ALLODIS_2": {
+      "isin": "QS0004122063",
+      "etat": "FULL",
+      "enveloppe": "PEA-PME",
+      "alert_sent_at": null,
+      "zones_a_definir": true,
+      "historique_signaux": [],
+      "historique_transactions": [],
+      "quantite_detenue": 1,
+      "prix_moyen_entree": 1000,
+      "derniere_valorisation": 1000,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
+    },
+    "AM_M_III_EV_A_P": {
+      "isin": "FR001400E227",
+      "etat": "FULL",
+      "enveloppe": "PEA-PME",
+      "alert_sent_at": null,
+      "zones_a_definir": true,
+      "historique_signaux": [],
+      "historique_transactions": [],
+      "quantite_detenue": 10.05,
+      "prix_moyen_entree": 99.54,
+      "derniere_valorisation": 1025.72,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
+    },
+    "QUINTESSENCE": {
+      "isin": "QS0004062905",
+      "etat": "FULL",
+      "enveloppe": "PEA-PME",
+      "alert_sent_at": null,
+      "zones_a_definir": true,
+      "historique_signaux": [],
+      "historique_transactions": [],
+      "quantite_detenue": 1,
+      "prix_moyen_entree": 1000,
+      "derniere_valorisation": 1000,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
+    },
+    "ISHARES_CORE_MS": {
+      "isin": "IE00BKT6FV49",
+      "etat": "FULL",
+      "enveloppe": "CTO",
+      "alert_sent_at": null,
+      "zones_a_definir": true,
+      "historique_signaux": [],
+      "historique_transactions": [],
+      "quantite_detenue": 40,
+      "prix_moyen_entree": 13.8,
+      "derniere_valorisation": 569.36,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
+    },
+    "AMUNDI_MSCI_AC_": {
+      "isin": "LU1900068328",
+      "etat": "FULL",
+      "enveloppe": "CTO",
+      "alert_sent_at": null,
+      "zones_a_definir": true,
+      "historique_signaux": [],
+      "historique_transactions": [],
+      "quantite_detenue": 4,
+      "prix_moyen_entree": 92.06,
+      "derniere_valorisation": 381.68,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
+    },
+    "AMA_CORP": {
+      "isin": "GB00BNKGZC51",
+      "etat": "FULL",
+      "enveloppe": "CTO",
+      "alert_sent_at": null,
+      "zones_a_definir": true,
+      "historique_signaux": [],
+      "historique_transactions": [],
+      "quantite_detenue": 5,
+      "prix_moyen_entree": 6.6,
+      "derniere_valorisation": 0.55,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
+    },
+    "AMUNDI_MSCI_WOR": {
+      "isin": "LU1681045537",
+      "etat": "FULL",
+      "enveloppe": "CTO",
+      "alert_sent_at": null,
+      "zones_a_definir": true,
+      "historique_signaux": [],
+      "historique_transactions": [],
+      "quantite_detenue": 4,
+      "prix_moyen_entree": 711.11,
+      "derniere_valorisation": 2940,
+      "derniere_maj_csv": "2026-05-18T11:26:51.682Z"
+    },
+    "ETF_RESSOURCES": {
+      "isin": "LU1834983477",
+      "etat": "FULL",
+      "quantite_detenue": 5,
+      "prix_moyen_entree": 131.0,
+      "date_premiere_entree": "2024-05-01",
+      "sl_actuel": 112.0,
+      "budget_consomme": 655.0,
+      "derniere_valorisation": 724.0,
+      "alert_sent_at": null,
+      "last_unanswered_alert": null,
+      "zones_a_definir": false,
+      "indicateurs_recents": {
+        "rsi": [],
+        "macd_hist": []
+      },
+      "historique_signaux": [],
+      "historique_transactions": []
+    },
+    "ETF_JAPON": {
+      "isin": "IE00B42Z5J44",
+      "etat": "FULL",
+      "quantite_detenue": 40,
+      "prix_moyen_entree": 13.8,
+      "date_premiere_entree": "2024-03-01",
+      "sl_actuel": 11.0,
+      "budget_consomme": 552.0,
+      "derniere_valorisation": 579.0,
+      "alert_sent_at": null,
+      "last_unanswered_alert": null,
+      "zones_a_definir": false,
+      "indicateurs_recents": {
+        "rsi": [],
+        "macd_hist": []
+      },
+      "historique_signaux": [],
+      "historique_transactions": []
+    },
+    "ETF_ASIE": {
+      "isin": "LU1681045370",
+      "etat": "FULL",
+      "quantite_detenue": 4,
+      "prix_moyen_entree": 89.0,
+      "date_premiere_entree": "2024-04-01",
+      "sl_actuel": 80.0,
+      "budget_consomme": 356.0,
+      "derniere_valorisation": 395.0,
+      "alert_sent_at": null,
+      "last_unanswered_alert": null,
+      "zones_a_definir": false,
+      "indicateurs_recents": {
+        "rsi": [],
+        "macd_hist": []
+      },
       "historique_signaux": [],
       "historique_transactions": []
     }
   },
-
   "learning": {
     "preferences_globales": {
       "pullback_prefere": false,
@@ -285,25 +595,38 @@
       }
     }
   },
-
   "snapshots_patrimoine": [
     {
       "date": "2026-05-15",
       "total": 71061.06,
-      "pea": 9557.0,
-      "cto": 5919.0,
-      "pme": 8320.0,
-      "av": 20596.0,
-      "pee": 5749.0,
-      "livrets": 12441.0,
-      "scpi": 7298.0,
-      "revolut": 1155.0,
+      "pea": 9557,
+      "cto": 5919,
+      "pme": 8320,
+      "av": 20596,
+      "pee": 5749,
+      "livrets": 12441,
+      "scpi": 7298,
+      "revolut": 1155,
       "cash_pea": 120.08,
       "cash_cto": 6.25,
       "cash_pme": 16.38
+    },
+    {
+      "date": "2026-05-18",
+      "total": 67372.14054794521,
+      "pea": 7523.49,
+      "cto": 4455.5599999999995,
+      "pme": 8329.370547945206,
+      "av": 20634.84,
+      "pee": 5809.1900000000005,
+      "livrets": 12223.48,
+      "scpi": 7249,
+      "revolut": 1147.21,
+      "cash_pea": 9.05,
+      "cash_cto": 6.02,
+      "cash_pme": 16.38
     }
   ],
-
   "historique_signaux_global": [],
   "derniere_erreur": null
 }
