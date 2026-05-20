@@ -211,7 +211,7 @@
     },
     {
       "nom": "DWS Concept Kaldemorgen",
-      "valeur": 1666.01
+      "valeur": 1666
     },
     {
       "nom": "DWS Top Dividende",
@@ -272,11 +272,11 @@
     "pea": 8645.16,
     "cto": 5785.410000000001,
     "pme": 7775.39,
-    "av": 11662.01,
+    "av": 11662,
     "pee": 8330,
     "livrets": 6664,
     "scpi": 1666,
     "revolut": 1666,
-    "total": 52193.97
+    "total": 52193.96
   }
 }
