@@ -4,9 +4,9 @@
     "version": "2.0"
   },
   "cash": {
-    "pea": 1500,
-    "cto": 1500,
-    "pme": 1500
+    "pea": 0,
+    "cto": 0,
+    "pme": 0
   },
   "pea_positions": [
     {
@@ -14,63 +14,84 @@
       "isin": "FR001400AED5",
       "quantite": 23.62,
       "pru": 125.17,
-      "montant": 3299.35
+      "montant": 3384.38
     },
     {
       "nom": "AMUNDI STOXX EUROPE 600 BASIC RESOURCES UCITS ETF ACC",
       "isin": "LU1834983550",
       "quantite": 5,
       "pru": 129.09,
-      "montant": 672.03
+      "montant": 703.44
+    },
+    {
+      "nom": "INNATE PHARMA",
+      "isin": "FR0010331421",
+      "quantite": 378,
+      "pru": 1.24,
+      "montant": 474.01
     },
     {
       "nom": "LEGRAND",
       "isin": "FR0010307819",
-      "quantite": 6,
-      "pru": 146.73,
-      "montant": 873.6
+      "quantite": 3,
+      "pru": 140.1,
+      "montant": 463.35
     },
     {
       "nom": "PLANISWARE",
       "isin": "FR001400PFU4",
-      "quantite": 15,
-      "pru": 15.73,
-      "montant": 280.5
+      "quantite": 8,
+      "pru": 14.39,
+      "montant": 133.6
     },
     {
       "nom": "LUMIBIRD",
       "isin": "FR0000038242",
       "quantite": 24,
       "pru": 23.61,
-      "montant": 529.2
+      "montant": 547.2
     },
     {
       "nom": "ISHARES EURO STOXX BANKS 30-15 UCITS ETF (DE) EUR (ACC)",
       "isin": "DE000A2QP372",
-      "quantite": 119,
-      "pru": 16.6,
-      "montant": 2049.42
+      "quantite": 93,
+      "pru": 16.43,
+      "montant": 1598.11
+    },
+    {
+      "nom": "EXAIL TECHNOLOGIES",
+      "isin": "FR0000062671",
+      "quantite": 2,
+      "pru": 133.16,
+      "montant": 224
+    },
+    {
+      "nom": "X-FAB SILICON",
+      "isin": "BE0974310428",
+      "quantite": 82,
+      "pru": 4.98,
+      "montant": 591.63
     },
     {
       "nom": "SIDETRADE",
       "isin": "FR0010202606",
       "quantite": 2,
       "pru": 165.02,
-      "montant": 334.4
+      "montant": 316
     },
     {
       "nom": "AMUNDI PEA EAU (MSCI WATER) UCITS ETF - CAPI",
       "isin": "FR0011882364",
       "quantite": 10,
       "pru": 32.06,
-      "montant": 301.52
+      "montant": 307.21
     },
     {
       "nom": "LECTRA",
       "isin": "FR0000065484",
-      "quantite": 19,
-      "pru": 16.98,
-      "montant": 305.14
+      "quantite": 10,
+      "pru": 17.75,
+      "montant": 160
     }
   ],
   "cto_positions": [
@@ -79,63 +100,56 @@
       "isin": "IE00BKT6FV49",
       "quantite": 40,
       "pru": 13.8,
-      "montant": 568.48
+      "montant": 574.08
     },
     {
       "nom": "AMUNDI MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF ACC",
       "isin": "LU1900068328",
       "quantite": 4,
       "pru": 92.06,
-      "montant": 376.72
+      "montant": 385.2
     },
     {
       "nom": "VINCI",
       "isin": "FR0000125486",
       "quantite": 4,
       "pru": 129.48,
-      "montant": 491.8
+      "montant": 513.8
     },
     {
       "nom": "AMA CORP",
       "isin": "GB00BNKGZC51",
       "quantite": 5,
       "pru": 6.6,
-      "montant": 0.55
+      "montant": 0.6
     },
     {
       "nom": "TSMC (TAIWAN SEMI.) SP ADR",
       "isin": "US8740391003",
       "quantite": 1,
       "pru": 348.68,
-      "montant": 337.84
+      "montant": 343.62
     },
     {
       "nom": "HEIDELBERGMAT",
       "isin": "DE0006047004",
       "quantite": 2,
       "pru": 194.23,
-      "montant": 336.7
+      "montant": 374.6
     },
     {
       "nom": "XYLEM",
       "isin": "US98419M1009",
       "quantite": 6,
       "pru": 106.47,
-      "montant": 549.17
+      "montant": 571.29
     },
     {
       "nom": "AMUNDI MSCI WORLD EX EUROPE UCITS ETF - EUR",
       "isin": "LU1681045537",
       "quantite": 4,
       "pru": 711.11,
-      "montant": 2938.26
-    },
-    {
-      "nom": "PENTAIR",
-      "isin": "IE00BLS09M33",
-      "quantite": 3,
-      "pru": 66.25,
-      "montant": 185.89
+      "montant": 2905.34
     }
   ],
   "pme_positions": [
@@ -172,7 +186,7 @@
       "isin": "LU1303940784",
       "quantite": 26,
       "pru": 24.66,
-      "montant": 729.82
+      "montant": 733.2
     },
     {
       "nom": "ALLODIS 2",
@@ -199,84 +213,84 @@
   "av": [
     {
       "nom": "Fonds en euros",
-      "valeur": 2000
+      "valeur": 3000
     },
     {
       "nom": "Echiquier Agenor Mid Cap Europ",
-      "valeur": 2000
+      "valeur": 3000
     },
     {
       "nom": "Pictet Global Megatrend",
-      "valeur": 2000
+      "valeur": 3000
     },
     {
       "nom": "DWS Concept Kaldemorgen",
-      "valeur": 2000
+      "valeur": 3000
     },
     {
       "nom": "DWS Top Dividende",
-      "valeur": 2000
+      "valeur": 3000
     },
     {
       "nom": "Eurose",
-      "valeur": 2000
+      "valeur": 3000
     },
     {
       "nom": "ANDERA Dette Privée",
-      "valeur": 2000
+      "valeur": 3000
     }
   ],
   "pee": [
     {
       "nom": "HSBC EE EURO PME F",
-      "valeur": 2000
+      "valeur": 3000
     },
     {
       "nom": "HSBC EE ACTIONS EUROPE SOLUTIONS CLIMAT F",
-      "valeur": 2000
+      "valeur": 3000
     },
     {
       "nom": "HSBC EE ISR ACTIONS EURO F",
-      "valeur": 2000
+      "valeur": 3000
     },
     {
       "nom": "HSBC EE ISR DIVERSIFIE ET SOLIDAIRE G",
-      "valeur": 2000
+      "valeur": 3000
     },
     {
       "nom": "HSBC EE ISR ACTIONS MONDE F",
-      "valeur": 2000
+      "valeur": 3000
     }
   ],
   "livrets": [
     {
       "nom": "Livret A",
-      "valeur": 2000
+      "valeur": 3000
     },
     {
       "nom": "Livret $",
-      "valeur": 2000
+      "valeur": 3000
     },
     {
       "nom": "Livret euro",
-      "valeur": 2000
+      "valeur": 3000
     },
     {
       "nom": "Compte courant",
-      "valeur": 2000
+      "valeur": 3000
     }
   ],
-  "scpi": 2000,
-  "revolut": 2000,
+  "scpi": 3000,
+  "revolut": 3000,
   "totaux": {
-    "pea": 10145.16,
-    "cto": 7285.410000000001,
-    "pme": 9275.39,
-    "av": 14000,
-    "pee": 10000,
-    "livrets": 8000,
-    "scpi": 2000,
-    "revolut": 2000,
-    "total": 62705.96
+    "pea": 8902.93,
+    "cto": 5668.53,
+    "pme": 7778.77,
+    "av": 21000,
+    "pee": 15000,
+    "livrets": 12000,
+    "scpi": 3000,
+    "revolut": 3000,
+    "total": 76350.23
   }
 }
