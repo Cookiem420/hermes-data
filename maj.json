@@ -199,84 +199,84 @@
   "av": [
     {
       "nom": "Fonds en euros",
-      "valeur": 1666
+      "valeur": 1000
     },
     {
       "nom": "Echiquier Agenor Mid Cap Europ",
-      "valeur": 1666
+      "valeur": 1000
     },
     {
       "nom": "Pictet Global Megatrend",
-      "valeur": 1666
+      "valeur": 1000
     },
     {
       "nom": "DWS Concept Kaldemorgen",
-      "valeur": 1666
+      "valeur": 1000
     },
     {
       "nom": "DWS Top Dividende",
-      "valeur": 1666
+      "valeur": 1000
     },
     {
       "nom": "Eurose",
-      "valeur": 1666
+      "valeur": 1000
     },
     {
       "nom": "ANDERA Dette Privée",
-      "valeur": 1666
+      "valeur": 1000
     }
   ],
   "pee": [
     {
       "nom": "HSBC EE EURO PME F",
-      "valeur": 1666
+      "valeur": 1000
     },
     {
       "nom": "HSBC EE ACTIONS EUROPE SOLUTIONS CLIMAT F",
-      "valeur": 1666
+      "valeur": 1000
     },
     {
       "nom": "HSBC EE ISR ACTIONS EURO F",
-      "valeur": 1666
+      "valeur": 1000
     },
     {
       "nom": "HSBC EE ISR DIVERSIFIE ET SOLIDAIRE G",
-      "valeur": 1666
+      "valeur": 1000
     },
     {
       "nom": "HSBC EE ISR ACTIONS MONDE F",
-      "valeur": 1666
+      "valeur": 1000
     }
   ],
   "livrets": [
     {
       "nom": "Livret A",
-      "valeur": 1666
+      "valeur": 1000
     },
     {
       "nom": "Livret $",
-      "valeur": 1666
+      "valeur": 1000
     },
     {
       "nom": "Livret euro",
-      "valeur": 1666
+      "valeur": 1000
     },
     {
       "nom": "Compte courant",
-      "valeur": 1666
+      "valeur": 1000
     }
   ],
-  "scpi": 1666,
-  "revolut": 1666,
+  "scpi": 1000,
+  "revolut": 1000,
   "totaux": {
     "pea": 8645.16,
     "cto": 5785.410000000001,
     "pme": 7775.39,
-    "av": 11662,
-    "pee": 8330,
-    "livrets": 6664,
-    "scpi": 1666,
-    "revolut": 1666,
-    "total": 52193.96
+    "av": 7000,
+    "pee": 5000,
+    "livrets": 4000,
+    "scpi": 1000,
+    "revolut": 1000,
+    "total": 40205.96
   }
 }
