@@ -1,30 +1,282 @@
 {
   "meta": {
-    "date_maj": null,
+    "date_maj": "2026-05-20",
     "version": "2.0"
   },
   "cash": {
-    "pea": 0,
-    "cto": 0,
-    "pme": 0
+    "pea": 1000,
+    "cto": 100,
+    "pme": 16.38
   },
-  "pea_positions": [],
-  "cto_positions": [],
-  "pme_positions": [],
-  "av": [],
-  "pee": [],
-  "livrets": [],
-  "scpi": 0,
-  "revolut": 0,
+  "pea_positions": [
+    {
+      "nom": "PEA PROFILE OFFENSIF SELECT C",
+      "isin": "FR001400AED5",
+      "quantite": 23.62,
+      "pru": 125.17,
+      "montant": 3299.35
+    },
+    {
+      "nom": "AMUNDI STOXX EUROPE 600 BASIC RESOURCES UCITS ETF ACC",
+      "isin": "LU1834983550",
+      "quantite": 5,
+      "pru": 129.09,
+      "montant": 672.03
+    },
+    {
+      "nom": "LEGRAND",
+      "isin": "FR0010307819",
+      "quantite": 6,
+      "pru": 146.73,
+      "montant": 873.6
+    },
+    {
+      "nom": "PLANISWARE",
+      "isin": "FR001400PFU4",
+      "quantite": 15,
+      "pru": 15.73,
+      "montant": 280.5
+    },
+    {
+      "nom": "LUMIBIRD",
+      "isin": "FR0000038242",
+      "quantite": 24,
+      "pru": 23.61,
+      "montant": 529.2
+    },
+    {
+      "nom": "ISHARES EURO STOXX BANKS 30-15 UCITS ETF (DE) EUR (ACC)",
+      "isin": "DE000A2QP372",
+      "quantite": 119,
+      "pru": 16.6,
+      "montant": 2049.42
+    },
+    {
+      "nom": "SIDETRADE",
+      "isin": "FR0010202606",
+      "quantite": 2,
+      "pru": 165.02,
+      "montant": 334.4
+    },
+    {
+      "nom": "AMUNDI PEA EAU (MSCI WATER) UCITS ETF - CAPI",
+      "isin": "FR0011882364",
+      "quantite": 10,
+      "pru": 32.06,
+      "montant": 301.52
+    },
+    {
+      "nom": "LECTRA",
+      "isin": "FR0000065484",
+      "quantite": 19,
+      "pru": 16.98,
+      "montant": 305.14
+    }
+  ],
+  "cto_positions": [
+    {
+      "nom": "ISHARES CORE MSCI JAPAN IMI UCITS ETF EUR HEDGED (",
+      "isin": "IE00BKT6FV49",
+      "quantite": 40,
+      "pru": 13.8,
+      "montant": 568.48
+    },
+    {
+      "nom": "AMUNDI MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF ACC",
+      "isin": "LU1900068328",
+      "quantite": 4,
+      "pru": 92.06,
+      "montant": 376.72
+    },
+    {
+      "nom": "VINCI",
+      "isin": "FR0000125486",
+      "quantite": 4,
+      "pru": 129.48,
+      "montant": 491.8
+    },
+    {
+      "nom": "AMA CORP",
+      "isin": "GB00BNKGZC51",
+      "quantite": 5,
+      "pru": 6.6,
+      "montant": 0.55
+    },
+    {
+      "nom": "TSMC (TAIWAN SEMI.) SP ADR",
+      "isin": "US8740391003",
+      "quantite": 1,
+      "pru": 348.68,
+      "montant": 337.84
+    },
+    {
+      "nom": "HEIDELBERGMAT",
+      "isin": "DE0006047004",
+      "quantite": 2,
+      "pru": 194.23,
+      "montant": 336.7
+    },
+    {
+      "nom": "XYLEM",
+      "isin": "US98419M1009",
+      "quantite": 6,
+      "pru": 106.47,
+      "montant": 549.17
+    },
+    {
+      "nom": "AMUNDI MSCI WORLD EX EUROPE UCITS ETF - EUR",
+      "isin": "LU1681045537",
+      "quantite": 4,
+      "pru": 711.11,
+      "montant": 2938.26
+    },
+    {
+      "nom": "PENTAIR",
+      "isin": "IE00BLS09M33",
+      "quantite": 3,
+      "pru": 66.25,
+      "montant": 185.89
+    }
+  ],
+  "pme_positions": [
+    {
+      "nom": "RIVIERA",
+      "isin": "QS0004065114",
+      "quantite": 1,
+      "pru": 1000,
+      "montant": 1000
+    },
+    {
+      "nom": "EAGLESTONE FRANCE",
+      "isin": "QS0004120687",
+      "quantite": 1,
+      "pru": 1000,
+      "montant": 1000
+    },
+    {
+      "nom": "PORTEFEUILLE REDLAND",
+      "isin": "QS0004138556",
+      "quantite": 1,
+      "pru": 1000,
+      "montant": 1000
+    },
+    {
+      "nom": "OD.BHF IN.F.T.B 3D",
+      "isin": "FR001400E4E3",
+      "quantite": 10,
+      "pru": 100,
+      "montant": 1019.85
+    },
+    {
+      "nom": "MANDARINE EUROPE MICROCAP R EUR",
+      "isin": "LU1303940784",
+      "quantite": 26,
+      "pru": 24.66,
+      "montant": 729.82
+    },
+    {
+      "nom": "ALLODIS 2",
+      "isin": "QS0004122063",
+      "quantite": 1,
+      "pru": 1000,
+      "montant": 1000
+    },
+    {
+      "nom": "AM.M.III EV.A P.4D",
+      "isin": "FR001400E227",
+      "quantite": 10.05,
+      "pru": 99.54,
+      "montant": 1025.72
+    },
+    {
+      "nom": "QUINTESSENCE",
+      "isin": "QS0004062905",
+      "quantite": 1,
+      "pru": 1000,
+      "montant": 1000
+    }
+  ],
+  "av": [
+    {
+      "nom": "Fonds en euros",
+      "valeur": 1000
+    },
+    {
+      "nom": "Echiquier Agenor Mid Cap Europ",
+      "valeur": 1555
+    },
+    {
+      "nom": "Pictet Global Megatrend",
+      "valeur": 1555
+    },
+    {
+      "nom": "DWS Concept Kaldemorgen",
+      "valeur": 1555
+    },
+    {
+      "nom": "DWS Top Dividende",
+      "valeur": 1555
+    },
+    {
+      "nom": "Eurose",
+      "valeur": 1555
+    },
+    {
+      "nom": "ANDERA Dette Privée",
+      "valeur": 1555
+    }
+  ],
+  "pee": [
+    {
+      "nom": "HSBC EE EURO PME F",
+      "valeur": 1555
+    },
+    {
+      "nom": "HSBC EE ACTIONS EUROPE SOLUTIONS CLIMAT F",
+      "valeur": 1555
+    },
+    {
+      "nom": "HSBC EE ISR ACTIONS EURO F",
+      "valeur": 1555
+    },
+    {
+      "nom": "HSBC EE ISR DIVERSIFIE ET SOLIDAIRE G",
+      "valeur": 1555
+    },
+    {
+      "nom": "HSBC EE ISR ACTIONS MONDE F",
+      "valeur": 1555
+    }
+  ],
+  "livrets": [
+    {
+      "nom": "Livret A",
+      "valeur": 1555
+    },
+    {
+      "nom": "Livret $",
+      "valeur": 1555
+    },
+    {
+      "nom": "Livret euro",
+      "valeur": 1555
+    },
+    {
+      "nom": "Compte courant",
+      "valeur": 1555
+    }
+  ],
+  "scpi": 1555,
+  "revolut": 1555,
   "totaux": {
-    "pea": 0,
-    "cto": 0,
-    "pme": 0,
-    "av": 0,
-    "pee": 0,
-    "livrets": 0,
-    "scpi": 0,
-    "revolut": 0,
-    "total": 0
+    "pea": 9645.16,
+    "cto": 5885.410000000001,
+    "pme": 7791.77,
+    "av": 10330,
+    "pee": 7775,
+    "livrets": 6220,
+    "scpi": 1555,
+    "revolut": 1555,
+    "total": 50757.34
   }
 }
