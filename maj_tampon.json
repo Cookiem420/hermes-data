@@ -4,9 +4,9 @@
     "version": "2.0"
   },
   "cash": {
-    "pea": 1000,
-    "cto": 100,
-    "pme": 16.38
+    "pea": 0,
+    "cto": 0,
+    "pme": 0
   },
   "pea_positions": [
     {
@@ -199,84 +199,84 @@
   "av": [
     {
       "nom": "Fonds en euros",
-      "valeur": 1000
+      "valeur": 1666
     },
     {
       "nom": "Echiquier Agenor Mid Cap Europ",
-      "valeur": 1555
+      "valeur": 1666
     },
     {
       "nom": "Pictet Global Megatrend",
-      "valeur": 1555
+      "valeur": 1666
     },
     {
       "nom": "DWS Concept Kaldemorgen",
-      "valeur": 1555
+      "valeur": 1666.01
     },
     {
       "nom": "DWS Top Dividende",
-      "valeur": 1555
+      "valeur": 1666
     },
     {
       "nom": "Eurose",
-      "valeur": 1555
+      "valeur": 1666
     },
     {
       "nom": "ANDERA Dette Privée",
-      "valeur": 1555
+      "valeur": 1666
     }
   ],
   "pee": [
     {
       "nom": "HSBC EE EURO PME F",
-      "valeur": 1555
+      "valeur": 1666
     },
     {
       "nom": "HSBC EE ACTIONS EUROPE SOLUTIONS CLIMAT F",
-      "valeur": 1555
+      "valeur": 1666
     },
     {
       "nom": "HSBC EE ISR ACTIONS EURO F",
-      "valeur": 1555
+      "valeur": 1666
     },
     {
       "nom": "HSBC EE ISR DIVERSIFIE ET SOLIDAIRE G",
-      "valeur": 1555
+      "valeur": 1666
     },
     {
       "nom": "HSBC EE ISR ACTIONS MONDE F",
-      "valeur": 1555
+      "valeur": 1666
     }
   ],
   "livrets": [
     {
       "nom": "Livret A",
-      "valeur": 1555
+      "valeur": 1666
     },
     {
       "nom": "Livret $",
-      "valeur": 1555
+      "valeur": 1666
     },
     {
       "nom": "Livret euro",
-      "valeur": 1555
+      "valeur": 1666
     },
     {
       "nom": "Compte courant",
-      "valeur": 1555
+      "valeur": 1666
     }
   ],
-  "scpi": 1555,
-  "revolut": 1555,
+  "scpi": 1666,
+  "revolut": 1666,
   "totaux": {
-    "pea": 9645.16,
-    "cto": 5885.410000000001,
-    "pme": 7791.77,
-    "av": 10330,
-    "pee": 7775,
-    "livrets": 6220,
-    "scpi": 1555,
-    "revolut": 1555,
-    "total": 50757.34
+    "pea": 8645.16,
+    "cto": 5785.410000000001,
+    "pme": 7775.39,
+    "av": 11662.01,
+    "pee": 8330,
+    "livrets": 6664,
+    "scpi": 1666,
+    "revolut": 1666,
+    "total": 52193.97
   }
 }
