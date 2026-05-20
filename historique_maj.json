@@ -1,3 +1,18 @@
 {
-  "snapshots": []
+  "snapshots": [
+    {
+      "date": "2026-05-20",
+      "totaux": {
+        "pea": 700,
+        "cto": 9.05,
+        "pme": 16.38,
+        "av": 70000,
+        "pee": 0,
+        "livrets": 4000,
+        "scpi": 1000,
+        "revolut": 1000,
+        "total": 76725.43
+      }
+    }
+  ]
 }
