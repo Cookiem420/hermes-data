@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "date_maj": null,
+    "version": "2.0"
+  },
+  "cash": {
+    "pea": 0,
+    "cto": 0,
+    "pme": 0
+  },
+  "pea_positions": [],
+  "cto_positions": [],
+  "pme_positions": [],
+  "av": [],
+  "pee": [],
+  "livrets": [],
+  "scpi": 0,
+  "revolut": 0,
+  "totaux": {
+    "pea": 0,
+    "cto": 0,
+    "pme": 0,
+    "av": 0,
+    "pee": 0,
+    "livrets": 0,
+    "scpi": 0,
+    "revolut": 0,
+    "total": 0
+  }
+}
