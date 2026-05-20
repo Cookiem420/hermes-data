@@ -4,9 +4,9 @@
     "version": "2.0"
   },
   "cash": {
-    "pea": 707,
-    "cto": 9,
-    "pme": 16.38
+    "pea": 1500,
+    "cto": 1500,
+    "pme": 1500
   },
   "pea_positions": [
     {
@@ -140,150 +140,143 @@
   ],
   "pme_positions": [
     {
-      "nom": "ISHARES CORE MSCI JAPAN IMI UCITS ETF EUR HEDGED (",
-      "isin": "IE00BKT6FV49",
-      "quantite": 40,
-      "pru": 13.8,
-      "montant": 568.48
-    },
-    {
-      "nom": "AMUNDI MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF ACC",
-      "isin": "LU1900068328",
-      "quantite": 4,
-      "pru": 92.06,
-      "montant": 376.72
-    },
-    {
-      "nom": "VINCI",
-      "isin": "FR0000125486",
-      "quantite": 4,
-      "pru": 129.48,
-      "montant": 491.8
-    },
-    {
-      "nom": "AMA CORP",
-      "isin": "GB00BNKGZC51",
-      "quantite": 5,
-      "pru": 6.6,
-      "montant": 0.55
-    },
-    {
-      "nom": "TSMC (TAIWAN SEMI.) SP ADR",
-      "isin": "US8740391003",
+      "nom": "RIVIERA",
+      "isin": "QS0004065114",
       "quantite": 1,
-      "pru": 348.68,
-      "montant": 337.84
+      "pru": 1000,
+      "montant": 1000
     },
     {
-      "nom": "HEIDELBERGMAT",
-      "isin": "DE0006047004",
-      "quantite": 2,
-      "pru": 194.23,
-      "montant": 336.7
+      "nom": "EAGLESTONE FRANCE",
+      "isin": "QS0004120687",
+      "quantite": 1,
+      "pru": 1000,
+      "montant": 1000
     },
     {
-      "nom": "XYLEM",
-      "isin": "US98419M1009",
-      "quantite": 6,
-      "pru": 106.47,
-      "montant": 549.17
+      "nom": "PORTEFEUILLE REDLAND",
+      "isin": "QS0004138556",
+      "quantite": 1,
+      "pru": 1000,
+      "montant": 1000
     },
     {
-      "nom": "AMUNDI MSCI WORLD EX EUROPE UCITS ETF - EUR",
-      "isin": "LU1681045537",
-      "quantite": 4,
-      "pru": 711.11,
-      "montant": 2938.26
+      "nom": "OD.BHF IN.F.T.B 3D",
+      "isin": "FR001400E4E3",
+      "quantite": 10,
+      "pru": 100,
+      "montant": 1019.85
     },
     {
-      "nom": "PENTAIR",
-      "isin": "IE00BLS09M33",
-      "quantite": 3,
-      "pru": 66.25,
-      "montant": 185.89
+      "nom": "MANDARINE EUROPE MICROCAP R EUR",
+      "isin": "LU1303940784",
+      "quantite": 26,
+      "pru": 24.66,
+      "montant": 729.82
+    },
+    {
+      "nom": "ALLODIS 2",
+      "isin": "QS0004122063",
+      "quantite": 1,
+      "pru": 1000,
+      "montant": 1000
+    },
+    {
+      "nom": "AM.M.III EV.A P.4D",
+      "isin": "FR001400E227",
+      "quantite": 10.05,
+      "pru": 99.54,
+      "montant": 1025.72
+    },
+    {
+      "nom": "QUINTESSENCE",
+      "isin": "QS0004062905",
+      "quantite": 1,
+      "pru": 1000,
+      "montant": 1000
     }
   ],
   "av": [
     {
       "nom": "Fonds en euros",
-      "valeur": 1500
+      "valeur": 2000
     },
     {
       "nom": "Echiquier Agenor Mid Cap Europ",
-      "valeur": 1500
+      "valeur": 2000
     },
     {
       "nom": "Pictet Global Megatrend",
-      "valeur": 1500
+      "valeur": 2000
     },
     {
       "nom": "DWS Concept Kaldemorgen",
-      "valeur": 1500
+      "valeur": 2000
     },
     {
       "nom": "DWS Top Dividende",
-      "valeur": 1500
+      "valeur": 2000
     },
     {
       "nom": "Eurose",
-      "valeur": 1500
+      "valeur": 2000
     },
     {
       "nom": "ANDERA Dette Privée",
-      "valeur": 1500
+      "valeur": 2000
     }
   ],
   "pee": [
     {
       "nom": "HSBC EE EURO PME F",
-      "valeur": 1500
+      "valeur": 2000
     },
     {
       "nom": "HSBC EE ACTIONS EUROPE SOLUTIONS CLIMAT F",
-      "valeur": 1500
+      "valeur": 2000
     },
     {
       "nom": "HSBC EE ISR ACTIONS EURO F",
-      "valeur": 1500
+      "valeur": 2000
     },
     {
       "nom": "HSBC EE ISR DIVERSIFIE ET SOLIDAIRE G",
-      "valeur": 1500
+      "valeur": 2000
     },
     {
       "nom": "HSBC EE ISR ACTIONS MONDE F",
-      "valeur": 1500
+      "valeur": 2000
     }
   ],
   "livrets": [
     {
       "nom": "Livret A",
-      "valeur": 1500
+      "valeur": 2000
     },
     {
       "nom": "Livret $",
-      "valeur": 1500
+      "valeur": 2000
     },
     {
       "nom": "Livret euro",
-      "valeur": 1500
+      "valeur": 2000
     },
     {
       "nom": "Compte courant",
-      "valeur": 1500
+      "valeur": 2000
     }
   ],
-  "scpi": 1500,
-  "revolut": 1500,
+  "scpi": 2000,
+  "revolut": 2000,
   "totaux": {
-    "pea": 9352.16,
-    "cto": 5794.410000000001,
-    "pme": 5801.790000000001,
-    "av": 10500,
-    "pee": 7500,
-    "livrets": 6000,
-    "scpi": 1500,
-    "revolut": 1500,
-    "total": 47948.36
+    "pea": 10145.16,
+    "cto": 7285.410000000001,
+    "pme": 9275.39,
+    "av": 14000,
+    "pee": 10000,
+    "livrets": 8000,
+    "scpi": 2000,
+    "revolut": 2000,
+    "total": 62705.96
   }
 }
