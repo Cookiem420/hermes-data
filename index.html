@@ -236,10 +236,62 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans);font-size:13
 .toast.show{transform:translateY(0);opacity:1}
 
 @media(min-width:768px){
-  .main{padding-left:76px;padding-right:24px;padding-bottom:24px;max-width:1200px}
-  .nav{width:60px;height:100vh;top:0;left:0;right:auto;bottom:auto;flex-direction:column;border-top:none;border-right:1px solid var(--border);padding:calc(var(--hdr)+16px) 0 16px}
-  .ni{padding:14px 0}
-  .kpis{grid-template-columns:repeat(4,1fr)}
+  :root{--nav-w:200px;--hdr:52px}
+
+  /* Sidebar */
+  .nav{
+    position:fixed;top:0;left:0;bottom:0;right:auto;
+    width:var(--nav-w);height:100vh;
+    flex-direction:column;align-items:stretch;
+    border-top:none;border-right:1px solid var(--border);
+    padding-top:calc(var(--hdr) + 8px);
+    padding-bottom:16px;
+    overflow-y:auto;
+  }
+  .ni{
+    flex:none;flex-direction:row;align-items:center;justify-content:flex-start;
+    padding:10px 16px;gap:10px;
+    font-size:12px;letter-spacing:.2px;text-transform:none;
+    border-radius:0;text-align:left;
+    border-left:2px solid transparent;
+  }
+  .ni.active{
+    color:var(--blue);
+    background:rgba(56,139,253,.08);
+    border-left-color:var(--blue);
+  }
+  .ni .ic{font-size:16px;width:20px;text-align:center;flex-shrink:0}
+
+  /* Header étend sur toute la largeur */
+  .hdr{left:0}
+
+  /* Contenu principal décalé */
+  .main{
+    margin-left:var(--nav-w);
+    padding-top:calc(var(--hdr) + 20px);
+    padding-bottom:32px;
+    padding-left:28px;
+    padding-right:28px;
+    max-width:none;
+  }
+
+  /* KPIs 4 colonnes */
+  .kpis{grid-template-columns:repeat(4,1fr);gap:10px}
+
+  /* Tableaux */
+  .pt th,.pt td{padding:10px 14px}
+
+  /* Cards */
+  .card{margin-bottom:10px}
+
+  /* Toast repositionné */
+  .toast{left:calc(var(--nav-w) + 20px);right:28px;bottom:20px}
+}
+
+@media(min-width:1100px){
+  :root{--nav-w:220px}
+  .main{padding-left:36px;padding-right:36px}
+  .kpis{gap:12px}
 }
 </style>
 </head>
@@ -285,11 +337,11 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans);font-size:13
 
 <!-- NAV -->
 <div class="nav">
-  <div class="ni active" id="nav-dashboard" onclick="sw('dashboard',this,'#388bfd')"><div class="ic">◈</div><div>Passif</div></div>
+  <div class="ni active" id="nav-dashboard" onclick="sw('dashboard',this,'#388bfd')"><div class="ic">◈</div><div>Dashboard</div></div>
   <div class="ni" id="nav-actions" onclick="sw('actions',this,'#f85149')"><div class="ic">⚡</div><div>Actions</div></div>
-  <div class="ni" id="nav-watchlist" onclick="sw('watchlist',this,'#3fb950')"><div class="ic">◎</div><div>Watch</div></div>
+  <div class="ni" id="nav-watchlist" onclick="sw('watchlist',this,'#3fb950')"><div class="ic">◎</div><div>Watchlist</div></div>
   <div class="ni" id="nav-historique" onclick="sw('historique',this,'#a371f7')"><div class="ic">◷</div><div>Historique</div></div>
-  <div class="ni" id="nav-maj" onclick="sw('maj',this,'#d29922')"><div class="ic">↑</div><div>MAJ</div></div>
+  <div class="ni" id="nav-maj" onclick="sw('maj',this,'#d29922')"><div class="ic">↑</div><div>Mise à jour</div></div>
 </div>
 
 <div class="main">
