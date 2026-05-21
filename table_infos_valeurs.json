@@ -7,7 +7,7 @@
     "BE0003878957": {
       "isin": "BE0003878957",
       "nom": "X-FAB Silicon Foundries",
-      "quantite": 50,
+      "quantite": 0,
       "enveloppe": "PEA",
       "cours": 7.42,
       "pru": 0,
@@ -21,11 +21,11 @@
       "risque": "Élevé",
       "categorie": "Croissance",
       "thematique": "Tech",
-      "ancien_etat": "BUILDING",
-      "etat_actuel": "FULL",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0,
+      "ancien_etat": "WATCHLIST",
+      "etat_actuel": "BUILDING",
+      "achat_vente": "ACHAT",
+      "q_achat_vente": 50,
+      "prix_achat_vente": 7.2,
       "historique_refus": []
     },
     "IE00BLS09M33": {
@@ -36,9 +36,9 @@
       "cours": 58.4,
       "pru": 72,
       "zones": {
-        "basse_min": 52,
-        "basse_max": 64,
-        "surveillance": 73,
+        "basse_min": 51,
+        "basse_max": 52,
+        "surveillance": 60,
         "complement": 83,
         "breakout": 98
       },
@@ -47,17 +47,10 @@
       "thematique": "Eau & Env.",
       "ancien_etat": "FULL",
       "etat_actuel": "EXIT_READY",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0,
-      "historique_refus": [
-        {
-          "date": "2026-05-21",
-          "signal": "VENTE",
-          "motif": "TIMING",
-          "notes": "ko"
-        }
-      ]
+      "achat_vente": "VENTE",
+      "q_achat_vente": 3,
+      "prix_achat_vente": 58.5,
+      "historique_refus": []
     },
     "FR0010307819": {
       "isin": "FR0010307819",
@@ -67,15 +60,15 @@
       "cours": 0,
       "pru": 0,
       "zones": {
-        "basse_min": 12,
-        "basse_max": 13,
-        "surveillance": 15,
-        "complement": 17,
-        "breakout": 18
+        "basse_min": 0,
+        "basse_max": 0,
+        "surveillance": 0,
+        "complement": 0,
+        "breakout": 0
       },
-      "risque": "Modéré",
-      "categorie": "ETF_sectoriel",
-      "thematique": "coucou",
+      "risque": null,
+      "categorie": null,
+      "thematique": null,
       "ancien_etat": null,
       "etat_actuel": "FULL",
       "achat_vente": null,
