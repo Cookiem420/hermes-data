@@ -7,7 +7,7 @@
     "BE0003878957": {
       "isin": "BE0003878957",
       "nom": "X-FAB Silicon Foundries",
-      "quantite": 0,
+      "quantite": 50,
       "enveloppe": "PEA",
       "cours": 7.42,
       "pru": 0,
@@ -21,11 +21,11 @@
       "risque": "Élevé",
       "categorie": "Croissance",
       "thematique": "Tech",
-      "ancien_etat": "WATCHLIST",
-      "etat_actuel": "BUILDING",
-      "achat_vente": "ACHAT",
-      "q_achat_vente": 50,
-      "prix_achat_vente": 7.2,
+      "ancien_etat": "BUILDING",
+      "etat_actuel": "FULL",
+      "achat_vente": null,
+      "q_achat_vente": 0,
+      "prix_achat_vente": 0,
       "historique_refus": []
     },
     "IE00BLS09M33": {
