@@ -1,661 +1,208 @@
 {
   "meta": {
-    "description": "Table de test — 20/05/2026",
+    "description": "Table infos valeurs — Hermès V2",
     "derniere_maj": "2026-05-21"
   },
   "valeurs": {
-    "BE0003878957": {
-      "isin": "BE0003878957",
-      "nom": "X-FAB Silicon Foundries",
-      "quantite": 50,
-      "enveloppe": "PEA",
-      "cours": 7.42,
-      "pru": 0,
-      "zones": {
-        "basse_min": 5.5,
-        "basse_max": 7,
-        "surveillance": 8.5,
-        "complement": 10,
-        "breakout": 13
-      },
-      "risque": "Élevé",
-      "categorie": "Croissance",
-      "thematique": "Tech",
-      "ancien_etat": "BUILDING",
-      "etat_actuel": "FULL",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0,
-      "historique_refus": []
-    },
-    "IE00BLS09M33": {
-      "isin": "IE00BLS09M33",
-      "nom": "Pentair",
-      "quantite": 3,
-      "enveloppe": "CTO",
-      "cours": 58.4,
-      "pru": 72,
-      "zones": {
-        "basse_min": 52,
-        "basse_max": 64,
-        "surveillance": 73,
-        "complement": 83,
-        "breakout": 98
-      },
-      "risque": "Modéré",
-      "categorie": "Qualite",
-      "thematique": "Eau & Env.",
-      "ancien_etat": "FULL",
-      "etat_actuel": "EXIT_READY",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0,
-      "historique_refus": [
-        {
-          "date": "2026-05-21",
-          "signal": "VENTE",
-          "motif": "TIMING",
-          "notes": "ko"
-        }
-      ]
-    },
-    "FR0010307819": {
-      "isin": "FR0010307819",
-      "nom": "Legrand",
-      "quantite": 6,
-      "enveloppe": "PEA",
-      "cours": 0,
-      "pru": 0,
-      "zones": {
-        "basse_min": 12,
-        "basse_max": 13,
-        "surveillance": 15,
-        "complement": 17,
-        "breakout": 18
-      },
-      "risque": "Modéré",
-      "categorie": "ETF_sectoriel",
-      "thematique": "coucou",
-      "ancien_etat": null,
-      "etat_actuel": "FULL",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
-    },
-    "FR0000038242": {
-      "isin": "FR0000038242",
-      "nom": "Lumibird",
-      "quantite": 24,
-      "enveloppe": "PEA",
-      "cours": 0,
-      "pru": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": "Élevé",
-      "categorie": null,
-      "thematique": null,
-      "ancien_etat": null,
-      "etat_actuel": "WEAKENING_STRUCT",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
-    },
-    "US8740391003": {
-      "isin": "US8740391003",
-      "nom": "TSMC ADR",
-      "quantite": 1,
-      "enveloppe": "CTO",
-      "cours": 192.3,
-      "pru": 155,
-      "zones": {
-        "basse_min": 145,
-        "basse_max": 175,
-        "surveillance": 200,
-        "complement": 230,
-        "breakout": 270
-      },
-      "risque": "Élevé",
-      "categorie": "Croissance",
-      "thematique": "Tech",
-      "ancien_etat": "BUILDING",
-      "etat_actuel": "FULL",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
-    },
     "FR001400AED5": {
-      "isin": "FR001400AED5",
-      "nom": "PEA PROFILE OFFENSIF SELECT C",
-      "quantite": 23.62,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+      "isin": "FR001400AED5", "nom": "PEA PROFILE OFFENSIF SELECT C",
+      "quantite": 23.62, "enveloppe": "PEA", "cours": 0,
+      "zones": {"basse_min":95,"basse_max":105,"surveillance":115,"complement":125,"breakout":140},
+      "risque": "Modéré", "categorie": "ETF_large", "thematique": "Diversifié",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
     "LU1834983550": {
-      "isin": "LU1834983550",
-      "nom": "AMUNDI STOXX EUROPE 600 BASIC RESOURCES UCITS ETF ACC",
-      "quantite": 7,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+      "isin": "LU1834983550", "nom": "AMUNDI STOXX EUROPE 600 BASIC RESOURCES UCITS ETF ACC",
+      "quantite": 7, "enveloppe": "PEA", "cours": 0,
+      "zones": {"basse_min":180,"basse_max":210,"surveillance":240,"complement":270,"breakout":310},
+      "risque": "Élevé", "categorie": "ETF_sectoriel", "thematique": "Matières 1ères",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
+    },
+    "FR0010307819": {
+      "isin": "FR0010307819", "nom": "LEGRAND",
+      "quantite": 6, "enveloppe": "PEA", "cours": 0,
+      "zones": {"basse_min":82,"basse_max":92,"surveillance":105,"complement":118,"breakout":135},
+      "risque": "Modéré", "categorie": "Qualite", "thematique": "Infrastructure",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
     "FR001400PFU4": {
-      "isin": "FR001400PFU4",
-      "nom": "PLANISWARE",
-      "quantite": 15,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+      "isin": "FR001400PFU4", "nom": "PLANISWARE",
+      "quantite": 15, "enveloppe": "PEA", "cours": 0,
+      "zones": {"basse_min":18,"basse_max":22,"surveillance":27,"complement":32,"breakout":40},
+      "risque": "Élevé", "categorie": "Croissance", "thematique": "Tech",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
+    },
+    "FR0000038242": {
+      "isin": "FR0000038242", "nom": "LUMIBIRD",
+      "quantite": 24, "enveloppe": "PEA", "cours": 0,
+      "zones": {"basse_min":9,"basse_max":11,"surveillance":14,"complement":17,"breakout":22},
+      "risque": "Élevé", "categorie": "Croissance", "thematique": "Défense",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
     "DE000A2QP372": {
-      "isin": "DE000A2QP372",
-      "nom": "ISHARES EURO STOXX BANKS 30-15 UCITS ETF (DE) EUR (ACC)",
-      "quantite": 119,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
-    },
-    "BE0974310428": {
-      "isin": "BE0974310428",
-      "nom": "X-FAB SILICON",
-      "quantite": 40,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+      "isin": "DE000A2QP372", "nom": "ISHARES EURO STOXX BANKS 30-15 UCITS ETF (DE) EUR (ACC)",
+      "quantite": 119, "enveloppe": "PEA", "cours": 0,
+      "zones": {"basse_min":16,"basse_max":19,"surveillance":23,"complement":27,"breakout":32},
+      "risque": "Modéré", "categorie": "ETF_sectoriel", "thematique": "Finance",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
     "FR0010202606": {
-      "isin": "FR0010202606",
-      "nom": "SIDETRADE",
-      "quantite": 2,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+      "isin": "FR0010202606", "nom": "SIDETRADE",
+      "quantite": 2, "enveloppe": "PEA", "cours": 0,
+      "zones": {"basse_min":55,"basse_max":68,"surveillance":82,"complement":96,"breakout":115},
+      "risque": "Élevé", "categorie": "Croissance", "thematique": "Tech",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
     "FR0011882364": {
-      "isin": "FR0011882364",
-      "nom": "AMUNDI PEA EAU (MSCI WATER) UCITS ETF - CAPI",
-      "quantite": 10,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+      "isin": "FR0011882364", "nom": "AMUNDI PEA EAU (MSCI WATER) UCITS ETF - CAPI",
+      "quantite": 10, "enveloppe": "PEA", "cours": 0,
+      "zones": {"basse_min":38,"basse_max":44,"surveillance":50,"complement":56,"breakout":65},
+      "risque": "Modéré", "categorie": "ETF_sectoriel", "thematique": "Eau & Env.",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
     "FR0000065484": {
-      "isin": "FR0000065484",
-      "nom": "LECTRA",
-      "quantite": 19,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+      "isin": "FR0000065484", "nom": "LECTRA",
+      "quantite": 19, "enveloppe": "PEA", "cours": 0,
+      "zones": {"basse_min":18,"basse_max":22,"surveillance":27,"complement":32,"breakout":40},
+      "risque": "Modéré", "categorie": "Qualite", "thematique": "Tech",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
-    "IE00BKT6FV49": {
-      "isin": "IE00BKT6FV49",
-      "nom": "ISHARES CORE MSCI JAPAN IMI UCITS ETF EUR HEDGED (",
-      "quantite": 40,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
-    },
-    "LU1900068328": {
-      "isin": "LU1900068328",
-      "nom": "AMUNDI MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF ACC",
-      "quantite": 4,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+    "BE0003878957": {
+      "isin": "BE0003878957", "nom": "X-FAB SILICON FOUNDRIES",
+      "quantite": 50, "enveloppe": "PEA", "cours": 0,
+      "zones": {"basse_min":5.5,"basse_max":7.0,"surveillance":8.5,"complement":10.5,"breakout":13.5},
+      "risque": "Élevé", "categorie": "Cyclique", "thematique": "Tech",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
     "FR0000125486": {
-      "isin": "FR0000125486",
-      "nom": "VINCI",
-      "quantite": 4,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+      "isin": "FR0000125486", "nom": "VINCI",
+      "quantite": 4, "enveloppe": "CTO", "cours": 0,
+      "zones": {"basse_min":95,"basse_max":108,"surveillance":120,"complement":133,"breakout":150},
+      "risque": "Modéré", "categorie": "Qualite", "thematique": "Infrastructure",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
-    "GB00BNKGZC51": {
-      "isin": "GB00BNKGZC51",
-      "nom": "AMA CORP",
-      "quantite": 5,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
-    },
-    "DE0006047004": {
-      "isin": "DE0006047004",
-      "nom": "HEIDELBERGMAT",
-      "quantite": 2,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+    "US8740391003": {
+      "isin": "US8740391003", "nom": "TSMC ADR",
+      "quantite": 1, "enveloppe": "CTO", "cours": 0,
+      "zones": {"basse_min":140,"basse_max":170,"surveillance":200,"complement":235,"breakout":280},
+      "risque": "Élevé", "categorie": "Croissance", "thematique": "Tech",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
     "US98419M1009": {
-      "isin": "US98419M1009",
-      "nom": "XYLEM",
-      "quantite": 6,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+      "isin": "US98419M1009", "nom": "XYLEM",
+      "quantite": 6, "enveloppe": "CTO", "cours": 0,
+      "zones": {"basse_min":95,"basse_max":112,"surveillance":130,"complement":148,"breakout":170},
+      "risque": "Modéré", "categorie": "Qualite", "thematique": "Eau & Env.",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
+    },
+    "DE0006047004": {
+      "isin": "DE0006047004", "nom": "HEIDELBERGMAT",
+      "quantite": 2, "enveloppe": "CTO", "cours": 0,
+      "zones": {"basse_min":95,"basse_max":115,"surveillance":135,"complement":155,"breakout":185},
+      "risque": "Élevé", "categorie": "Cyclique", "thematique": "Matières 1ères",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
     "LU1681045537": {
-      "isin": "LU1681045537",
-      "nom": "AMUNDI MSCI WORLD EX EUROPE UCITS ETF - EUR",
-      "quantite": 4,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+      "isin": "LU1681045537", "nom": "AMUNDI MSCI WORLD EX EUROPE UCITS ETF - EUR",
+      "quantite": 4, "enveloppe": "CTO", "cours": 0,
+      "zones": {"basse_min":490,"basse_max":545,"surveillance":610,"complement":675,"breakout":760},
+      "risque": "Modéré", "categorie": "ETF_large", "thematique": "Global",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
-    "QS0004065114": {
-      "isin": "QS0004065114",
-      "nom": "RIVIERA",
-      "quantite": 1,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+    "IE00BLS09M33": {
+      "isin": "IE00BLS09M33", "nom": "PENTAIR",
+      "quantite": 3, "enveloppe": "CTO", "cours": 0,
+      "zones": {"basse_min":50,"basse_max":62,"surveillance":74,"complement":86,"breakout":100},
+      "risque": "Modéré", "categorie": "Qualite", "thematique": "Eau & Env.",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
-    "QS0004120687": {
-      "isin": "QS0004120687",
-      "nom": "EAGLESTONE FRANCE",
-      "quantite": 1,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+    "IE00BKT6FV49": {
+      "isin": "IE00BKT6FV49", "nom": "ISHARES CORE MSCI JAPAN IMI UCITS ETF EUR HEDGED",
+      "quantite": 40, "enveloppe": "CTO", "cours": 0,
+      "zones": {"basse_min":7.2,"basse_max":8.3,"surveillance":9.5,"complement":10.8,"breakout":12.5},
+      "risque": "Modéré", "categorie": "ETF_large", "thematique": "Asie",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
-    "QS0004138556": {
-      "isin": "QS0004138556",
-      "nom": "PORTEFEUILLE REDLAND",
-      "quantite": 1,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+    "LU1900068328": {
+      "isin": "LU1900068328", "nom": "AMUNDI MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF ACC",
+      "quantite": 4, "enveloppe": "CTO", "cours": 0,
+      "zones": {"basse_min":50,"basse_max":59,"surveillance":68,"complement":78,"breakout":92},
+      "risque": "Élevé", "categorie": "ETF_large", "thematique": "Asie",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
-    "FR001400E4E3": {
-      "isin": "FR001400E4E3",
-      "nom": "OD.BHF IN.F.T.B 3D",
-      "quantite": 10,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+    "GB00BNKGZC51": {
+      "isin": "GB00BNKGZC51", "nom": "AMA CORP",
+      "quantite": 5, "enveloppe": "CTO", "cours": 0,
+      "zones": {"basse_min":1.10,"basse_max":1.35,"surveillance":1.65,"complement":1.95,"breakout":2.40},
+      "risque": "Spéculatif", "categorie": "Speculatif", "thematique": "Tech",
+      "ancien_etat": null, "etat_actuel": "FULL",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
-    "LU1303940784": {
-      "isin": "LU1303940784",
-      "nom": "MANDARINE EUROPE MICROCAP R EUR",
-      "quantite": 26,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+    "FR0014004QR6": {
+      "isin": "FR0014004QR6", "nom": "EXOSENS",
+      "quantite": 0, "enveloppe": "PEA", "cours": 0,
+      "zones": {"basse_min":18,"basse_max":22,"surveillance":28,"complement":34,"breakout":42},
+      "risque": "Élevé", "categorie": "Croissance", "thematique": "Défense",
+      "ancien_etat": null, "etat_actuel": "WATCHLIST",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
-    "QS0004122063": {
-      "isin": "QS0004122063",
-      "nom": "ALLODIS 2",
-      "quantite": 1,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+    "FR0011341205": {
+      "isin": "FR0011341205", "nom": "NANOBIOTIX",
+      "quantite": 0, "enveloppe": "PEA", "cours": 0,
+      "zones": {"basse_min":5.5,"basse_max":7.0,"surveillance":9.0,"complement":11.5,"breakout":15.0},
+      "risque": "Spéculatif", "categorie": "Speculatif", "thematique": "Santé",
+      "ancien_etat": null, "etat_actuel": "WATCHLIST",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
-    "FR001400E227": {
-      "isin": "FR001400E227",
-      "nom": "AM.M.III EV.A P.4D",
-      "quantite": 10.05,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+    "FR0010096354": {
+      "isin": "FR0010096354", "nom": "ABIVAX",
+      "quantite": 0, "enveloppe": "PEA", "cours": 0,
+      "zones": {"basse_min":8.5,"basse_max":11.0,"surveillance":14.5,"complement":18.5,"breakout":25.0},
+      "risque": "Spéculatif", "categorie": "Speculatif", "thematique": "Santé",
+      "ancien_etat": null, "etat_actuel": "WATCHLIST",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
-    "QS0004062905": {
-      "isin": "QS0004062905",
-      "nom": "QUINTESSENCE",
-      "quantite": 1,
-      "cours": 0,
-      "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "enveloppe": "À définir",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0
+    "DE000HAG0005": {
+      "isin": "DE000HAG0005", "nom": "HENSOLDT",
+      "quantite": 0, "enveloppe": "CTO", "cours": 0,
+      "zones": {"basse_min":32,"basse_max":39,"surveillance":47,"complement":56,"breakout":70},
+      "risque": "Élevé", "categorie": "Croissance", "thematique": "Défense",
+      "ancien_etat": null, "etat_actuel": "WATCHLIST",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     },
-    "FR0000120172": {
-      "isin": "FR0000120172",
-      "nom": "",
-      "quantite": 2,
-      "enveloppe": "PEA",
-      "cours": 0,
-      "zones": {
-        "basse_min": 1,
-        "basse_max": 3,
-        "surveillance": 4,
-        "complement": 7,
-        "breakout": 9
-      },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
-      "ancien_etat": null,
-      "etat_actuel": "FULL",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0,
-      "historique_refus": []
+    "FR0010331421": {
+      "isin": "FR0010331421", "nom": "INNATE PHARMA",
+      "quantite": 0, "enveloppe": "PEA", "cours": 0,
+      "zones": {"basse_min":2.8,"basse_max":3.5,"surveillance":4.5,"complement":5.8,"breakout":7.5},
+      "risque": "Spéculatif", "categorie": "Speculatif", "thematique": "Santé",
+      "ancien_etat": null, "etat_actuel": "WATCHLIST",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
+    },
+    "FR0004007813": {
+      "isin": "FR0004007813", "nom": "EXAIL TECHNOLOGIES",
+      "quantite": 0, "enveloppe": "PEA", "cours": 0,
+      "zones": {"basse_min":22,"basse_max":27,"surveillance":33,"complement":40,"breakout":50},
+      "risque": "Élevé", "categorie": "Croissance", "thematique": "Défense",
+      "ancien_etat": null, "etat_actuel": "WATCHLIST",
+      "achat_vente": null, "q_achat_vente": 0, "prix_achat_vente": 0, "historique_refus": []
     }
   }
 }
