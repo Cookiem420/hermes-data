@@ -585,15 +585,15 @@
       "quantite": 40,
       "cours": 0,
       "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
+        "basse_min": 6.76,
+        "basse_max": 7.34,
+        "surveillance": 7.51,
+        "complement": 8.26,
+        "breakout": 6.64
       },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
+      "risque": "Spéculatif",
+      "categorie": "Speculatif",
+      "thematique": "Tech",
       "enveloppe": "À définir",
       "ancien_etat": null,
       "etat_actuel": "NOUVEAU",
