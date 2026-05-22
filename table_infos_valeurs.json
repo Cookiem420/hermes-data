@@ -607,7 +607,7 @@
       "quantite": 1,
       "cours": 0,
       "zones": {
-        "basse_min": 0,
+        "basse_min": 1000,
         "basse_max": 0,
         "surveillance": 0,
         "complement": 0,
