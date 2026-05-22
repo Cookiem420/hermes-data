@@ -1,11 +1,11 @@
 {
   "meta": {
-    "date_maj": "2026-05-21",
+    "date_maj": "2026-05-22",
     "version": "2.0"
   },
   "cash": {
-    "pea": 139.39,
-    "cto": 9.6,
+    "pea": 200,
+    "cto": 9.5,
     "pme": 16.38
   },
   "pea_positions": [
@@ -206,53 +206,49 @@
   "av": [
     {
       "nom": "Fonds en euros",
-      "valeur": 10165.22
-    },
-    {
-      "nom": "Echiquier Agenor Mid Cap Europ",
-      "valeur": 2185.26
+      "valeur": 10125.52
     },
     {
       "nom": "Pictet Global Megatrend",
-      "valeur": 2145.8
+      "valeur": 2167.5
     },
     {
       "nom": "DWS Concept Kaldemorgen",
-      "valeur": 2050.29
+      "valeur": 2053.02
     },
     {
       "nom": "DWS Top Dividende",
-      "valeur": 2036.14
+      "valeur": 3754.9
     },
     {
       "nom": "Eurose",
-      "valeur": 1229.86
+      "valeur": 620.02
     },
     {
       "nom": "ANDERA Dette Privée",
-      "valeur": 817.71
+      "valeur": 1962.21
     }
   ],
   "pee": [
     {
       "nom": "HSBC EE EURO PME F",
-      "valeur": 1114.36
+      "valeur": 1140.95
     },
     {
       "nom": "HSBC EE ACTIONS EUROPE SOLUTIONS CLIMAT F",
-      "valeur": 1345.88
+      "valeur": 1370.58
     },
     {
       "nom": "HSBC EE ISR ACTIONS EURO F",
-      "valeur": 1834.87
+      "valeur": 1861.66
     },
     {
       "nom": "HSBC EE ISR DIVERSIFIE ET SOLIDAIRE G",
-      "valeur": 521.49
+      "valeur": 525.4
     },
     {
       "nom": "HSBC EE ISR ACTIONS MONDE F",
-      "valeur": 968.49
+      "valeur": 979.32
     }
   ],
   "livrets": [
@@ -262,28 +258,28 @@
     },
     {
       "nom": "Livret $",
-      "valeur": 2963.2
+      "valeur": 2779.94
     },
     {
       "nom": "Livret euro",
-      "valeur": 22.2
+      "valeur": 14.36
     },
     {
       "nom": "Compte courant",
-      "valeur": 7.44
+      "valeur": 66.66
     }
   ],
   "scpi": 7298.15,
-  "revolut": 1132.14,
+  "revolut": 1144.46,
   "totaux": {
-    "pea": 9517.519999999999,
-    "cto": 5863.05,
+    "pea": 9578.13,
+    "cto": 5862.95,
     "pme": 7792,
-    "av": 20630.28,
-    "pee": 5785.089999999999,
-    "livrets": 12141.840000000002,
+    "av": 20683.170000000002,
+    "pee": 5877.909999999999,
+    "livrets": 12009.960000000001,
     "scpi": 7298.15,
-    "revolut": 1132.14,
-    "total": 70160.06999999999
+    "revolut": 1144.46,
+    "total": 70246.73
   }
 }
