@@ -683,14 +683,14 @@
       "quantite": 1,
       "cours": 0,
       "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
+        "basse_min": 1000,
+        "basse_max": 1000,
+        "surveillance": 1000,
+        "complement": 1000,
+        "breakout": 1000
       },
       "risque": "Élevé",
-      "categorie": "Crowdfunding",
+      "categorie": "Croissance",
       "thematique": "Immobilier",
       "enveloppe": "PEA-PME",
       "ancien_etat": null,
