@@ -1695,15 +1695,5 @@
       "derniere_valorisation": 0,
       "cours_timestamp": null
     }
-  },
-  "_test_backup": {
-    "FR0010307819": {
-      "achat_vente": "ACHAT",
-      "q_achat_vente": 4,
-      "prix_achat_vente": 87.5,
-      "etat_actuel": "BUILDING",
-      "signal_id": "TEST_2026_05_22",
-      "signal_sent_at": "2026-05-22"
-    }
   }
 }
