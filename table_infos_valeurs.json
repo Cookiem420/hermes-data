@@ -755,11 +755,11 @@
       "quantite": 26,
       "cours": 0,
       "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
+        "basse_min": 24.24,
+        "basse_max": 27.1,
+        "surveillance": 28.52,
+        "complement": 29.95,
+        "breakout": 32.8
       },
       "risque": "Élevé",
       "categorie": "Qualite",
