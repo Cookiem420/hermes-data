@@ -27,7 +27,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "LU1834983550": {
       "isin": "LU1834983550",
@@ -52,7 +65,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "FR0010307819": {
       "isin": "FR0010307819",
@@ -77,7 +103,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "FR001400PFU4": {
       "isin": "FR001400PFU4",
@@ -102,7 +141,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "FR0000038242": {
       "isin": "FR0000038242",
@@ -127,7 +179,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "DE000A2QP372": {
       "isin": "DE000A2QP372",
@@ -152,7 +217,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "FR0010202606": {
       "isin": "FR0010202606",
@@ -177,7 +255,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "FR0011882364": {
       "isin": "FR0011882364",
@@ -202,7 +293,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "FR0000065484": {
       "isin": "FR0000065484",
@@ -227,7 +331,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "BE0003878957": {
       "isin": "BE0003878957",
@@ -252,7 +369,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "FR0000125486": {
       "isin": "FR0000125486",
@@ -277,7 +407,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "US8740391003": {
       "isin": "US8740391003",
@@ -302,7 +445,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "US98419M1009": {
       "isin": "US98419M1009",
@@ -327,7 +483,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "DE0006047004": {
       "isin": "DE0006047004",
@@ -352,7 +521,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "LU1681045537": {
       "isin": "LU1681045537",
@@ -377,7 +559,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "IE00BLS09M33": {
       "isin": "IE00BLS09M33",
@@ -402,7 +597,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "IE00BKT6FV49": {
       "isin": "IE00BKT6FV49",
@@ -427,7 +635,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "LU1900068328": {
       "isin": "LU1900068328",
@@ -452,7 +673,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "GB00BNKGZC51": {
       "isin": "GB00BNKGZC51",
@@ -477,7 +711,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "FR0014004QR6": {
       "isin": "FR0014004QR6",
@@ -502,7 +749,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "FR0011341205": {
       "isin": "FR0011341205",
@@ -527,7 +787,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "FR0010096354": {
       "isin": "FR0010096354",
@@ -552,7 +825,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "DE000HAG0005": {
       "isin": "DE000HAG0005",
@@ -577,7 +863,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "FR0010331421": {
       "isin": "FR0010331421",
@@ -602,7 +901,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "FR0004007813": {
       "isin": "FR0004007813",
@@ -627,7 +939,20 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "BE0974310428": {
       "isin": "BE0974310428",
@@ -635,14 +960,14 @@
       "quantite": 40,
       "cours": 0,
       "zones": {
-        "basse_min": 6.76,
-        "basse_max": 7.34,
-        "surveillance": 7.51,
-        "complement": 8.26,
-        "breakout": 8.64
+        "basse_min": 0,
+        "basse_max": 0,
+        "surveillance": 0,
+        "complement": 0,
+        "breakout": 0
       },
       "risque": "Élevé",
-      "categorie": "Speculatif",
+      "categorie": "Cyclique",
       "thematique": "Tech",
       "enveloppe": "PEA",
       "ancien_etat": null,
@@ -651,7 +976,20 @@
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "QS0004065114": {
       "isin": "QS0004065114",
@@ -659,14 +997,14 @@
       "quantite": 1,
       "cours": 0,
       "zones": {
-        "basse_min": 1000,
-        "basse_max": 1000,
-        "surveillance": 1000,
-        "complement": 1000,
-        "breakout": 1000
+        "basse_min": 0,
+        "basse_max": 0,
+        "surveillance": 0,
+        "complement": 0,
+        "breakout": 0
       },
       "risque": "Élevé",
-      "categorie": "Croissance",
+      "categorie": "Crowdfunding",
       "thematique": "Immobilier",
       "enveloppe": "PEA-PME",
       "ancien_etat": null,
@@ -675,7 +1013,20 @@
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "QS0004120687": {
       "isin": "QS0004120687",
@@ -683,14 +1034,14 @@
       "quantite": 1,
       "cours": 0,
       "zones": {
-        "basse_min": 1000,
-        "basse_max": 1000,
-        "surveillance": 1000,
-        "complement": 1000,
-        "breakout": 1000
+        "basse_min": 0,
+        "basse_max": 0,
+        "surveillance": 0,
+        "complement": 0,
+        "breakout": 0
       },
       "risque": "Élevé",
-      "categorie": "Croissance",
+      "categorie": "Crowdfunding",
       "thematique": "Immobilier",
       "enveloppe": "PEA-PME",
       "ancien_etat": null,
@@ -699,7 +1050,20 @@
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "QS0004138556": {
       "isin": "QS0004138556",
@@ -707,14 +1071,14 @@
       "quantite": 1,
       "cours": 0,
       "zones": {
-        "basse_min": 1000,
-        "basse_max": 1000,
-        "surveillance": 1000,
-        "complement": 1000,
-        "breakout": 1000
+        "basse_min": 0,
+        "basse_max": 0,
+        "surveillance": 0,
+        "complement": 0,
+        "breakout": 0
       },
       "risque": "Élevé",
-      "categorie": "Croissance",
+      "categorie": "Crowdfunding",
       "thematique": "Immobilier",
       "enveloppe": "PEA-PME",
       "ancien_etat": null,
@@ -723,7 +1087,20 @@
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "FR001400E4E3": {
       "isin": "FR001400E4E3",
@@ -731,11 +1108,11 @@
       "quantite": 10,
       "cours": 0,
       "zones": {
-        "basse_min": 1000,
-        "basse_max": 1000,
-        "surveillance": 1000,
-        "complement": 1000,
-        "breakout": 1000
+        "basse_min": 0,
+        "basse_max": 0,
+        "surveillance": 0,
+        "complement": 0,
+        "breakout": 0
       },
       "risque": "Modéré",
       "categorie": "FCPR",
@@ -747,7 +1124,20 @@
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "LU1303940784": {
       "isin": "LU1303940784",
@@ -755,14 +1145,14 @@
       "quantite": 26,
       "cours": 0,
       "zones": {
-        "basse_min": 24.24,
-        "basse_max": 27.1,
-        "surveillance": 28.52,
-        "complement": 29.95,
-        "breakout": 32.8
+        "basse_min": 0,
+        "basse_max": 0,
+        "surveillance": 0,
+        "complement": 0,
+        "breakout": 0
       },
       "risque": "Élevé",
-      "categorie": "Qualite",
+      "categorie": "ETF_sectoriel",
       "thematique": "Diversifié",
       "enveloppe": "PEA-PME",
       "ancien_etat": null,
@@ -771,7 +1161,20 @@
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "QS0004122063": {
       "isin": "QS0004122063",
@@ -779,14 +1182,14 @@
       "quantite": 1,
       "cours": 0,
       "zones": {
-        "basse_min": 1000,
-        "basse_max": 1000,
-        "surveillance": 1000,
-        "complement": 1000,
-        "breakout": 1000
+        "basse_min": 0,
+        "basse_max": 0,
+        "surveillance": 0,
+        "complement": 0,
+        "breakout": 0
       },
       "risque": "Élevé",
-      "categorie": "Croissance",
+      "categorie": "Crowdfunding",
       "thematique": "Immobilier",
       "enveloppe": "PEA-PME",
       "ancien_etat": null,
@@ -795,7 +1198,20 @@
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "FR001400E227": {
       "isin": "FR001400E227",
@@ -803,14 +1219,14 @@
       "quantite": 10.05,
       "cours": 0,
       "zones": {
-        "basse_min": 1000,
-        "basse_max": 1000,
-        "surveillance": 1000,
-        "complement": 1000,
-        "breakout": 1000
+        "basse_min": 0,
+        "basse_max": 0,
+        "surveillance": 0,
+        "complement": 0,
+        "breakout": 0
       },
       "risque": "Modéré",
-      "categorie": "Croissance",
+      "categorie": "FCPR",
       "thematique": "FCPR",
       "enveloppe": "PEA-PME",
       "ancien_etat": null,
@@ -819,7 +1235,20 @@
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "QS0004062905": {
       "isin": "QS0004062905",
@@ -827,14 +1256,14 @@
       "quantite": 1,
       "cours": 0,
       "zones": {
-        "basse_min": 1000,
-        "basse_max": 1000,
-        "surveillance": 1000,
-        "complement": 1000,
-        "breakout": 1000
+        "basse_min": 0,
+        "basse_max": 0,
+        "surveillance": 0,
+        "complement": 0,
+        "breakout": 0
       },
       "risque": "Élevé",
-      "categorie": "Croissance",
+      "categorie": "Crowdfunding",
       "thematique": "Immobilier",
       "enveloppe": "PEA-PME",
       "ancien_etat": null,
@@ -843,7 +1272,20 @@
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
       "sl_actuel": null,
-      "description": null
+      "description": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "AV__Fonds_euros": {
       "id": "AV__Fonds_euros",
@@ -854,7 +1296,20 @@
       "categorie": "Fonds_euros",
       "thematique": "Diversifié",
       "description": "Fonds en euros garanti — capital protégé",
-      "sl_actuel": null
+      "sl_actuel": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "AV__Pictet_Global_Megatrend": {
       "id": "AV__Pictet_Global_Megatrend",
@@ -865,7 +1320,20 @@
       "categorie": "Croissance",
       "thematique": "Global",
       "description": "Fonds thématique mégatendances mondiales",
-      "sl_actuel": null
+      "sl_actuel": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "AV__DWS_Concept_Kaldemorgen": {
       "id": "AV__DWS_Concept_Kaldemorgen",
@@ -876,7 +1344,20 @@
       "categorie": "Diversifie",
       "thematique": "Diversifié",
       "description": "Fonds diversifié défensif multi-actifs",
-      "sl_actuel": null
+      "sl_actuel": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "AV__DWS_Top_Dividende": {
       "id": "AV__DWS_Top_Dividende",
@@ -887,7 +1368,20 @@
       "categorie": "Qualite",
       "thematique": "Global",
       "description": "Fonds actions mondiales à dividendes élevés",
-      "sl_actuel": null
+      "sl_actuel": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "AV__Eurose": {
       "id": "AV__Eurose",
@@ -898,7 +1392,20 @@
       "categorie": "Diversifie",
       "thematique": "Diversifié",
       "description": "Fonds mixte obligataire/actions défensif",
-      "sl_actuel": null
+      "sl_actuel": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "AV__ANDERA_Dette_Privee": {
       "id": "AV__ANDERA_Dette_Privee",
@@ -909,7 +1416,20 @@
       "categorie": "FCPR",
       "thematique": "FCPR",
       "description": "Dette privée — fonds de prêts non cotés",
-      "sl_actuel": null
+      "sl_actuel": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "PEE__HSBC_EURO_PME": {
       "id": "PEE__HSBC_EURO_PME",
@@ -920,7 +1440,20 @@
       "categorie": "ETF_sectoriel",
       "thematique": "Diversifié",
       "description": "Fonds PME européennes — profil dynamique",
-      "sl_actuel": null
+      "sl_actuel": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "PEE__HSBC_SOLUTIONS_CLIMAT": {
       "id": "PEE__HSBC_SOLUTIONS_CLIMAT",
@@ -931,7 +1464,20 @@
       "categorie": "ETF_sectoriel",
       "thematique": "Eau & Env.",
       "description": "Fonds actions Europe ISR solutions climatiques",
-      "sl_actuel": null
+      "sl_actuel": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "PEE__HSBC_ISR_ACTIONS_EURO": {
       "id": "PEE__HSBC_ISR_ACTIONS_EURO",
@@ -942,7 +1488,20 @@
       "categorie": "ETF_large",
       "thematique": "Global",
       "description": "Fonds actions euro ISR",
-      "sl_actuel": null
+      "sl_actuel": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "PEE__HSBC_ISR_DIVERSIFIE": {
       "id": "PEE__HSBC_ISR_DIVERSIFIE",
@@ -953,7 +1512,20 @@
       "categorie": "Diversifie",
       "thematique": "Diversifié",
       "description": "Fonds diversifié ISR solidaire défensif",
-      "sl_actuel": null
+      "sl_actuel": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "PEE__HSBC_ISR_ACTIONS_MONDE": {
       "id": "PEE__HSBC_ISR_ACTIONS_MONDE",
@@ -964,7 +1536,20 @@
       "categorie": "ETF_large",
       "thematique": "Global",
       "description": "Fonds actions monde ISR",
-      "sl_actuel": null
+      "sl_actuel": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "LIVRET__Livret_A": {
       "id": "LIVRET__Livret_A",
@@ -975,7 +1560,20 @@
       "categorie": "Livret",
       "thematique": "Diversifié",
       "description": "Livret A — épargne réglementée garantie",
-      "sl_actuel": null
+      "sl_actuel": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "LIVRET__Livret_dollar": {
       "id": "LIVRET__Livret_dollar",
@@ -986,7 +1584,20 @@
       "categorie": "Livret",
       "thematique": "Diversifié",
       "description": "Livret en dollars — épargne liquide",
-      "sl_actuel": null
+      "sl_actuel": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "LIVRET__Livret_euro": {
       "id": "LIVRET__Livret_euro",
@@ -997,7 +1608,20 @@
       "categorie": "Livret",
       "thematique": "Diversifié",
       "description": "Livret euro — épargne liquide",
-      "sl_actuel": null
+      "sl_actuel": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "LIVRET__Compte_courant": {
       "id": "LIVRET__Compte_courant",
@@ -1008,7 +1632,20 @@
       "categorie": "Cash",
       "thematique": "Diversifié",
       "description": "Compte courant — liquidités immédiates",
-      "sl_actuel": null
+      "sl_actuel": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "SCPI__Corum_Origin": {
       "id": "SCPI__Corum_Origin",
@@ -1019,7 +1656,20 @@
       "categorie": "SCPI",
       "thematique": "Immobilier",
       "description": "SCPI diversifiée Europe — rendement ~6%",
-      "sl_actuel": null
+      "sl_actuel": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     },
     "REVOLUT__ETF_Trading": {
       "id": "REVOLUT__ETF_Trading",
@@ -1030,7 +1680,20 @@
       "categorie": "ETF_sectoriel",
       "thematique": "Eau & Env.",
       "description": "ETF Clean Energy Revolut",
-      "sl_actuel": null
+      "sl_actuel": null,
+      "budget_cible": 0,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0.0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     }
   }
 }
