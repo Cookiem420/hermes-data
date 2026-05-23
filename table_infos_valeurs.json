@@ -1,7 +1,7 @@
 {
   "meta": {
     "description": "Table infos valeurs — Hermès V2",
-    "derniere_maj": "2026-05-22"
+    "derniere_maj": "2026-05-23"
   },
   "valeurs": {
     "FR001400AED5": {
@@ -31,7 +31,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -69,7 +69,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -107,7 +107,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -121,7 +121,7 @@
     "FR001400PFU4": {
       "isin": "FR001400PFU4",
       "nom": "PLANISWARE",
-      "quantite": 15,
+      "quantite": 8,
       "enveloppe": "PEA",
       "cours": 0,
       "zones": {
@@ -145,7 +145,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -159,7 +159,7 @@
     "FR0000038242": {
       "isin": "FR0000038242",
       "nom": "LUMIBIRD",
-      "quantite": 24,
+      "quantite": 34,
       "enveloppe": "PEA",
       "cours": 0,
       "zones": {
@@ -183,7 +183,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -221,7 +221,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -259,7 +259,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -297,7 +297,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -335,7 +335,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -373,7 +373,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -411,7 +411,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -449,7 +449,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -487,7 +487,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -525,7 +525,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -563,7 +563,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -577,7 +577,7 @@
     "IE00BLS09M33": {
       "isin": "IE00BLS09M33",
       "nom": "PENTAIR",
-      "quantite": 3,
+      "quantite": 5,
       "enveloppe": "CTO",
       "cours": 0,
       "zones": {
@@ -601,7 +601,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -639,7 +639,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -677,7 +677,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -715,7 +715,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -753,7 +753,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -791,7 +791,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -829,7 +829,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -867,7 +867,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -905,7 +905,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -943,7 +943,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -980,7 +980,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1017,7 +1017,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1054,7 +1054,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1091,7 +1091,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1128,7 +1128,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1165,7 +1165,7 @@
       "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1202,7 +1202,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1239,7 +1239,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1276,7 +1276,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1300,7 +1300,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1324,7 +1324,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1348,7 +1348,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1372,7 +1372,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1396,7 +1396,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1420,7 +1420,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1444,7 +1444,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1468,7 +1468,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1492,7 +1492,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1516,7 +1516,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1540,7 +1540,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1564,7 +1564,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1588,7 +1588,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1612,7 +1612,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1636,7 +1636,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1660,7 +1660,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
@@ -1684,7 +1684,7 @@
       "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
-        "macd_min": 0.0,
+        "macd_min": 0,
         "breakout_bloque": false,
         "cooldown_until": null,
         "refus_consecutifs": 0,
