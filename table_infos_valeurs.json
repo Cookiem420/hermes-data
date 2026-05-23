@@ -132,7 +132,7 @@
         "breakout": 40
       },
       "risque": "Élevé",
-      "categorie": "Speculatif",
+      "categorie": "Croissance",
       "thematique": "Tech",
       "ancien_etat": null,
       "etat_actuel": "FULL",
@@ -967,9 +967,9 @@
         "complement": 0,
         "breakout": 0
       },
-      "risque": "Spéculatif",
-      "categorie": "Speculatif",
-      "thematique": "Tech",
+      "risque": "Élevé",
+      "categorie": "Cyclique",
+      "thematique": "Semi-conducteurs",
       "ancien_etat": null,
       "etat_actuel": "NOUVEAU",
       "achat_vente": null,
@@ -1142,7 +1142,10 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": null
+      "cours_timestamp": null,
+      "montant_investi": 1000,
+      "taux_interet": 0.105,
+      "date_debut": "2024-09-20"
     },
     "QS0004120687": {
       "isin": "QS0004120687",
@@ -1180,7 +1183,10 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": null
+      "cours_timestamp": null,
+      "montant_investi": 1000,
+      "taux_interet": 0.1,
+      "date_debut": "2025-08-07"
     },
     "QS0004138556": {
       "isin": "QS0004138556",
@@ -1218,7 +1224,10 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": null
+      "cours_timestamp": null,
+      "montant_investi": 1000,
+      "taux_interet": 0.105,
+      "date_debut": "2026-01-22"
     },
     "QS0004122063": {
       "isin": "QS0004122063",
@@ -1256,7 +1265,10 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": null
+      "cours_timestamp": null,
+      "montant_investi": 1000,
+      "taux_interet": 0.11,
+      "date_debut": "2025-09-24"
     },
     "QS0004062905": {
       "isin": "QS0004062905",
@@ -1294,7 +1306,10 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": null
+      "cours_timestamp": null,
+      "montant_investi": 1000,
+      "taux_interet": 0.1,
+      "date_debut": "2024-08-02"
     },
     "AV__Fonds_euros": {
       "isin": "AV__Fonds_euros",
