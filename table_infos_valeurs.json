@@ -1215,7 +1215,7 @@
       "historique_refus": [],
       "sl_actuel": null,
       "description": null,
-      "budget_cible": null,
+      "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -1245,7 +1245,7 @@
         "complement": 0,
         "breakout": 0
       },
-      "risque": "Élevé",
+      "risque": "Modéré",
       "categorie": "Crowdfunding",
       "thematique": "Immobilier",
       "ancien_etat": null,
@@ -1256,7 +1256,7 @@
       "historique_refus": [],
       "sl_actuel": null,
       "description": null,
-      "budget_cible": 0,
+      "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
