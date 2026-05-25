@@ -961,11 +961,11 @@
       "enveloppe": "PEA-PME",
       "cours": 0,
       "zones": {
-        "basse_min": 23,
-        "basse_max": 24.66,
-        "surveillance": 25,
-        "complement": 26.5,
-        "breakout": 28
+        "basse_min": 0,
+        "basse_max": 0,
+        "surveillance": 0,
+        "complement": 0,
+        "breakout": 0
       },
       "risque": "Élevé",
       "categorie": "OPCVM",
@@ -978,7 +978,7 @@
       "historique_refus": [],
       "sl_actuel": null,
       "description": null,
-      "budget_cible": null,
+      "budget_cible": 1000,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
