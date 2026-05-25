@@ -929,7 +929,7 @@
         "complement": 10,
         "breakout": 11.5
       },
-      "risque": "Élevé",
+      "risque": "Spéculatif",
       "categorie": "Cyclique",
       "thematique": "Semi-conducteurs",
       "ancien_etat": null,
@@ -961,11 +961,11 @@
       "enveloppe": "PEA-PME",
       "cours": 0,
       "zones": {
-        "basse_min": 24.66,
-        "basse_max": 26,
-        "surveillance": 29,
-        "complement": 30,
-        "breakout": 33
+        "basse_min": 0,
+        "basse_max": 0,
+        "surveillance": 0,
+        "complement": 0,
+        "breakout": 0
       },
       "risque": "Élevé",
       "categorie": "OPCVM",
@@ -978,7 +978,7 @@
       "historique_refus": [],
       "sl_actuel": null,
       "description": null,
-      "budget_cible": 1000,
+      "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
