@@ -17,7 +17,7 @@
         "complement": 125,
         "breakout": 140
       },
-      "risque": "Élevé",
+      "risque": "Modéré",
       "categorie": "OPCVM",
       "thematique": "Diversifié",
       "ancien_etat": null,
@@ -93,7 +93,7 @@
         "complement": 175,
         "breakout": 190
       },
-      "risque": "Élevé",
+      "risque": "Modéré",
       "categorie": "Qualite",
       "thematique": "Infrastructure",
       "ancien_etat": null,
@@ -131,7 +131,7 @@
         "complement": 21,
         "breakout": 24
       },
-      "risque": "Spéculatif",
+      "risque": "Élevé",
       "categorie": "Croissance",
       "thematique": "Tech",
       "ancien_etat": null,
@@ -169,7 +169,7 @@
         "complement": 32,
         "breakout": 36
       },
-      "risque": "Spéculatif",
+      "risque": "Élevé",
       "categorie": "Croissance",
       "thematique": "Défense",
       "ancien_etat": null,
@@ -245,7 +245,7 @@
         "complement": 200,
         "breakout": 220
       },
-      "risque": "Spéculatif",
+      "risque": "Élevé",
       "categorie": "Croissance",
       "thematique": "Tech",
       "ancien_etat": null,
@@ -283,7 +283,7 @@
         "complement": 38,
         "breakout": 42
       },
-      "risque": "Élevé",
+      "risque": "Modéré",
       "categorie": "ETF_sectoriel",
       "thematique": "Eau & Env.",
       "ancien_etat": null,
@@ -321,7 +321,7 @@
         "complement": 21,
         "breakout": 24
       },
-      "risque": "Spéculatif",
+      "risque": "Modéré",
       "categorie": "Qualite",
       "thematique": "Tech",
       "ancien_etat": null,
@@ -625,7 +625,7 @@
         "complement": 125,
         "breakout": 140
       },
-      "risque": "Spéculatif",
+      "risque": "Modéré",
       "categorie": "Qualite",
       "thematique": "Eau & Env.",
       "ancien_etat": null,
@@ -739,7 +739,7 @@
         "complement": 98,
         "breakout": 110
       },
-      "risque": "Élevé",
+      "risque": "Modéré",
       "categorie": "Qualite",
       "thematique": "Eau & Env.",
       "ancien_etat": null,
@@ -929,7 +929,7 @@
         "complement": 10,
         "breakout": 11.5
       },
-      "risque": "Spéculatif",
+      "risque": "Élevé",
       "categorie": "Cyclique",
       "thematique": "Semi-conducteurs",
       "ancien_etat": null,
@@ -1081,7 +1081,7 @@
         "complement": 0,
         "breakout": 0
       },
-      "risque": "Modéré",
+      "risque": "Élevé",
       "categorie": "Crowdfunding",
       "thematique": "Immobilier",
       "ancien_etat": null,
@@ -1092,7 +1092,7 @@
       "historique_refus": [],
       "sl_actuel": null,
       "description": null,
-      "budget_cible": null,
+      "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -1122,7 +1122,7 @@
         "complement": 0,
         "breakout": 0
       },
-      "risque": "Modéré",
+      "risque": "Élevé",
       "categorie": "Crowdfunding",
       "thematique": "Immobilier",
       "ancien_etat": null,
@@ -1133,7 +1133,7 @@
       "historique_refus": [],
       "sl_actuel": null,
       "description": null,
-      "budget_cible": null,
+      "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -1163,7 +1163,7 @@
         "complement": 0,
         "breakout": 0
       },
-      "risque": "Modéré",
+      "risque": "Élevé",
       "categorie": "Crowdfunding",
       "thematique": "Immobilier",
       "ancien_etat": null,
@@ -1174,7 +1174,7 @@
       "historique_refus": [],
       "sl_actuel": null,
       "description": null,
-      "budget_cible": null,
+      "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -1204,7 +1204,7 @@
         "complement": 0,
         "breakout": 0
       },
-      "risque": "Modéré",
+      "risque": "Élevé",
       "categorie": "Crowdfunding",
       "thematique": "Immobilier",
       "ancien_etat": null,
@@ -1215,7 +1215,7 @@
       "historique_refus": [],
       "sl_actuel": null,
       "description": null,
-      "budget_cible": null,
+      "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -1245,7 +1245,7 @@
         "complement": 0,
         "breakout": 0
       },
-      "risque": "Modéré",
+      "risque": "Élevé",
       "categorie": "Crowdfunding",
       "thematique": "Immobilier",
       "ancien_etat": null,
@@ -1256,7 +1256,7 @@
       "historique_refus": [],
       "sl_actuel": null,
       "description": null,
-      "budget_cible": null,
+      "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -1936,8 +1936,8 @@
       "cours_timestamp": null,
       "type": "non_cote"
     },
-    "DHR": {
-      "isin": "DHR",
+    "US2358511028": {
+      "isin": "US2358511028",
       "nom": "Danaher Corporation",
       "quantite": 0,
       "enveloppe": "CTO",
@@ -1974,24 +1974,24 @@
       "derniere_valorisation": 0,
       "cours_timestamp": null
     },
-    "NTRA": {
-      "isin": "NTRA",
-      "nom": "Natera Inc",
+    "US40131M1099": {
+      "isin": "US40131M1099",
+      "nom": "Guardant Health Inc",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 186,
+      "cours": 119,
       "zones": {
-        "basse_min": 155,
-        "basse_max": 170,
-        "surveillance": 195,
-        "complement": 220,
-        "breakout": 256
+        "basse_min": 88,
+        "basse_max": 98,
+        "surveillance": 110,
+        "complement": 125,
+        "breakout": 145
       },
-      "risque": "Élevé",
-      "categorie": "Croissance",
+      "risque": "Spéculatif",
+      "categorie": "Speculatif",
       "thematique": "Santé",
-      "description": "Diagnostics génomiques — liquid biopsy, MRD cancer, tests prénataux (Panorama). Revenus +38.8% Q1 2026 mais pertes qui s'élargissent. Pas encore profitable mais croissance réelle. Support solide à 155-170$. Zone d'entrée correcte si cours revient sous 170$. Spéculatif modéré.",
-      "budget_cible": 500,
+      "description": "Liquid biopsy / détection cancer sang (Shield). Q1 2026 exceptionnel — revenus +48%, Shield x7. Vient d'exploser de +35% post earnings — NE PAS ENTRER MAINTENANT. Attendre consolidation vers 95-100$ (support). Insiders qui vendent massivement au cours actuel. Zone d'entrée : 88-98$.",
+      "budget_cible": 300,
       "etat_actuel": "WATCHLIST",
       "ancien_etat": null,
       "achat_vente": null,
@@ -2012,24 +2012,24 @@
       "derniere_valorisation": 0,
       "cours_timestamp": null
     },
-    "GH": {
-      "isin": "GH",
-      "nom": "Guardant Health Inc",
+    "US63253U1097": {
+      "isin": "US63253U1097",
+      "nom": "Natera Inc",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 119,
+      "cours": 186,
       "zones": {
-        "basse_min": 88,
-        "basse_max": 98,
-        "surveillance": 110,
-        "complement": 125,
-        "breakout": 145
+        "basse_min": 155,
+        "basse_max": 170,
+        "surveillance": 195,
+        "complement": 220,
+        "breakout": 256
       },
-      "risque": "Spéculatif",
-      "categorie": "Speculatif",
+      "risque": "Élevé",
+      "categorie": "Croissance",
       "thematique": "Santé",
-      "description": "Liquid biopsy / détection cancer sang (Shield). Q1 2026 exceptionnel — revenus +48%, Shield x7. Vient d'exploser de +35% post earnings — NE PAS ENTRER MAINTENANT. Attendre consolidation vers 95-100$ (support). Insiders qui vendent massivement au cours actuel. Zone d'entrée : 88-98$.",
-      "budget_cible": 300,
+      "description": "Diagnostics génomiques — liquid biopsy, MRD cancer, tests prénataux (Panorama). Revenus +38.8% Q1 2026 mais pertes qui s'élargissent. Pas encore profitable mais croissance réelle. Support solide à 155-170$. Zone d'entrée correcte si cours revient sous 170$. Spéculatif modéré.",
+      "budget_cible": 500,
       "etat_actuel": "WATCHLIST",
       "ancien_etat": null,
       "achat_vente": null,
