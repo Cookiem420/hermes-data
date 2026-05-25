@@ -28,7 +28,7 @@
       "historique_refus": [],
       "sl_actuel": null,
       "description": null,
-      "budget_cible": null,
+      "budget_cible": 3500,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
