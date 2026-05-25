@@ -28,7 +28,7 @@
       "historique_refus": [],
       "sl_actuel": null,
       "description": null,
-      "budget_cible": null,
+      "budget_cible": 3500,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -1941,7 +1941,7 @@
       "nom": "Danaher Corporation",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 172.0,
+      "cours": 172,
       "zones": {
         "basse_min": 155,
         "basse_max": 165,
