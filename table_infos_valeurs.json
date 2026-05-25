@@ -28,7 +28,7 @@
       "historique_refus": [],
       "sl_actuel": null,
       "description": null,
-      "budget_cible": 3500,
+      "budget_cible": null,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -49,11 +49,11 @@
       "enveloppe": "PEA",
       "cours": 0,
       "zones": {
-        "basse_min": 180,
-        "basse_max": 210,
-        "surveillance": 240,
-        "complement": 270,
-        "breakout": 310
+        "basse_min": 125,
+        "basse_max": 135,
+        "surveillance": 145,
+        "complement": 155,
+        "breakout": 165
       },
       "risque": "Élevé",
       "categorie": "ETF_sectoriel",
@@ -65,8 +65,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": 1000,
+      "description": "Exposition minières / métaux / ressources européennes. Profite des cycles industriels, inflation matières, réindustrialisation Europe. Cyclique — timing important.",
+      "budget_cible": 1800,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -87,11 +87,11 @@
       "enveloppe": "PEA",
       "cours": 0,
       "zones": {
-        "basse_min": 82,
-        "basse_max": 92,
-        "surveillance": 105,
-        "complement": 118,
-        "breakout": 135
+        "basse_min": 140,
+        "basse_max": 148,
+        "surveillance": 160,
+        "complement": 175,
+        "breakout": 190
       },
       "risque": "Modéré",
       "categorie": "Qualite",
@@ -103,8 +103,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Leader mondial infrastructures électriques, efficacité énergétique, datacenter. Qualité défensive rare — pricing power, récurrence, dividende croissant. Dossier de fond de portefeuille.",
+      "budget_cible": 2200,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -125,11 +125,11 @@
       "enveloppe": "PEA",
       "cours": 0,
       "zones": {
-        "basse_min": 18,
-        "basse_max": 22,
-        "surveillance": 27,
-        "complement": 32,
-        "breakout": 40
+        "basse_min": 14,
+        "basse_max": 15.5,
+        "surveillance": 18.5,
+        "complement": 21,
+        "breakout": 24
       },
       "risque": "Élevé",
       "categorie": "Croissance",
@@ -141,8 +141,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Logiciel SaaS gestion de portefeuille projets. Très beau dossier — récurrence, niche, croissance. Valorisation exigeante : n'entrer que sur faiblesse technique validée.",
+      "budget_cible": 700,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -163,11 +163,11 @@
       "enveloppe": "PEA",
       "cours": 0,
       "zones": {
-        "basse_min": 9,
-        "basse_max": 11,
-        "surveillance": 14,
-        "complement": 17,
-        "breakout": 22
+        "basse_min": 21,
+        "basse_max": 23,
+        "surveillance": 28,
+        "complement": 32,
+        "breakout": 36
       },
       "risque": "Élevé",
       "categorie": "Croissance",
@@ -179,8 +179,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Laser médical, défense, LIDAR. Dossier volatil mais catalyseurs réels : montée des budgets défense EU, demande médicale. Risque exécution élevé sur la taille.",
+      "budget_cible": 900,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -201,11 +201,11 @@
       "enveloppe": "PEA",
       "cours": 0,
       "zones": {
-        "basse_min": 16,
-        "basse_max": 19,
-        "surveillance": 23,
-        "complement": 27,
-        "breakout": 32
+        "basse_min": 15.5,
+        "basse_max": 16.5,
+        "surveillance": 19,
+        "complement": 21,
+        "breakout": 23
       },
       "risque": "Modéré",
       "categorie": "ETF_sectoriel",
@@ -217,8 +217,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Forte génération de cash, valorisations encore raisonnables vs historique. Profite des taux élevés. Risque: réglementation, récession. Dossier tactique plus que stratégique.",
+      "budget_cible": 3000,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -239,11 +239,11 @@
       "enveloppe": "PEA",
       "cours": 0,
       "zones": {
-        "basse_min": 55,
-        "basse_max": 68,
-        "surveillance": 82,
-        "complement": 96,
-        "breakout": 115
+        "basse_min": 150,
+        "basse_max": 160,
+        "surveillance": 180,
+        "complement": 200,
+        "breakout": 220
       },
       "risque": "Élevé",
       "categorie": "Croissance",
@@ -255,8 +255,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Automation cash collection et IA. Croissance rentable, niche B2B défendable. Valorisation élevée — position satellite uniquement, ne pas surpondérer.",
+      "budget_cible": 700,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -277,11 +277,11 @@
       "enveloppe": "PEA",
       "cours": 0,
       "zones": {
-        "basse_min": 38,
-        "basse_max": 44,
-        "surveillance": 50,
-        "complement": 56,
-        "breakout": 65
+        "basse_min": 27,
+        "basse_max": 31,
+        "surveillance": 34,
+        "complement": 38,
+        "breakout": 42
       },
       "risque": "Modéré",
       "categorie": "ETF_sectoriel",
@@ -293,8 +293,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Exposition mondiale thème eau (infrastructures, traitement, utilities). Mégatendance LT structurelle — stress hydrique mondial inévitable. Cyclique CT sur les taux mais conviction LT forte.",
+      "budget_cible": 1200,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -315,11 +315,11 @@
       "enveloppe": "PEA",
       "cours": 0,
       "zones": {
-        "basse_min": 18,
-        "basse_max": 22,
-        "surveillance": 27,
-        "complement": 32,
-        "breakout": 40
+        "basse_min": 14.5,
+        "basse_max": 15.5,
+        "surveillance": 18,
+        "complement": 21,
+        "breakout": 24
       },
       "risque": "Modéré",
       "categorie": "Qualite",
@@ -331,8 +331,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Digitalisation industrie textile et découpe industrielle. Business sain, bilan propre. Cyclique — profite d'une reprise industrielle mais souffre en contraction. Patience requise.",
+      "budget_cible": 600,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -467,11 +467,11 @@
       "enveloppe": "PEA",
       "cours": 0,
       "zones": {
-        "basse_min": 2.8,
-        "basse_max": 3.5,
-        "surveillance": 4.5,
-        "complement": 5.8,
-        "breakout": 7.5
+        "basse_min": 1,
+        "basse_max": 1.15,
+        "surveillance": 1.5,
+        "complement": 1.9,
+        "breakout": 2.3
       },
       "risque": "Spéculatif",
       "categorie": "Speculatif",
@@ -483,8 +483,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Immunothérapie NK cells, partenariats big pharma (AZ). Très spéculatif — 100% news-driven (essais cliniques). Asymétrie forte mais probabilité de succès faible. Petite ligne uniquement.",
+      "budget_cible": 400,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -543,11 +543,11 @@
       "enveloppe": "CTO",
       "cours": 0,
       "zones": {
-        "basse_min": 95,
-        "basse_max": 108,
-        "surveillance": 120,
-        "complement": 133,
-        "breakout": 150
+        "basse_min": 118,
+        "basse_max": 122,
+        "surveillance": 130,
+        "complement": 142,
+        "breakout": 155
       },
       "risque": "Modéré",
       "categorie": "Qualite",
@@ -559,8 +559,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Autoroutes, concessions, construction, aéroports. Modèle défensif avec rendement solide (+3.8%). Leader européen. Dividende croissant depuis 29 ans. Dossier qualité pour horizon LT.",
+      "budget_cible": 1600,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -581,11 +581,11 @@
       "enveloppe": "CTO",
       "cours": 0,
       "zones": {
-        "basse_min": 140,
-        "basse_max": 170,
-        "surveillance": 200,
-        "complement": 235,
-        "breakout": 280
+        "basse_min": 280,
+        "basse_max": 320,
+        "surveillance": 370,
+        "complement": 420,
+        "breakout": 480
       },
       "risque": "Élevé",
       "categorie": "Croissance",
@@ -597,8 +597,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Leader absolu fabrication puces avancées IA. Quasi-monopole sur N3/N2. Conviction forte mais risque géopolitique Taiwan structurel — position taille maîtrisée. Ne pas renforcer au-dessus des zones.",
+      "budget_cible": 1800,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -619,11 +619,11 @@
       "enveloppe": "CTO",
       "cours": 0,
       "zones": {
-        "basse_min": 95,
-        "basse_max": 112,
-        "surveillance": 130,
-        "complement": 148,
-        "breakout": 170
+        "basse_min": 88,
+        "basse_max": 95,
+        "surveillance": 112,
+        "complement": 125,
+        "breakout": 140
       },
       "risque": "Modéré",
       "categorie": "Qualite",
@@ -635,8 +635,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Leader équipements eau / smart water / utilities. Mégatendance LT (stress hydrique, infrastructures vieillissantes). Sous pression CT taux — patience requise. Thème eau conviction forte.",
+      "budget_cible": 1500,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -657,11 +657,11 @@
       "enveloppe": "CTO",
       "cours": 0,
       "zones": {
-        "basse_min": 95,
-        "basse_max": 115,
-        "surveillance": 135,
-        "complement": 155,
-        "breakout": 185
+        "basse_min": 170,
+        "basse_max": 185,
+        "surveillance": 210,
+        "complement": 235,
+        "breakout": 255
       },
       "risque": "Élevé",
       "categorie": "Cyclique",
@@ -673,8 +673,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Béton / ciment / granulats. Pricing power démontré, réduction CO2 en cours, bilan assaini. Profite relance infrastructure EU et US. Cyclique — attendre zones de faiblesse.",
+      "budget_cible": 1200,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -695,11 +695,11 @@
       "enveloppe": "CTO",
       "cours": 0,
       "zones": {
-        "basse_min": 490,
-        "basse_max": 545,
-        "surveillance": 610,
-        "complement": 675,
-        "breakout": 760
+        "basse_min": 660,
+        "basse_max": 690,
+        "surveillance": 740,
+        "complement": 790,
+        "breakout": 850
       },
       "risque": "Modéré",
       "categorie": "ETF_large",
@@ -711,8 +711,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Coeur LT portefeuille international. Très exposé US tech et qualité. DCA régulier — ne pas chercher à timer. Pilier de conviction.",
+      "budget_cible": 5000,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -733,11 +733,11 @@
       "enveloppe": "CTO",
       "cours": 0,
       "zones": {
-        "basse_min": 50,
-        "basse_max": 62,
-        "surveillance": 74,
-        "complement": 86,
-        "breakout": 100
+        "basse_min": 68,
+        "basse_max": 75,
+        "surveillance": 88,
+        "complement": 98,
+        "breakout": 110
       },
       "risque": "Modéré",
       "categorie": "Qualite",
@@ -749,8 +749,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Filtration eau résidentielle et industrielle. Profil plus défensif que Xylem, marges plus stables. Complémentaire dans le thème eau. Cours proche zone basse — opportunité CT.",
+      "budget_cible": 1000,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -771,11 +771,11 @@
       "enveloppe": "CTO",
       "cours": 0,
       "zones": {
-        "basse_min": 7.2,
-        "basse_max": 8.3,
-        "surveillance": 9.5,
-        "complement": 10.8,
-        "breakout": 12.5
+        "basse_min": 12.5,
+        "basse_max": 13,
+        "surveillance": 14.5,
+        "complement": 16,
+        "breakout": 17.5
       },
       "risque": "Modéré",
       "categorie": "ETF_large",
@@ -787,8 +787,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Exposition Japon couvert devise JPY/EUR. Bénéficie réformes gouvernance (Kishida/Ishiba), shareholder return en hausse, valorisations attractives. Dossier LT intéressant.",
+      "budget_cible": 1400,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -809,11 +809,11 @@
       "enveloppe": "CTO",
       "cours": 0,
       "zones": {
-        "basse_min": 50,
-        "basse_max": 59,
-        "surveillance": 68,
-        "complement": 78,
-        "breakout": 92
+        "basse_min": 85,
+        "basse_max": 90,
+        "surveillance": 100,
+        "complement": 110,
+        "breakout": 120
       },
       "risque": "Élevé",
       "categorie": "ETF_large",
@@ -825,8 +825,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Diversification Asie développée et émergente. Profite réouverture Chine, croissance régionale. Risque géopolitique et devise à intégrer. Complément du MSCI World.",
+      "budget_cible": 1400,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -863,8 +863,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Spéculatif pur — technologie industrielle niche. Position existante, ne pas renforcer sans signal technique fort. Stop à surveiller.",
+      "budget_cible": 300,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -923,11 +923,11 @@
       "enveloppe": "PEA-PME",
       "cours": 0,
       "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
+        "basse_min": 6.5,
+        "basse_max": 7.2,
+        "surveillance": 8.8,
+        "complement": 10,
+        "breakout": 11.5
       },
       "risque": "Élevé",
       "categorie": "Cyclique",
@@ -939,8 +939,8 @@
       "prix_achat_vente": 0,
       "historique_refus": [],
       "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
+      "description": "Semi-conducteurs analogiques / automobile / industrie. Niche défendable, long terme structurel. Très cyclique CT — volatilité forte garantie. Position taille contenue.",
+      "budget_cible": 900,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -1081,7 +1081,7 @@
         "complement": 0,
         "breakout": 0
       },
-      "risque": "Modéré",
+      "risque": "Élevé",
       "categorie": "Crowdfunding",
       "thematique": "Immobilier",
       "ancien_etat": null,
@@ -1092,7 +1092,7 @@
       "historique_refus": [],
       "sl_actuel": null,
       "description": null,
-      "budget_cible": null,
+      "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -1122,7 +1122,7 @@
         "complement": 0,
         "breakout": 0
       },
-      "risque": "Modéré",
+      "risque": "Élevé",
       "categorie": "Crowdfunding",
       "thematique": "Immobilier",
       "ancien_etat": null,
@@ -1133,7 +1133,7 @@
       "historique_refus": [],
       "sl_actuel": null,
       "description": null,
-      "budget_cible": null,
+      "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -1163,7 +1163,7 @@
         "complement": 0,
         "breakout": 0
       },
-      "risque": "Modéré",
+      "risque": "Élevé",
       "categorie": "Crowdfunding",
       "thematique": "Immobilier",
       "ancien_etat": null,
@@ -1174,7 +1174,7 @@
       "historique_refus": [],
       "sl_actuel": null,
       "description": null,
-      "budget_cible": null,
+      "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -1204,7 +1204,7 @@
         "complement": 0,
         "breakout": 0
       },
-      "risque": "Modéré",
+      "risque": "Élevé",
       "categorie": "Crowdfunding",
       "thematique": "Immobilier",
       "ancien_etat": null,
@@ -1215,7 +1215,7 @@
       "historique_refus": [],
       "sl_actuel": null,
       "description": null,
-      "budget_cible": null,
+      "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -1245,7 +1245,7 @@
         "complement": 0,
         "breakout": 0
       },
-      "risque": "Modéré",
+      "risque": "Élevé",
       "categorie": "Crowdfunding",
       "thematique": "Immobilier",
       "ancien_etat": null,
@@ -1256,7 +1256,7 @@
       "historique_refus": [],
       "sl_actuel": null,
       "description": null,
-      "budget_cible": null,
+      "budget_cible": 0,
       "learning": {
         "rsi_bonus": 0,
         "macd_min": 0,
@@ -1935,6 +1935,120 @@
       "derniere_valorisation": 0,
       "cours_timestamp": null,
       "type": "non_cote"
+    },
+    "DHR": {
+      "isin": "DHR",
+      "nom": "Danaher Corporation",
+      "quantite": 0,
+      "enveloppe": "CTO",
+      "cours": 172,
+      "zones": {
+        "basse_min": 155,
+        "basse_max": 165,
+        "surveillance": 185,
+        "complement": 210,
+        "breakout": 235
+      },
+      "risque": "Modéré",
+      "categorie": "Qualite",
+      "thematique": "Santé",
+      "description": "Compounder qualité exceptionnel — bioprocessing, sciences de la vie, filtration eau, diagnostics. RSI ~27, oversold après -30% depuis le pic. Cycle de destockage biotech en fin de cycle, reprise 2026 confirmée. Entrer en 2 tranches : 165$ puis 155$ si ça casse. Consensus analyste 241$.",
+      "budget_cible": 1600,
+      "etat_actuel": "WATCHLIST",
+      "ancien_etat": null,
+      "achat_vente": null,
+      "q_achat_vente": 0,
+      "prix_achat_vente": 0,
+      "historique_refus": [],
+      "sl_actuel": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
+    },
+    "NTRA": {
+      "isin": "NTRA",
+      "nom": "Natera Inc",
+      "quantite": 0,
+      "enveloppe": "CTO",
+      "cours": 186,
+      "zones": {
+        "basse_min": 155,
+        "basse_max": 170,
+        "surveillance": 195,
+        "complement": 220,
+        "breakout": 256
+      },
+      "risque": "Élevé",
+      "categorie": "Croissance",
+      "thematique": "Santé",
+      "description": "Diagnostics génomiques — liquid biopsy, MRD cancer, tests prénataux (Panorama). Revenus +38.8% Q1 2026 mais pertes qui s'élargissent. Pas encore profitable mais croissance réelle. Support solide à 155-170$. Zone d'entrée correcte si cours revient sous 170$. Spéculatif modéré.",
+      "budget_cible": 500,
+      "etat_actuel": "WATCHLIST",
+      "ancien_etat": null,
+      "achat_vente": null,
+      "q_achat_vente": 0,
+      "prix_achat_vente": 0,
+      "historique_refus": [],
+      "sl_actuel": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
+    },
+    "GH": {
+      "isin": "GH",
+      "nom": "Guardant Health Inc",
+      "quantite": 0,
+      "enveloppe": "CTO",
+      "cours": 119,
+      "zones": {
+        "basse_min": 88,
+        "basse_max": 98,
+        "surveillance": 110,
+        "complement": 125,
+        "breakout": 145
+      },
+      "risque": "Spéculatif",
+      "categorie": "Speculatif",
+      "thematique": "Santé",
+      "description": "Liquid biopsy / détection cancer sang (Shield). Q1 2026 exceptionnel — revenus +48%, Shield x7. Vient d'exploser de +35% post earnings — NE PAS ENTRER MAINTENANT. Attendre consolidation vers 95-100$ (support). Insiders qui vendent massivement au cours actuel. Zone d'entrée : 88-98$.",
+      "budget_cible": 300,
+      "etat_actuel": "WATCHLIST",
+      "ancien_etat": null,
+      "achat_vente": null,
+      "q_achat_vente": 0,
+      "prix_achat_vente": 0,
+      "historique_refus": [],
+      "sl_actuel": null,
+      "learning": {
+        "rsi_bonus": 0,
+        "macd_min": 0,
+        "breakout_bloque": false,
+        "cooldown_until": null,
+        "refus_consecutifs": 0,
+        "dernier_motif": null
+      },
+      "signal_id": null,
+      "signal_sent_at": null,
+      "derniere_valorisation": 0,
+      "cours_timestamp": null
     }
   }
 }
