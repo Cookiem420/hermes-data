@@ -919,7 +919,7 @@
     "BE0974310428": {
       "isin": "BE0974310428",
       "nom": "X-FAB SILICON",
-      "quantite": 40,
+      "quantite": 90,
       "enveloppe": "PEA-PME",
       "cours": 0,
       "zones": {
@@ -932,8 +932,8 @@
       "risque": "Élevé",
       "categorie": "Cyclique",
       "thematique": "Semi-conducteurs",
-      "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
+      "ancien_etat": "NOUVEAU",
+      "etat_actuel": "FULL",
       "achat_vente": null,
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
