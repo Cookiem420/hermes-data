@@ -121,7 +121,7 @@
     "FR001400PFU4": {
       "isin": "FR001400PFU4",
       "nom": "PLANISWARE",
-      "quantite": 8,
+      "quantite": 0,
       "enveloppe": "PEA",
       "cours": 18.72,
       "zones": {
@@ -134,8 +134,8 @@
       "risque": "Élevé",
       "categorie": "Croissance",
       "thematique": "Tech",
-      "ancien_etat": null,
-      "etat_actuel": "FULL",
+      "ancien_etat": "FULL",
+      "etat_actuel": "WATCHLIST",
       "achat_vente": null,
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
@@ -1941,7 +1941,7 @@
       "nom": "Danaher Corporation",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 172.0,
+      "cours": 172,
       "zones": {
         "basse_min": 155,
         "basse_max": 165,
