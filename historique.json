@@ -2,6 +2,16 @@
   "entries": [
     {
       "categorie": "autonome",
+      "isin": "DE000A2QP372",
+      "nom": "ISHARES EURO STOXX BANKS 30-15 UCITS ETF (DE) EUR (ACC)",
+      "enveloppe": "PEA",
+      "operation": "ALLEGER",
+      "quantite": 9,
+      "etat_apres": "FULL",
+      "date": "2026-05-27"
+    },
+    {
+      "categorie": "autonome",
       "isin": "FR001400PFU4",
       "nom": "PLANISWARE",
       "enveloppe": "PEA",
