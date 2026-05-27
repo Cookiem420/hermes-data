@@ -197,7 +197,7 @@
     "DE000A2QP372": {
       "isin": "DE000A2QP372",
       "nom": "ISHARES EURO STOXX BANKS 30-15 UCITS ETF (DE) EUR (ACC)",
-      "quantite": 119,
+      "quantite": 101,
       "enveloppe": "PEA",
       "cours": 36.285,
       "zones": {
@@ -210,7 +210,7 @@
       "risque": "Modéré",
       "categorie": "ETF_sectoriel",
       "thematique": "Finance",
-      "ancien_etat": null,
+      "ancien_etat": "FULL",
       "etat_actuel": "FULL",
       "achat_vente": null,
       "q_achat_vente": 0,
