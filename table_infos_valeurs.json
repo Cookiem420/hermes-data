@@ -1,7 +1,7 @@
 {
   "meta": {
     "description": "Table infos valeurs — Hermès V2",
-    "derniere_maj": "2026-05-23"
+    "derniere_maj": "2026-05-28"
   },
   "valeurs": {
     "FR001400AED5": {
@@ -159,7 +159,7 @@
     "FR0000038242": {
       "isin": "FR0000038242",
       "nom": "LUMIBIRD",
-      "quantite": 34,
+      "quantite": 42,
       "enveloppe": "PEA",
       "cours": 22.7,
       "zones": {
@@ -197,7 +197,7 @@
     "DE000A2QP372": {
       "isin": "DE000A2QP372",
       "nom": "ISHARES EURO STOXX BANKS 30-15 UCITS ETF (DE) EUR (ACC)",
-      "quantite": 101,
+      "quantite": 122,
       "enveloppe": "PEA",
       "cours": 36.285,
       "zones": {
@@ -235,7 +235,7 @@
     "FR0010202606": {
       "isin": "FR0010202606",
       "nom": "SIDETRADE",
-      "quantite": 2,
+      "quantite": 3,
       "enveloppe": "PEA",
       "cours": 0,
       "zones": {
@@ -311,7 +311,7 @@
     "FR0000065484": {
       "isin": "FR0000065484",
       "nom": "LECTRA",
-      "quantite": 19,
+      "quantite": 26,
       "enveloppe": "PEA",
       "cours": 16.46,
       "zones": {
@@ -919,7 +919,7 @@
     "BE0974310428": {
       "isin": "BE0974310428",
       "nom": "X-FAB SILICON",
-      "quantite": 90,
+      "quantite": 0,
       "enveloppe": "PEA-PME",
       "cours": 0,
       "zones": {
@@ -933,7 +933,7 @@
       "categorie": "Cyclique",
       "thematique": "Semi-conducteurs",
       "ancien_etat": "NOUVEAU",
-      "etat_actuel": "FULL",
+      "etat_actuel": "WATCHLIST",
       "achat_vente": null,
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
@@ -1939,9 +1939,9 @@
     "US2358511028": {
       "isin": "US2358511028",
       "nom": "Danaher Corporation",
-      "quantite": 0,
+      "quantite": 3,
       "enveloppe": "CTO",
-      "cours": 172.0,
+      "cours": 172,
       "zones": {
         "basse_min": 155,
         "basse_max": 165,
