@@ -116,7 +116,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 892.2,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "FR001400PFU4": {
       "isin": "FR001400PFU4",
@@ -154,7 +154,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "FR0000038242": {
       "isin": "FR0000038242",
@@ -192,7 +192,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 953.4,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "DE000A2QP372": {
       "isin": "DE000A2QP372",
@@ -230,7 +230,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 4426.77,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "FR0010202606": {
       "isin": "FR0010202606",
@@ -344,7 +344,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 427.96,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "FR0014004QR6": {
       "isin": "FR0014004QR6",
@@ -382,7 +382,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "FR0011341205": {
       "isin": "FR0011341205",
@@ -420,7 +420,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "FR0010096354": {
       "isin": "FR0010096354",
@@ -458,7 +458,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "FR0010331421": {
       "isin": "FR0010331421",
@@ -496,7 +496,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "FR0004007813": {
       "isin": "FR0004007813",
@@ -534,7 +534,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "FR0000125486": {
       "isin": "FR0000125486",
@@ -572,7 +572,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 499.6,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "US8740391003": {
       "isin": "US8740391003",
@@ -610,7 +610,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 395.95,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "US98419M1009": {
       "isin": "US98419M1009",
@@ -648,7 +648,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 649.8,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "DE0006047004": {
       "isin": "DE0006047004",
@@ -724,7 +724,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 2627.67,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "IE00BLS09M33": {
       "isin": "IE00BLS09M33",
@@ -762,7 +762,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 367.05,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "IE00BKT6FV49": {
       "isin": "IE00BKT6FV49",
@@ -800,7 +800,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 5531.6,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "LU1900068328": {
       "isin": "LU1900068328",
@@ -838,7 +838,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 149.64,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "GB00BNKGZC51": {
       "isin": "GB00BNKGZC51",
@@ -914,7 +914,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "BE0974310428": {
       "isin": "BE0974310428",
@@ -1972,7 +1972,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 516.0,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "US40131M1099": {
       "isin": "US40131M1099",
@@ -2010,7 +2010,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     },
     "US63253U1097": {
       "isin": "US63253U1097",
@@ -2048,7 +2048,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-05-29T10:38:52.770480+00:00"
+      "cours_timestamp": "2026-05-29T13:54:02.403751+00:00"
     }
   }
 }
