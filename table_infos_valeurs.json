@@ -2081,21 +2081,24 @@
       "quantite": 2,
       "cours": 0,
       "zones": {
-        "basse_min": 0,
-        "basse_max": 0,
-        "surveillance": 0,
-        "complement": 0,
-        "breakout": 0
+        "basse_min": 175,
+        "basse_max": 180,
+        "surveillance": 187,
+        "complement": 193,
+        "breakout": 200
       },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
+      "risque": "Modéré",
+      "categorie": "Cyclique",
+      "thematique": "Tech",
       "enveloppe": "À définir",
       "ancien_etat": null,
       "etat_actuel": "NOUVEAU",
       "achat_vente": null,
       "q_achat_vente": 0,
-      "prix_achat_vente": 0
+      "prix_achat_vente": 0,
+      "budget_cible": 1000,
+      "description": null,
+      "sl_actuel": null
     }
   }
 }
