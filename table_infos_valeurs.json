@@ -1,7 +1,7 @@
 {
   "meta": {
     "description": "Table infos valeurs — Hermès V2",
-    "derniere_maj": "2026-06-01"
+    "derniere_maj": "2026-06-08"
   },
   "valeurs": {
     "FR001400AED5": {
@@ -919,7 +919,7 @@
     "BE0974310428": {
       "isin": "BE0974310428",
       "nom": "X-FAB SILICON",
-      "quantite": 0,
+      "quantite": 47,
       "enveloppe": "PEA-PME",
       "cours": 0,
       "zones": {
@@ -1941,7 +1941,7 @@
       "nom": "Danaher Corporation",
       "quantite": 3,
       "enveloppe": "CTO",
-      "cours": 172.0,
+      "cours": 172,
       "zones": {
         "basse_min": 155,
         "basse_max": 165,
@@ -1971,7 +1971,7 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 516.0,
+      "derniere_valorisation": 516,
       "cours_timestamp": "2026-06-05T21:53:50.423220+00:00"
     },
     "US40131M1099": {
