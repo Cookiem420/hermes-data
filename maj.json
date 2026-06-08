@@ -1,11 +1,11 @@
 {
   "meta": {
-    "date_maj": "2026-06-01",
+    "date_maj": "2026-06-08",
     "version": "2.0"
   },
   "cash": {
-    "pea": 403.54,
-    "cto": 115.48,
+    "pea": 26.97,
+    "cto": 24.23,
     "pme": 16.38
   },
   "pea_positions": [
@@ -14,135 +14,142 @@
       "isin": "FR001400AED5",
       "quantite": 23.62,
       "pru": 125.17,
-      "montant": 3427.84
+      "montant": 3415.79
     },
     {
-      "nom": "AMUNDI STOXX EURP 600 BASIC RES ETF ACC",
+      "nom": "AMUNDI STOXX EUROPE 600 BASIC RESOURCES UCITS ETF ACC",
       "isin": "LU1834983550",
       "quantite": 7,
       "pru": 131.54,
-      "montant": 1007.91
+      "montant": 982.5
     },
     {
       "nom": "LEGRAND",
       "isin": "FR0010307819",
       "quantite": 8,
       "pru": 147.51,
-      "montant": 1181.2
+      "montant": 1134
     },
     {
       "nom": "LUMIBIRD",
       "isin": "FR0000038242",
       "quantite": 42,
       "pru": 24.43,
-      "montant": 1125.6
+      "montant": 1018.5
     },
     {
-      "nom": "ISHARES EURO STOXX BANKS 30-15ETF DE ACC",
+      "nom": "ISHARES EURO STOXX BANKS 30-15 UCITS ETF (DE) EUR (ACC)",
       "isin": "DE000A2QP372",
       "quantite": 121,
       "pru": 16.75,
-      "montant": 2197.36
+      "montant": 2153.8
+    },
+    {
+      "nom": "X-FAB SILICON",
+      "isin": "BE0974310428",
+      "quantite": 47,
+      "pru": 10.63,
+      "montant": 488.8
     },
     {
       "nom": "SIDETRADE",
       "isin": "FR0010202606",
       "quantite": 3,
       "pru": 166.43,
-      "montant": 503.4
+      "montant": 516.6
     },
     {
       "nom": "LECTRA",
       "isin": "FR0000065484",
       "quantite": 26,
       "pru": 16.98,
-      "montant": 451.88
+      "montant": 437.32
     }
   ],
   "cto_positions": [
     {
-      "nom": "ISHARES CORE MSCI JAPAN IMI ETF EURH ACC",
+      "nom": "ISHARES CORE MSCI JAPAN IMI UCITS ETF EUR HEDGED (",
       "isin": "IE00BKT6FV49",
       "quantite": 40,
       "pru": 13.8,
-      "montant": 586
+      "montant": 577.44
     },
     {
-      "nom": "AMUNDI MSCI AC ASIAPAC EX JPN ETF ACC",
+      "nom": "AMUNDI MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF ACC",
       "isin": "LU1900068328",
       "quantite": 4,
       "pru": 92.06,
-      "montant": 402.48
+      "montant": 386.76
     },
     {
       "nom": "ALPHABET-C",
       "isin": "US02079K1079",
       "quantite": 2,
-      "pru": 331.42,
-      "montant": 646.56
+      "pru": 331.14,
+      "montant": 628.45
     },
     {
       "nom": "DANAHER",
       "isin": "US2358511028",
       "quantite": 3,
       "pru": 149.28,
-      "montant": 470.66
+      "montant": 475.08
     },
     {
       "nom": "VINCI",
       "isin": "FR0000125486",
       "quantite": 4,
       "pru": 129.48,
-      "montant": 500.2
+      "montant": 492.4
     },
     {
       "nom": "AMA CORP",
       "isin": "GB00BNKGZC51",
       "quantite": 5,
       "pru": 6.6,
-      "montant": 0.55
+      "montant": 0.5
     },
     {
       "nom": "TSMC (TAIWAN SEMI.) SP ADR",
       "isin": "US8740391003",
       "quantite": 1,
       "pru": 348.68,
-      "montant": 359.49
+      "montant": 356.7
     },
     {
       "nom": "HEIDELBERGMAT",
       "isin": "DE0006047004",
       "quantite": 2,
       "pru": 194.23,
-      "montant": 381.6
+      "montant": 349.9
     },
     {
       "nom": "XYLEM",
       "isin": "US98419M1009",
       "quantite": 6,
       "pru": 106.47,
-      "montant": 564.6
+      "montant": 566.75
     },
     {
-      "nom": "AMUNDI IS MSCI WORLD EX EUROPE ETF-C EUR",
+      "nom": "AMUNDI MSCI WORLD EX EUROPE UCITS ETF - EUR",
       "isin": "LU1681045537",
       "quantite": 4,
       "pru": 711.11,
-      "montant": 3013.97
+      "montant": 2986.8
     },
     {
       "nom": "PENTAIR",
       "isin": "IE00BLS09M33",
       "quantite": 5,
       "pru": 66.51,
-      "montant": 304.19
+      "montant": 314.22
     },
     {
       "nom": "NVIDIA",
       "isin": "US67066G1040",
       "quantite": 2,
-      "pru": 187.9,
-      "montant": 362.66
+      "pru": 187.74,
+      "montant": 352.41
     }
   ],
   "pme_positions": [
@@ -151,56 +158,56 @@
       "isin": "QS0004065114",
       "quantite": 1,
       "pru": 1000,
-      "montant": 1178.07
+      "montant": 1180.08
     },
     {
       "nom": "EAGLESTONE FRANCE",
       "isin": "QS0004120687",
       "quantite": 1,
       "pru": 1000,
-      "montant": 1081.64
+      "montant": 1083.56
     },
     {
       "nom": "PORTEFEUILLE REDLAND",
       "isin": "QS0004138556",
       "quantite": 1,
       "pru": 1000,
-      "montant": 1037.4
+      "montant": 1039.41
     },
     {
       "nom": "OD.BHF IN.F.T.B 3D",
       "isin": "FR001400E4E3",
       "quantite": 10,
       "pru": 100,
-      "montant": 1017.71
+      "montant": 1016.09
     },
     {
       "nom": "MANDARINE EUROPE MICROCAP R EUR",
       "isin": "LU1303940784",
       "quantite": 26,
       "pru": 24.66,
-      "montant": 756.08
+      "montant": 745.42
     },
     {
       "nom": "ALLODIS 2",
       "isin": "QS0004122063",
       "quantite": 1,
       "pru": 1000,
-      "montant": 1075.34
+      "montant": 1077.45
     },
     {
       "nom": "AM.M.III EV.A P.4D",
       "isin": "FR001400E227",
       "quantite": 10.05,
       "pru": 99.54,
-      "montant": 1024.91
+      "montant": 1025.01
     },
     {
       "nom": "QUINTESSENCE",
       "isin": "QS0004062905",
       "quantite": 1,
       "pru": 1000,
-      "montant": 1183.01
+      "montant": 1184.93
     }
   ],
   "av": [
@@ -210,72 +217,76 @@
     },
     {
       "nom": "Pictet Global Megatrend",
-      "valeur": 2238.32
+      "valeur": 2289.78
     },
     {
       "nom": "DWS Concept Kaldemorgen",
-      "valeur": 2064.23
+      "valeur": 2068.41
     },
     {
       "nom": "DWS Top Dividende",
-      "valeur": 3758.82
+      "valeur": 3786.5
     },
     {
       "nom": "Eurose",
-      "valeur": 624.91
+      "valeur": 624.94
     },
     {
       "nom": "ANDERA Dette Privée",
-      "valeur": 1962.21
+      "valeur": 1964.44
     }
   ],
   "pee": [
     {
       "nom": "HSBC EE EURO PME F",
-      "valeur": 1888.27
+      "valeur": 1907.94
     },
     {
       "nom": "HSBC EE ACTIONS EUROPE SOLUTIONS CLIMAT F",
-      "valeur": 1396.23
+      "valeur": 1415.67
     },
     {
       "nom": "HSBC EE ISR ACTIONS EURO F",
-      "valeur": 1205.31
+      "valeur": 1174.49
     },
     {
       "nom": "HSBC EE ISR DIVERSIFIE ET SOLIDAIRE G",
-      "valeur": 990.95
+      "valeur": 1002.73
     },
     {
       "nom": "HSBC EE ISR ACTIONS MONDE F",
-      "valeur": 530.55
+      "valeur": 532
     }
   ],
   "livrets": [
     {
       "nom": "Livret A",
-      "valeur": 7000
+      "valeur": 7015
     },
     {
       "nom": "Livret $",
-      "valeur": 1943.16
+      "valeur": 1368.46
+    },
+    {
+      "nom": "Livret euro",
+      "valeur": 4.18
     },
     {
       "nom": "Compte courant",
-      "valeur": 91.8
+      "valeur": 68.6
     }
   ],
   "scpi": 7030.36,
-  "revolut": 1229.15,
+  "revolut": 1139.12,
   "totaux": {
-    "pea": 10298.73,
-    "cto": 7708.439999999998,
-    "pme": 8370.539999999999,
-    "av": 20774.01,
-    "pee": 6011.3099999999995,
-    "livrets": 9034.96,
+    "pea": 10174.279999999999,
+    "cto": 7511.64,
+    "pme": 8368.33,
+    "av": 20859.589999999997,
+    "pee": 6032.83,
+    "livrets": 8456.24,
     "scpi": 7030.36,
-    "revolut": 1229.15,
-    "total": 70457.49999999999
+    "revolut": 1139.12,
+    "total": 69572.38999999998
   }
 }
