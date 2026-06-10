@@ -55,7 +55,7 @@
         "complement": 147.5633,
         "breakout": 153.7817,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.353740",
+        "pivot_calcule_le": "2026-06-10T08:31:16.043144",
         "pivot_semaine": {
           "high": 150.681,
           "low": 141.362,
@@ -85,7 +85,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 959.14,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "FR0010307819": {
       "isin": "FR0010307819",
@@ -100,7 +100,7 @@
         "complement": 153.7167,
         "breakout": 158.7333,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.354767",
+        "pivot_calcule_le": "2026-06-10T08:31:16.043989",
         "pivot_semaine": {
           "high": 155.6,
           "low": 147.45,
@@ -130,7 +130,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 1189.6,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "FR001400PFU4": {
       "isin": "FR001400PFU4",
@@ -145,7 +145,7 @@
         "complement": 19.5067,
         "breakout": 20.2933,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.355727",
+        "pivot_calcule_le": "2026-06-10T08:31:16.044767",
         "pivot_semaine": {
           "high": 18.78,
           "low": 16.48,
@@ -175,7 +175,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "FR0000038242": {
       "isin": "FR0000038242",
@@ -190,7 +190,7 @@
         "complement": 23.926,
         "breakout": 25.1521,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.356700",
+        "pivot_calcule_le": "2026-06-10T08:31:16.045544",
         "pivot_semaine": {
           "high": 24.2619,
           "low": 22.1457,
@@ -220,7 +220,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 953.4,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "DE000A2QP372": {
       "isin": "DE000A2QP372",
@@ -235,7 +235,7 @@
         "complement": 36.6817,
         "breakout": 37.0783,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.357671",
+        "pivot_calcule_le": "2026-06-10T08:31:16.046301",
         "pivot_semaine": {
           "high": 36.45,
           "low": 35.425,
@@ -265,7 +265,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 4390.48,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "FR0010202606": {
       "isin": "FR0010202606",
@@ -280,7 +280,7 @@
         "complement": 173.7333,
         "breakout": 178.6667,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.358627",
+        "pivot_calcule_le": "2026-06-10T08:31:16.047025",
         "pivot_semaine": {
           "high": 170.8,
           "low": 158.0,
@@ -310,7 +310,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 506.4,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "FR0011882364": {
       "isin": "FR0011882364",
@@ -325,7 +325,7 @@
         "complement": 30.6393,
         "breakout": 31.2307,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.359595",
+        "pivot_calcule_le": "2026-06-10T08:31:16.047765",
         "pivot_semaine": {
           "high": 30.816,
           "low": 29.81,
@@ -355,7 +355,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "FR0000065484": {
       "isin": "FR0000065484",
@@ -370,7 +370,7 @@
         "complement": 16.8867,
         "breakout": 17.3133,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.360564",
+        "pivot_calcule_le": "2026-06-10T08:31:16.048542",
         "pivot_semaine": {
           "high": 16.7,
           "low": 15.66,
@@ -400,7 +400,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 427.96,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "FR0014004QR6": {
       "isin": "FR0014004QR6",
@@ -415,7 +415,7 @@
         "complement": 0.0004,
         "breakout": 0.0005,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.361315",
+        "pivot_calcule_le": "2026-06-10T08:31:16.049155",
         "pivot_semaine": {
           "high": 0.0004,
           "low": 0.0003,
@@ -445,7 +445,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-10T08:11:41.651539+00:00"
+      "cours_timestamp": "2026-06-10T08:31:16.293009+00:00"
     },
     "FR0011341205": {
       "isin": "FR0011341205",
@@ -460,7 +460,7 @@
         "complement": 45.22,
         "breakout": 50.94,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.362240",
+        "pivot_calcule_le": "2026-06-10T08:31:16.049869",
         "pivot_semaine": {
           "high": 47.66,
           "low": 38.66,
@@ -490,7 +490,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "FR0010096354": {
       "isin": "FR0010096354",
@@ -505,7 +505,7 @@
         "complement": 104.1833,
         "breakout": 110.5167,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.363175",
+        "pivot_calcule_le": "2026-06-10T08:31:16.050614",
         "pivot_semaine": {
           "high": 106.2,
           "low": 95.55,
@@ -535,7 +535,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "FR0010331421": {
       "isin": "FR0010331421",
@@ -550,7 +550,7 @@
         "complement": 2.3267,
         "breakout": 2.7533,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.364133",
+        "pivot_calcule_le": "2026-06-10T08:31:16.051344",
         "pivot_semaine": {
           "high": 2.2,
           "low": 1.22,
@@ -580,7 +580,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "FR0004007813": {
       "isin": "FR0004007813",
@@ -595,7 +595,7 @@
         "complement": 121.0333,
         "breakout": 125.3667,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.365079",
+        "pivot_calcule_le": "2026-06-10T08:31:16.052046",
         "pivot_semaine": {
           "high": 118.1,
           "low": 106.5,
@@ -625,7 +625,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "FR0000125486": {
       "isin": "FR0000125486",
@@ -640,7 +640,7 @@
         "complement": 128.3833,
         "breakout": 131.8667,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.366018",
+        "pivot_calcule_le": "2026-06-10T08:31:16.052777",
         "pivot_semaine": {
           "high": 128.65,
           "low": 121.95,
@@ -670,7 +670,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 499.6,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "US8740391003": {
       "isin": "US8740391003",
@@ -685,7 +685,7 @@
         "complement": 416.5733,
         "breakout": 437.1967,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.366951",
+        "pivot_calcule_le": "2026-06-10T08:31:16.053483",
         "pivot_semaine": {
           "high": 421.97,
           "low": 386.12,
@@ -715,7 +715,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 395.95,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "US98419M1009": {
       "isin": "US98419M1009",
@@ -730,7 +730,7 @@
         "complement": 111.19,
         "breakout": 114.08,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.367897",
+        "pivot_calcule_le": "2026-06-10T08:31:16.054193",
         "pivot_semaine": {
           "high": 112.38,
           "low": 107.79,
@@ -760,7 +760,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 649.8,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "DE0006047004": {
       "isin": "DE0006047004",
@@ -775,7 +775,7 @@
         "complement": 182.8912,
         "breakout": 194.0324,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.368843",
+        "pivot_calcule_le": "2026-06-10T08:31:16.054891",
         "pivot_semaine": {
           "high": 184.4618,
           "low": 163.75,
@@ -805,7 +805,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 343.5,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "LU1681045537": {
       "isin": "LU1681045537",
@@ -820,7 +820,7 @@
         "complement": 663.6534,
         "breakout": 670.3882,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.369785",
+        "pivot_calcule_le": "2026-06-10T08:31:16.055612",
         "pivot_semaine": {
           "high": 664.7498,
           "low": 652.3765,
@@ -850,7 +850,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 2627.67,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "IE00BLS09M33": {
       "isin": "IE00BLS09M33",
@@ -865,7 +865,7 @@
         "complement": 75.57,
         "breakout": 77.73,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.370714",
+        "pivot_calcule_le": "2026-06-10T08:31:16.056342",
         "pivot_semaine": {
           "high": 76.05,
           "low": 72.21,
@@ -895,7 +895,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 367.05,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "IE00BKT6FV49": {
       "isin": "IE00BKT6FV49",
@@ -910,7 +910,7 @@
         "complement": 140.29,
         "breakout": 142.29,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.371654",
+        "pivot_calcule_le": "2026-06-10T08:31:16.057054",
         "pivot_semaine": {
           "high": 138.42,
           "low": 132.55,
@@ -940,7 +940,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 5531.6,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "LU1900068328": {
       "isin": "LU1900068328",
@@ -955,7 +955,7 @@
         "complement": 38.729,
         "breakout": 40.049,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.372583",
+        "pivot_calcule_le": "2026-06-10T08:31:16.057782",
         "pivot_semaine": {
           "high": 39.0,
           "low": 36.631,
@@ -985,7 +985,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 149.64,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "GB00BNKGZC51": {
       "isin": "GB00BNKGZC51",
@@ -1000,7 +1000,7 @@
         "complement": 0.1161,
         "breakout": 0.1323,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.373321",
+        "pivot_calcule_le": "2026-06-10T08:31:16.058378",
         "pivot_semaine": {
           "high": 0.12,
           "low": 0.0916,
@@ -1030,7 +1030,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0.54,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "DE000HAG0005": {
       "isin": "DE000HAG0005",
@@ -1045,7 +1045,7 @@
         "complement": 83.48,
         "breakout": 86.76,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.374250",
+        "pivot_calcule_le": "2026-06-10T08:31:16.059089",
         "pivot_semaine": {
           "high": 80.5,
           "low": 70.96,
@@ -1075,7 +1075,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "BE0974310428": {
       "isin": "BE0974310428",
@@ -1090,7 +1090,7 @@
         "complement": 7.9667,
         "breakout": 8.4833,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.375192",
+        "pivot_calcule_le": "2026-06-10T08:31:16.059799",
         "pivot_semaine": {
           "high": 8.05,
           "low": 7.1,
@@ -1120,7 +1120,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 350.15,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "LU1303940784": {
       "isin": "LU1303940784",
@@ -2117,7 +2117,7 @@
         "complement": 177.5567,
         "breakout": 183.1133,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.376146",
+        "pivot_calcule_le": "2026-06-10T08:31:16.060500",
         "pivot_semaine": {
           "high": 174.95,
           "low": 161.23,
@@ -2147,7 +2147,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 516.0,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "US40131M1099": {
       "isin": "US40131M1099",
@@ -2162,7 +2162,7 @@
         "complement": 128.8767,
         "breakout": 138.8033,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.377076",
+        "pivot_calcule_le": "2026-06-10T08:31:16.061178",
         "pivot_semaine": {
           "high": 121.01,
           "low": 93.29,
@@ -2192,7 +2192,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "US63253U1097": {
       "isin": "US63253U1097",
@@ -2207,7 +2207,7 @@
         "complement": 213.0733,
         "breakout": 222.9567,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.378020",
+        "pivot_calcule_le": "2026-06-10T08:31:16.061890",
         "pivot_semaine": {
           "high": 210.67,
           "low": 188.5,
@@ -2237,7 +2237,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-10T08:11:43.351714+00:00"
+      "cours_timestamp": "2026-06-10T08:31:17.669311+00:00"
     },
     "US02079K1079": {
       "isin": "US02079K1079",
@@ -2278,7 +2278,7 @@
         "complement": 218.5067,
         "breakout": 225.8733,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:11:41.378984",
+        "pivot_calcule_le": "2026-06-10T08:31:16.062687",
         "pivot_semaine": {
           "high": 221.01,
           "low": 208.78,
@@ -2299,7 +2299,7 @@
       "sl_actuel": null,
       "derniere_valorisation": 422.28,
       "signal_sent_at": null,
-      "cours_timestamp": "2026-06-10T08:11:41.651528+00:00"
+      "cours_timestamp": "2026-06-10T08:31:16.292997+00:00"
     }
   }
 }
