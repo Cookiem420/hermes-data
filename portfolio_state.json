@@ -30,7 +30,8 @@
       },
       "historique_signaux": [],
       "historique_transactions": [],
-      "derniere_erreur_fetch": "2026-05-18T14:29:47.385860"
+      "derniere_erreur_fetch": "2026-05-18T14:29:47.385860",
+      "dernier_palier_perte": 0
     },
     "LEGRAND": {
       "isin": "FR0010307086",
@@ -57,7 +58,8 @@
         ]
       },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "dernier_palier_perte": 0
     },
     "PLANISWARE": {
       "isin": "FR001400PFU4",
@@ -84,7 +86,8 @@
         ]
       },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "dernier_palier_perte": 0
     },
     "LUMIBIRD": {
       "isin": "FR0000038242",
@@ -111,7 +114,8 @@
         ]
       },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "dernier_palier_perte": 0
     },
     "ETF_BANQUES": {
       "isin": "DE000A2QP387",
@@ -138,7 +142,8 @@
         ]
       },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "dernier_palier_perte": 0
     },
     "EXAIL": {
       "isin": "FR0000062671",
@@ -165,7 +170,8 @@
         ]
       },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "dernier_palier_perte": 0
     },
     "XFAB": {
       "isin": "BE0974310430",
@@ -193,7 +199,8 @@
       },
       "historique_signaux": [],
       "historique_transactions": [],
-      "derniere_erreur_fetch": "2026-05-18T14:30:00.374348"
+      "derniere_erreur_fetch": "2026-05-18T14:30:00.374348",
+      "dernier_palier_perte": 0
     },
     "SIDETRADE": {
       "isin": "FR0010202606",
@@ -220,7 +227,8 @@
         ]
       },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "dernier_palier_perte": 0
     },
     "ETF_EAU": {
       "isin": "FR0011882364",
@@ -247,7 +255,8 @@
         ]
       },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "dernier_palier_perte": 0
     },
     "LECTRA": {
       "isin": "FR0000065484",
@@ -274,7 +283,8 @@
         ]
       },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "dernier_palier_perte": 0
     },
     "VINCI": {
       "isin": "FR0000125486",
@@ -301,7 +311,8 @@
         ]
       },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "dernier_palier_perte": 0
     },
     "TSMC": {
       "isin": "US8740391003",
@@ -328,7 +339,8 @@
         ]
       },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "dernier_palier_perte": 0
     },
     "XYLEM": {
       "isin": "US98418T1043",
@@ -355,7 +367,8 @@
         ]
       },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "dernier_palier_perte": 0
     },
     "HEIDELBERG": {
       "isin": "DE0006047004",
@@ -382,7 +395,8 @@
         ]
       },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "dernier_palier_perte": 0
     },
     "ETF_WORLD": {
       "isin": "LU1681043599",
@@ -409,7 +423,8 @@
         ]
       },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "dernier_palier_perte": 0
     },
     "PENTAIR": {
       "isin": "IE00BLS09M33",
@@ -436,7 +451,8 @@
         ]
       },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "dernier_palier_perte": 0
     },
     "ETF_RESSOURCES": {
       "isin": "LU1834983477",
@@ -455,7 +471,8 @@
         "macd_hist": []
       },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "dernier_palier_perte": 0
     },
     "ETF_JAPON": {
       "isin": "IE00B42Z5J44",
@@ -482,7 +499,8 @@
         ]
       },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "dernier_palier_perte": 0
     },
     "ETF_ASIE": {
       "isin": "LU1681045370",
@@ -509,7 +527,8 @@
         ]
       },
       "historique_signaux": [],
-      "historique_transactions": []
+      "historique_transactions": [],
+      "dernier_palier_perte": 0
     }
   },
   "learning": {
