@@ -1,0 +1,23 @@
+{
+  "_comment": "Parametres configurables du moteur Hermes. Modifiables via la cartouche Parametres de l'onglet Actions. Le moteur lit ce fichier a chaque run.",
+  "_version": 1,
+  "_derniere_maj": "2026-06-13",
+  "ema": {
+    "imminence_pct": 0.015
+  },
+  "rsi": {
+    "min_base": 52,
+    "max_achat": 75,
+    "min_vente": 25,
+    "max_vente": 48
+  },
+  "paliers_perte": {
+    "premier": -0.13,
+    "increment": -0.05
+  },
+  "market_state": {
+    "BULL":     {"rsi_min": 52, "score_min": 3, "sizing_factor": 1.00},
+    "NEUTRAL":  {"rsi_min": 55, "score_min": 4, "sizing_factor": 0.75},
+    "RISK_OFF": {"rsi_min": 60, "score_min": 5, "sizing_factor": 0.50}
+  }
+}
