@@ -402,51 +402,6 @@
       "derniere_valorisation": 422.24,
       "cours_timestamp": "2026-06-13T05:01:02.971663+00:00"
     },
-    "FR0014004QR6": {
-      "isin": "FR0014004QR6",
-      "nom": "EXOSENS",
-      "quantite": 0,
-      "enveloppe": "PEA",
-      "cours": 0.0003,
-      "zones": {
-        "basse_min": 0.0003,
-        "basse_max": 0.0003,
-        "surveillance": 0.0004,
-        "complement": 0.0004,
-        "breakout": 0.0005,
-        "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-10T08:31:16.049155",
-        "pivot_semaine": {
-          "high": 0.0004,
-          "low": 0.0003,
-          "close": 0.0004
-        }
-      },
-      "risque": "Élevé",
-      "categorie": "Croissance",
-      "thematique": "Défense",
-      "ancien_etat": null,
-      "etat_actuel": "WATCHLIST",
-      "achat_vente": null,
-      "q_achat_vente": 0,
-      "prix_achat_vente": 0,
-      "historique_refus": [],
-      "sl_actuel": null,
-      "description": null,
-      "budget_cible": null,
-      "learning": {
-        "rsi_bonus": 0,
-        "macd_min": 0,
-        "breakout_bloque": false,
-        "cooldown_until": null,
-        "refus_consecutifs": 0,
-        "dernier_motif": null
-      },
-      "signal_id": null,
-      "signal_sent_at": null,
-      "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-12T20:31:28.268282+00:00"
-    },
     "FR0011341205": {
       "isin": "FR0011341205",
       "nom": "NANOBIOTIX",
