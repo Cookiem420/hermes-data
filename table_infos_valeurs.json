@@ -47,7 +47,7 @@
       "nom": "AMUNDI STOXX EUROPE 600 BASIC RESOURCES UCITS ETF ACC",
       "quantite": 7,
       "enveloppe": "PEA",
-      "cours": 144.792,
+      "cours": 145.195,
       "zones": {
         "basse_min": 132.9977,
         "basse_max": 137.8443,
@@ -84,15 +84,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 1013.54,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "derniere_valorisation": 1016.37,
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "FR0010307819": {
       "isin": "FR0010307819",
       "nom": "LEGRAND",
       "quantite": 8,
       "enveloppe": "PEA",
-      "cours": 137.85,
+      "cours": 137.95,
       "zones": {
         "basse_min": 130.4833,
         "basse_max": 132.0167,
@@ -129,15 +129,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 1102.8,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "derniere_valorisation": 1103.6,
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "FR001400PFU4": {
       "isin": "FR001400PFU4",
       "nom": "PLANISWARE",
       "quantite": 0,
       "enveloppe": "PEA",
-      "cours": 18.8,
+      "cours": 18.76,
       "zones": {
         "basse_min": 17.1467,
         "basse_max": 17.7333,
@@ -175,14 +175,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "FR0000038242": {
       "isin": "FR0000038242",
       "nom": "LUMIBIRD",
       "quantite": 42,
       "enveloppe": "PEA",
-      "cours": 23.25,
+      "cours": 23.1,
       "zones": {
         "basse_min": 22.7667,
         "basse_max": 23.3833,
@@ -219,15 +219,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 976.5,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "derniere_valorisation": 970.2,
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "DE000A2QP372": {
       "isin": "DE000A2QP372",
       "nom": "ISHARES EURO STOXX BANKS 30-15 UCITS ETF (DE) EUR (ACC)",
       "quantite": 118,
       "enveloppe": "PEA",
-      "cours": 39.525,
+      "cours": 39.59,
       "zones": {
         "basse_min": 35.97,
         "basse_max": 37.18,
@@ -264,15 +264,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 4663.95,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "derniere_valorisation": 4671.62,
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "FR0010202606": {
       "isin": "FR0010202606",
       "nom": "SIDETRADE",
       "quantite": 4,
       "enveloppe": "PEA",
-      "cours": 171.6,
+      "cours": 172.0,
       "zones": {
         "basse_min": 160.2667,
         "basse_max": 162.7333,
@@ -309,15 +309,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 686.4,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "derniere_valorisation": 688.0,
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "FR0011882364": {
       "isin": "FR0011882364",
       "nom": "AMUNDI PEA EAU (MSCI WATER) UCITS ETF - CAPI",
       "quantite": 0,
       "enveloppe": "PEA",
-      "cours": 31.221,
+      "cours": 31.35,
       "zones": {
         "basse_min": 30.3507,
         "basse_max": 30.6443,
@@ -355,7 +355,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "FR0000065484": {
       "isin": "FR0000065484",
@@ -400,14 +400,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 655.98,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "FR0011341205": {
       "isin": "FR0011341205",
       "nom": "NANOBIOTIX",
       "quantite": 0,
       "enveloppe": "PEA",
-      "cours": 30.74,
+      "cours": 30.52,
       "zones": {
         "basse_min": 27.3467,
         "basse_max": 28.9733,
@@ -445,14 +445,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "FR0010096354": {
       "isin": "FR0010096354",
       "nom": "ABIVAX",
       "quantite": 0,
       "enveloppe": "PEA",
-      "cours": 85.2,
+      "cours": 86.35,
       "zones": {
         "basse_min": 82.25,
         "basse_max": 83.65,
@@ -490,14 +490,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "FR0010331421": {
       "isin": "FR0010331421",
       "nom": "INNATE PHARMA",
       "quantite": 0,
       "enveloppe": "PEA",
-      "cours": 1.54,
+      "cours": 1.542,
       "zones": {
         "basse_min": 1.5193,
         "basse_max": 1.5407,
@@ -535,7 +535,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "FR0004007813": {
       "isin": "FR0004007813",
@@ -580,14 +580,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "FR0000125486": {
       "isin": "FR0000125486",
       "nom": "VINCI",
       "quantite": 4,
       "enveloppe": "CTO",
-      "cours": 128.175,
+      "cours": 128.2,
       "zones": {
         "basse_min": 121.1333,
         "basse_max": 123.5167,
@@ -624,15 +624,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 512.7,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "derniere_valorisation": 512.8,
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "US8740391003": {
       "isin": "US8740391003",
       "nom": "TSMC ADR",
       "quantite": 1,
       "enveloppe": "CTO",
-      "cours": 436.38,
+      "cours": 437.6,
       "zones": {
         "basse_min": 389.8831,
         "basse_max": 406.9066,
@@ -669,15 +669,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 436.38,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "derniere_valorisation": 437.6,
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "US98419M1009": {
       "isin": "US98419M1009",
       "nom": "XYLEM",
       "quantite": 6,
       "enveloppe": "CTO",
-      "cours": 110.99,
+      "cours": 111.9,
       "zones": {
         "basse_min": 104.1867,
         "basse_max": 107.1333,
@@ -714,15 +714,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 665.94,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "derniere_valorisation": 671.4,
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "DE0006047004": {
       "isin": "DE0006047004",
       "nom": "HEIDELBERGMAT",
       "quantite": 2,
       "enveloppe": "CTO",
-      "cours": 184.55,
+      "cours": 184.3,
       "zones": {
         "basse_min": 167.75,
         "basse_max": 174.95,
@@ -759,15 +759,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 369.1,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "derniere_valorisation": 368.6,
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "LU1681045537": {
       "isin": "LU1681045537",
       "nom": "AMUNDI MSCI WORLD EX EUROPE UCITS ETF - EUR",
       "quantite": 4,
       "enveloppe": "CTO",
-      "cours": 676.9009,
+      "cours": 677.6153,
       "zones": {
         "basse_min": 653.382,
         "basse_max": 660.9232,
@@ -804,15 +804,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 2707.6,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "derniere_valorisation": 2710.46,
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "IE00BLS09M33": {
       "isin": "IE00BLS09M33",
       "nom": "PENTAIR",
       "quantite": 5,
       "enveloppe": "CTO",
-      "cours": 74.23,
+      "cours": 74.99,
       "zones": {
         "basse_min": 69.0267,
         "basse_max": 71.4134,
@@ -849,8 +849,8 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 371.15,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "derniere_valorisation": 374.95,
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "IE00BKT6FV49": {
       "isin": "IE00BKT6FV49",
@@ -895,14 +895,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 5704.4,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "LU1900068328": {
       "isin": "LU1900068328",
       "nom": "AMUNDI MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF ACC",
       "quantite": 4,
       "enveloppe": "CTO",
-      "cours": 40.908,
+      "cours": 41.042,
       "zones": {
         "basse_min": 37.801,
         "basse_max": 38.823,
@@ -939,8 +939,8 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 163.63,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "derniere_valorisation": 164.17,
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "GB00BNKGZC51": {
       "isin": "GB00BNKGZC51",
@@ -985,14 +985,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0.59,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "DE000HAG0005": {
       "isin": "DE000HAG0005",
       "nom": "HENSOLDT",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 71.6,
+      "cours": 71.3,
       "zones": {
         "basse_min": 71.5533,
         "basse_max": 73.5867,
@@ -1030,14 +1030,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "BE0974310428": {
       "isin": "BE0974310428",
       "nom": "X-FAB SILICON",
       "quantite": 0,
       "enveloppe": "PEA-PME",
-      "cours": 10.21,
+      "cours": 10.11,
       "zones": {
         "basse_min": 8.3767,
         "basse_max": 9.3033,
@@ -1075,7 +1075,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 480.81,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "LU1303940784": {
       "isin": "LU1303940784",
@@ -2064,7 +2064,7 @@
       "nom": "Danaher Corporation",
       "quantite": 3,
       "enveloppe": "CTO",
-      "cours": 181.12,
+      "cours": 182.43,
       "zones": {
         "basse_min": 171.1333,
         "basse_max": 175.6167,
@@ -2101,15 +2101,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 543.36,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "derniere_valorisation": 547.29,
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "US40131M1099": {
       "isin": "US40131M1099",
       "nom": "Guardant Health Inc",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 129.71,
+      "cours": 129.59,
       "zones": {
         "basse_min": 118.4467,
         "basse_max": 125.0333,
@@ -2147,14 +2147,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "US63253U1097": {
       "isin": "US63253U1097",
       "nom": "Natera Inc",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 217.08,
+      "cours": 216.43,
       "zones": {
         "basse_min": 199.282,
         "basse_max": 205.676,
@@ -2192,13 +2192,13 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-16T13:31:42.101131+00:00"
+      "cours_timestamp": "2026-06-16T14:01:46.496425+00:00"
     },
     "US02079K1079": {
       "isin": "US02079K1079",
       "nom": "ALPHABET-C",
       "quantite": 3,
-      "cours": 367.61,
+      "cours": 366.54,
       "zones": {
         "basse_min": 331.0987,
         "basse_max": 344.6293,
@@ -2225,15 +2225,15 @@
       "budget_cible": 1000,
       "description": "google quantique",
       "sl_actuel": null,
-      "derniere_valorisation": 1102.83,
+      "derniere_valorisation": 1099.62,
       "signal_sent_at": null,
-      "cours_timestamp": "2026-06-16T13:31:40.330215+00:00"
+      "cours_timestamp": "2026-06-16T14:01:44.604769+00:00"
     },
     "US67066G1040": {
       "isin": "US67066G1040",
       "nom": "NVIDIA",
       "quantite": 3,
-      "cours": 211.2,
+      "cours": 208.76,
       "zones": {
         "basse_min": 193.25,
         "basse_max": 199.22,
@@ -2260,9 +2260,9 @@
       "budget_cible": 1000,
       "description": null,
       "sl_actuel": null,
-      "derniere_valorisation": 633.6,
+      "derniere_valorisation": 626.28,
       "signal_sent_at": null,
-      "cours_timestamp": "2026-06-16T13:31:40.330218+00:00"
+      "cours_timestamp": "2026-06-16T14:01:44.604772+00:00"
     }
   }
 }
