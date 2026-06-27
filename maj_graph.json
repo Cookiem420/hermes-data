@@ -93,6 +93,28 @@
           "note": "en tout "
         }
       ]
+    },
+    {
+      "date": "2026-06-27",
+      "totaux": {
+        "pea": 10323.179999999998,
+        "cto": 9508.800000000001,
+        "pme": 8378.769999999999,
+        "av": 20910,
+        "pee": 6064.78,
+        "livrets": 4881.42,
+        "scpi": 7325.56,
+        "revolut": 1417.28,
+        "total": 68809.79
+      },
+      "flux_net": -406,
+      "flux_detail": [
+        {
+          "type": "retrait",
+          "montant": 406,
+          "note": "global"
+        }
+      ]
     }
   ]
 }
