@@ -47,7 +47,7 @@
       "nom": "AMUNDI STOXX EUROPE 600 BASIC RESOURCES UCITS ETF ACC",
       "quantite": 7,
       "enveloppe": "PEA",
-      "cours": 129.88,
+      "cours": 130.06,
       "zones": {
         "basse_min": 123.3533,
         "basse_max": 126.8867,
@@ -55,7 +55,7 @@
         "complement": 136.0667,
         "breakout": 141.7133,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.181835+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.061847+00:00",
         "pivot_semaine": {
           "high": 138.18,
           "low": 129.0,
@@ -84,15 +84,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 909.16,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "derniere_valorisation": 910.42,
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "FR0010307819": {
       "isin": "FR0010307819",
       "nom": "LEGRAND",
       "quantite": 8,
       "enveloppe": "PEA",
-      "cours": 144.2,
+      "cours": 144.0,
       "zones": {
         "basse_min": 137.45,
         "basse_max": 141.2,
@@ -100,7 +100,7 @@
         "complement": 151.8,
         "breakout": 158.65,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.183330+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.063323+00:00",
         "pivot_semaine": {
           "high": 154.9,
           "low": 144.3,
@@ -129,15 +129,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 1153.6,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "derniere_valorisation": 1152.0,
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "FR001400PFU4": {
       "isin": "FR001400PFU4",
       "nom": "PLANISWARE",
       "quantite": 0,
       "enveloppe": "PEA",
-      "cours": 18.46,
+      "cours": 18.4,
       "zones": {
         "basse_min": 16.7667,
         "basse_max": 17.4533,
@@ -145,7 +145,7 @@
         "complement": 18.5533,
         "breakout": 18.9667,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.184782+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.064832+00:00",
         "pivot_semaine": {
           "high": 18.28,
           "low": 17.18,
@@ -175,14 +175,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "FR0000038242": {
       "isin": "FR0000038242",
       "nom": "LUMIBIRD",
       "quantite": 42,
       "enveloppe": "PEA",
-      "cours": 25.6,
+      "cours": 25.75,
       "zones": {
         "basse_min": 22.65,
         "basse_max": 23.7,
@@ -190,7 +190,7 @@
         "complement": 25.35,
         "breakout": 25.95,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.186304+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.066307+00:00",
         "pivot_semaine": {
           "high": 24.9,
           "low": 23.25,
@@ -219,15 +219,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 1075.2,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "derniere_valorisation": 1081.5,
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "DE000A2QP372": {
       "isin": "DE000A2QP372",
       "nom": "ISHARES EURO STOXX BANKS 30-15 UCITS ETF (DE) EUR (ACC)",
       "quantite": 118,
       "enveloppe": "PEA",
-      "cours": 40.03,
+      "cours": 39.965,
       "zones": {
         "basse_min": 38.9333,
         "basse_max": 39.4717,
@@ -235,7 +235,7 @@
         "complement": 40.7667,
         "breakout": 41.5233,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.187756+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.067751+00:00",
         "pivot_semaine": {
           "high": 40.985,
           "low": 39.69,
@@ -264,15 +264,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 4723.54,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "derniere_valorisation": 4715.87,
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "FR0010202606": {
       "isin": "FR0010202606",
       "nom": "SIDETRADE",
       "quantite": 4,
       "enveloppe": "PEA",
-      "cours": 169.8,
+      "cours": 169.0,
       "zones": {
         "basse_min": 149.5333,
         "basse_max": 161.2667,
@@ -280,7 +280,7 @@
         "complement": 178.8667,
         "breakout": 184.7333,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.189224+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.069238+00:00",
         "pivot_semaine": {
           "high": 173.0,
           "low": 155.4,
@@ -309,15 +309,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 679.2,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "derniere_valorisation": 676.0,
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "FR0011882364": {
       "isin": "FR0011882364",
       "nom": "AMUNDI PEA EAU (MSCI WATER) UCITS ETF - CAPI",
       "quantite": 0,
       "enveloppe": "PEA",
-      "cours": 32.555,
+      "cours": 32.565,
       "zones": {
         "basse_min": 30.6667,
         "basse_max": 31.6183,
@@ -325,7 +325,7 @@
         "complement": 33.1483,
         "breakout": 33.7267,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.190709+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.070687+00:00",
         "pivot_semaine": {
           "high": 32.775,
           "low": 31.245,
@@ -355,7 +355,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "FR0000065484": {
       "isin": "FR0000065484",
@@ -370,7 +370,7 @@
         "complement": 17.76,
         "breakout": 18.2,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.192160+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.072163+00:00",
         "pivot_semaine": {
           "high": 17.32,
           "low": 16.0,
@@ -400,14 +400,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 667.68,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "FR0011341205": {
       "isin": "FR0011341205",
       "nom": "NANOBIOTIX",
       "quantite": 0,
       "enveloppe": "PEA",
-      "cours": 30.84,
+      "cours": 30.6,
       "zones": {
         "basse_min": 28.2533,
         "basse_max": 29.6667,
@@ -415,7 +415,7 @@
         "complement": 31.9067,
         "breakout": 32.7333,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.193719+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.073611+00:00",
         "pivot_semaine": {
           "high": 31.32,
           "low": 29.08,
@@ -445,14 +445,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "FR0010096354": {
       "isin": "FR0010096354",
       "nom": "ABIVAX",
       "quantite": 0,
       "enveloppe": "PEA",
-      "cours": 85.5,
+      "cours": 85.0,
       "zones": {
         "basse_min": 71.7667,
         "basse_max": 78.1333,
@@ -460,7 +460,7 @@
         "complement": 90.2833,
         "breakout": 96.0667,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.195170+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.075067+00:00",
         "pivot_semaine": {
           "high": 89.7,
           "low": 77.55,
@@ -490,14 +490,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "FR0010331421": {
       "isin": "FR0010331421",
       "nom": "INNATE PHARMA",
       "quantite": 122,
       "enveloppe": "PEA",
-      "cours": 1.598,
+      "cours": 1.584,
       "zones": {
         "basse_min": 1.456,
         "basse_max": 1.516,
@@ -505,7 +505,7 @@
         "complement": 1.662,
         "breakout": 1.748,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.196630+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.076501+00:00",
         "pivot_semaine": {
           "high": 1.688,
           "low": 1.542,
@@ -534,8 +534,8 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 194.96,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "derniere_valorisation": 193.25,
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "FR0004007813": {
       "isin": "FR0004007813",
@@ -550,7 +550,7 @@
         "complement": 115.25,
         "breakout": 129.9,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.198025+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.077895+00:00",
         "pivot_semaine": {
           "high": 121.5,
           "low": 98.45,
@@ -580,14 +580,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "FR0000125486": {
       "isin": "FR0000125486",
       "nom": "VINCI",
       "quantite": 4,
       "enveloppe": "CTO",
-      "cours": 126.7,
+      "cours": 126.8,
       "zones": {
         "basse_min": 125.9333,
         "basse_max": 128.0167,
@@ -595,7 +595,7 @@
         "complement": 131.9667,
         "breakout": 133.8333,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.199490+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.079340+00:00",
         "pivot_semaine": {
           "high": 131.75,
           "low": 127.8,
@@ -624,8 +624,8 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 506.8,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "derniere_valorisation": 507.2,
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "US8740391003": {
       "isin": "US8740391003",
@@ -640,7 +640,7 @@
         "complement": 466.3633,
         "breakout": 500.3767,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.200941+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.080771+00:00",
         "pivot_semaine": {
           "high": 476.79,
           "low": 419.19,
@@ -670,7 +670,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 432.35,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "US98419M1009": {
       "isin": "US98419M1009",
@@ -685,7 +685,7 @@
         "complement": 121.15,
         "breakout": 125.85,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.202401+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.082212+00:00",
         "pivot_semaine": {
           "high": 119.8,
           "low": 109.05,
@@ -715,14 +715,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 698.7,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "DE0006047004": {
       "isin": "DE0006047004",
       "nom": "HEIDELBERGMAT",
       "quantite": 2,
       "enveloppe": "CTO",
-      "cours": 174.2,
+      "cours": 174.85,
       "zones": {
         "basse_min": 177.2667,
         "basse_max": 180.8333,
@@ -730,7 +730,7 @@
         "complement": 187.5333,
         "breakout": 190.6667,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.203854+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.083650+00:00",
         "pivot_semaine": {
           "high": 187.1,
           "low": 180.4,
@@ -759,15 +759,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 348.4,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "derniere_valorisation": 349.7,
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "LU1681045537": {
       "isin": "LU1681045537",
       "nom": "AMUNDI MSCI WORLD EX EUROPE UCITS ETF - EUR",
       "quantite": 4,
       "enveloppe": "CTO",
-      "cours": 675.0,
+      "cours": 675.28,
       "zones": {
         "basse_min": 658.5367,
         "basse_max": 666.0533,
@@ -775,7 +775,7 @@
         "complement": 682.4733,
         "breakout": 691.3767,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.205322+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.085092+00:00",
         "pivot_semaine": {
           "high": 683.86,
           "low": 667.44,
@@ -804,8 +804,8 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 2700.0,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "derniere_valorisation": 2701.12,
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "IE00BLS09M33": {
       "isin": "IE00BLS09M33",
@@ -820,7 +820,7 @@
         "complement": 78.56,
         "breakout": 80.7,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.206771+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.086522+00:00",
         "pivot_semaine": {
           "high": 77.69,
           "low": 72.54,
@@ -850,7 +850,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 382.1,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "IE00BKT6FV49": {
       "isin": "IE00BKT6FV49",
@@ -865,7 +865,7 @@
         "complement": 146.6167,
         "breakout": 151.4733,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.208227+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.087956+00:00",
         "pivot_semaine": {
           "high": 148.33,
           "low": 140.33,
@@ -895,14 +895,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 9919.0,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "LU1900068328": {
       "isin": "LU1900068328",
       "nom": "AMUNDI MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF ACC",
       "quantite": 8,
       "enveloppe": "CTO",
-      "cours": 40.34,
+      "cours": 40.375,
       "zones": {
         "basse_min": 37.5767,
         "basse_max": 39.0383,
@@ -910,7 +910,7 @@
         "complement": 42.5633,
         "breakout": 44.6267,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.209681+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.089396+00:00",
         "pivot_semaine": {
           "high": 43.165,
           "low": 39.64,
@@ -939,8 +939,8 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 322.72,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "derniere_valorisation": 323.0,
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "GB00BNKGZC51": {
       "isin": "GB00BNKGZC51",
@@ -955,7 +955,7 @@
         "complement": 0.1423,
         "breakout": 0.1612,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.211164+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.090829+00:00",
         "pivot_semaine": {
           "high": 0.147,
           "low": 0.114,
@@ -985,14 +985,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0.67,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "DE000HAG0005": {
       "isin": "DE000HAG0005",
       "nom": "HENSOLDT",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 66.04,
+      "cours": 66.36,
       "zones": {
         "basse_min": 57.3933,
         "basse_max": 61.1467,
@@ -1000,7 +1000,7 @@
         "complement": 70.8867,
         "breakout": 76.8733,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.212644+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.092280+00:00",
         "pivot_semaine": {
           "high": 73.12,
           "low": 63.38,
@@ -1030,14 +1030,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "BE0974310428": {
       "isin": "BE0974310428",
       "nom": "X-FAB SILICON",
       "quantite": 0,
       "enveloppe": "PEA-PME",
-      "cours": 8.25,
+      "cours": 8.24,
       "zones": {
         "basse_min": 6.6383,
         "basse_max": 7.3167,
@@ -1045,7 +1045,7 @@
         "complement": 9.3517,
         "breakout": 10.7083,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.214106+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.093715+00:00",
         "pivot_semaine": {
           "high": 10.03,
           "low": 7.995,
@@ -1075,7 +1075,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 480.81,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "LU1303940784": {
       "isin": "LU1303940784",
@@ -2072,7 +2072,7 @@
         "complement": 204.4346,
         "breakout": 212.6792,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.215574+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.095148+00:00",
         "pivot_semaine": {
           "high": 197.57,
           "low": 174.2162,
@@ -2102,7 +2102,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 588.57,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "US40131M1099": {
       "isin": "US40131M1099",
@@ -2117,7 +2117,7 @@
         "complement": 159.0067,
         "breakout": 168.7933,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.217023+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.096567+00:00",
         "pivot_semaine": {
           "high": 151.85,
           "low": 125.12,
@@ -2147,7 +2147,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "US63253U1097": {
       "isin": "US63253U1097",
@@ -2162,7 +2162,7 @@
         "complement": 282.42,
         "breakout": 302.93,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:26.218479+00:00",
+        "pivot_calcule_le": "2026-06-29T12:01:41.097995+00:00",
         "pivot_semaine": {
           "high": 271.47,
           "low": 219.5,
@@ -2192,7 +2192,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-06-29T11:31:26.177437+00:00"
+      "cours_timestamp": "2026-06-29T12:01:41.057648+00:00"
     },
     "US02079K1079": {
       "isin": "US02079K1079",
@@ -2206,7 +2206,7 @@
         "complement": 357.8967,
         "breakout": 381.1033,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:24.358738",
+        "pivot_calcule_le": "2026-06-29T12:01:39.039102",
         "pivot_semaine": {
           "high": 369.0,
           "low": 333.69,
@@ -2227,7 +2227,7 @@
       "sl_actuel": null,
       "derniere_valorisation": 1004.07,
       "signal_sent_at": null,
-      "cours_timestamp": "2026-06-29T11:31:24.647706+00:00"
+      "cours_timestamp": "2026-06-29T12:01:39.314799+00:00"
     },
     "US67066G1040": {
       "isin": "US67066G1040",
@@ -2241,7 +2241,7 @@
         "complement": 207.2733,
         "breakout": 222.0167,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-06-29T11:31:24.359430",
+        "pivot_calcule_le": "2026-06-29T12:01:39.039740",
         "pivot_semaine": {
           "high": 213.99,
           "low": 191.22,
@@ -2262,7 +2262,7 @@
       "sl_actuel": null,
       "derniere_valorisation": 962.65,
       "signal_sent_at": null,
-      "cours_timestamp": "2026-06-29T11:31:24.647709+00:00"
+      "cours_timestamp": "2026-06-29T12:01:39.314802+00:00"
     },
     "DE000GW7X8A4": {
       "isin": "DE000GW7X8A4",
