@@ -1,5 +1,6 @@
 {
-  "open": [
+  "open": [],
+  "closed": [
     {
       "id": 1782900368844,
       "sens": "call",
@@ -9,10 +10,13 @@
       "qty": 92,
       "prix_entree": 5.5,
       "date_entree": "2026-07-01",
-      "stop": 4.95
-    }
-  ],
-  "closed": [
+      "stop": 4.95,
+      "prix_sortie": 4.99,
+      "date_sortie": "2026-07-01",
+      "pnl": -46.92,
+      "pnl_pct": -9.27,
+      "montant_entree": 506
+    },
     {
       "id": 1782833451345,
       "sens": "call",
