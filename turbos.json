@@ -1,5 +1,17 @@
 {
-  "open": [],
+  "open": [
+    {
+      "id": 1782926946887,
+      "sens": "call",
+      "sj": "Cac",
+      "emet": "Gld",
+      "isin": "Kfbixiz",
+      "qty": 1850,
+      "prix_entree": 1.67,
+      "date_entree": "2026-07-01",
+      "stop": 1.503
+    }
+  ],
   "closed": [
     {
       "id": 1782923924199,
