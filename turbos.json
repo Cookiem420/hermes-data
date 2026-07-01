@@ -1,5 +1,17 @@
 {
-  "open": [],
+  "open": [
+    {
+      "id": 1782923924199,
+      "sens": "call",
+      "sj": "Cac",
+      "emet": "Gld",
+      "isin": "Dieb",
+      "qty": 302,
+      "prix_entree": 1.68,
+      "date_entree": "2026-07-01",
+      "stop": 1.512
+    }
+  ],
   "closed": [
     {
       "id": 1782921042722,
