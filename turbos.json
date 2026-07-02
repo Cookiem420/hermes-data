@@ -1,5 +1,17 @@
 {
-  "open": [],
+  "open": [
+    {
+      "id": 1782981769780,
+      "sens": "call",
+      "sj": "Ca",
+      "emet": "Gld",
+      "isin": "Fidf",
+      "qty": 1000,
+      "prix_entree": 2.148,
+      "date_entree": "2026-07-02",
+      "stop": 1.933
+    }
+  ],
   "closed": [
     {
       "id": 1782981640057,
