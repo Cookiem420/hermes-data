@@ -3,5 +3,19 @@
   "versements": {
     "AV": 18744,
     "PEE": 6440
+  },
+  "versements_lignes": {
+    "HSBC EE EURO PME F": 927,
+    "HSBC EE ACTIONS EUROPE SOLUTIONS CLIMAT F": 1131,
+    "HSBC EE ISR ACTIONS EURO F": 1510,
+    "HSBC EE ISR DIVERSIFIE ET SOLIDAIRE G": 967,
+    "HSBC EE ISR ACTIONS MONDE F": 1319,
+    "HSBC EE DIVERSIFIE EMERGENT G": 588,
+    "Fonds en euros": 8810,
+    "Pictet Global Megatrend": 2000,
+    "DWS Concept Kaldemorgen": 1798,
+    "DWS Top Dividende": 3353,
+    "Eurose": 580,
+    "ANDERA Dette Privée": 1943
   }
 }
