@@ -1,3 +1,7 @@
 {
-  "password_hash": "f74fee330886f88ceea28e9bdb43c9db1df048010398f407c9cb67e1c1c80e5e"
+  "password_hash": "f74fee330886f88ceea28e9bdb43c9db1df048010398f407c9cb67e1c1c80e5e",
+  "versements": {
+    "AV": 18744,
+    "PEE": 6440
+  }
 }
