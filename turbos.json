@@ -10,7 +10,9 @@
       "prix_entree": 5.57,
       "date_entree": "2026-07-06",
       "stop": 5.013
-    },
+    }
+  ],
+  "closed": [
     {
       "id": 1783321288298,
       "sens": "call",
@@ -20,10 +22,13 @@
       "qty": 210,
       "prix_entree": 5.68,
       "date_entree": "2026-07-06",
-      "stop": 5.112
-    }
-  ],
-  "closed": [
+      "stop": 5.112,
+      "prix_sortie": 5.95,
+      "date_sortie": "2026-07-06",
+      "pnl": 56.7,
+      "pnl_pct": 4.75,
+      "montant_entree": 1192.8
+    },
     {
       "id": 1783321309239,
       "sens": "call",
