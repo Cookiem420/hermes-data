@@ -12,17 +12,6 @@
       "stop": 5.013
     },
     {
-      "id": 1783324645861,
-      "sens": "call",
-      "sj": "Cac",
-      "emet": "",
-      "isin": "",
-      "qty": 400,
-      "prix_entree": 2.02,
-      "date_entree": "2026-07-06",
-      "stop": 1.818
-    },
-    {
       "id": 1783324662186,
       "sens": "call",
       "sj": "Cac",
@@ -35,6 +24,22 @@
     }
   ],
   "closed": [
+    {
+      "id": 1783324645861,
+      "sens": "call",
+      "sj": "Cac",
+      "emet": "",
+      "isin": "",
+      "qty": 400,
+      "prix_entree": 2.02,
+      "date_entree": "2026-07-06",
+      "stop": 1.818,
+      "prix_sortie": 2.17,
+      "date_sortie": "2026-07-06",
+      "pnl": 60,
+      "pnl_pct": 7.43,
+      "montant_entree": 808
+    },
     {
       "id": 1783321288298,
       "sens": "call",
