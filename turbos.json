@@ -12,17 +12,6 @@
       "stop": 5.013
     },
     {
-      "id": 1783323563538,
-      "sens": "call",
-      "sj": "Cac",
-      "emet": "",
-      "isin": "",
-      "qty": 420,
-      "prix_entree": 5.95,
-      "date_entree": "2026-07-06",
-      "stop": 5.355
-    },
-    {
       "id": 1783324645861,
       "sens": "call",
       "sj": "Cac",
