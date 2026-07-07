@@ -1,18 +1,6 @@
 {
   "open": [
     {
-      "sens": "call",
-      "sj": "Cac",
-      "emet": "Goldman",
-      "isin": "DE000GW7F0H8",
-      "qty": 100,
-      "prix_entree": 5.36,
-      "date_entree": "2026-07-06",
-      "montant_entree": 536,
-      "stop": 4.824,
-      "id": 1751500000098
-    },
-    {
       "id": 1783417945244,
       "sens": "call",
       "sj": "Cac",
@@ -36,6 +24,22 @@
     }
   ],
   "closed": [
+    {
+      "sens": "call",
+      "sj": "Cac",
+      "emet": "Goldman",
+      "isin": "DE000GW7F0H8",
+      "qty": 100,
+      "prix_entree": 5.36,
+      "date_entree": "2026-07-06",
+      "montant_entree": 536,
+      "stop": 4.824,
+      "id": 1751500000098,
+      "prix_sortie": 5.77,
+      "date_sortie": "2026-07-07",
+      "pnl": 41,
+      "pnl_pct": 7.65
+    },
     {
       "sens": "call",
       "sj": "Cac",
