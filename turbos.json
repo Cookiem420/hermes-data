@@ -1,17 +1,5 @@
 {
-  "open": [
-    {
-      "id": 1783441549397,
-      "sens": "put",
-      "sj": "car",
-      "emet": "",
-      "isin": "",
-      "qty": 800,
-      "prix_entree": 1.61,
-      "date_entree": "2026-07-07",
-      "stop": 1.449
-    }
-  ],
+  "open": [],
   "closed": [
     {
       "sens": "call",
