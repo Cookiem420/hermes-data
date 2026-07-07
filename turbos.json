@@ -30,22 +30,6 @@
       "montant_entree": 557
     },
     {
-      "id": 1783417945244,
-      "sens": "call",
-      "sj": "Cac",
-      "emet": "",
-      "isin": "",
-      "qty": 350,
-      "prix_entree": 5.55,
-      "date_entree": "2026-07-07",
-      "stop": 4.995,
-      "prix_sortie": 5.46,
-      "date_sortie": "2026-07-07",
-      "pnl": -31.5,
-      "pnl_pct": -1.62,
-      "montant_entree": 1942.5
-    },
-    {
       "sens": "call",
       "sj": "Cac",
       "emet": "Goldman",
