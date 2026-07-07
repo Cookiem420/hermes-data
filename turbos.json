@@ -1,17 +1,6 @@
 {
   "open": [
     {
-      "id": 1783421625218,
-      "sens": "put",
-      "sj": "Cac",
-      "emet": "",
-      "isin": "",
-      "qty": 23,
-      "prix_entree": 4.6,
-      "date_entree": "2026-07-07",
-      "stop": 4.14
-    },
-    {
       "id": 1783425640759,
       "sens": "call",
       "sj": "Cac",
