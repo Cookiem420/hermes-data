@@ -1,5 +1,6 @@
 {
-  "open": [
+  "open": [],
+  "closed": [
     {
       "id": 1783499867579,
       "sens": "put",
@@ -9,10 +10,13 @@
       "qty": 180,
       "prix_entree": 3,
       "date_entree": "2026-07-08",
-      "stop": 2.7
-    }
-  ],
-  "closed": [
+      "stop": 2.7,
+      "prix_sortie": 3.09,
+      "date_sortie": "2026-07-08",
+      "pnl": 16.2,
+      "pnl_pct": 3,
+      "montant_entree": 540
+    },
     {
       "id": 1783499178391,
       "sens": "put",
