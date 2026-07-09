@@ -1,17 +1,6 @@
 {
   "open": [
     {
-      "id": 1783599972529,
-      "sens": "call",
-      "sj": "Cac",
-      "emet": "",
-      "isin": "",
-      "qty": 2430,
-      "prix_entree": 1.795,
-      "date_entree": "2026-07-09",
-      "stop": 1.615
-    },
-    {
       "id": 1783599982720,
       "sens": "call",
       "sj": "Cac",
@@ -24,6 +13,22 @@
     }
   ],
   "closed": [
+    {
+      "id": 1783599972529,
+      "sens": "call",
+      "sj": "Cac",
+      "emet": "",
+      "isin": "",
+      "qty": 2430,
+      "prix_entree": 1.795,
+      "date_entree": "2026-07-09",
+      "stop": 1.615,
+      "prix_sortie": 1.805,
+      "date_sortie": "2026-07-09",
+      "pnl": 24.3,
+      "pnl_pct": 0.56,
+      "montant_entree": 4361.85
+    },
     {
       "sens": "put",
       "sj": "Cac",
