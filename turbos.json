@@ -1,5 +1,17 @@
 {
-  "open": [],
+  "open": [
+    {
+      "id": 1783656082686,
+      "sens": "call",
+      "sj": "cac",
+      "emet": "",
+      "isin": "",
+      "qty": 80,
+      "prix_entree": 6.54,
+      "date_entree": "2026-07-10",
+      "stop": 5.886
+    }
+  ],
   "closed": [
     {
       "sens": "call",
@@ -86,9 +98,9 @@
       "prix_sortie": 5.79,
       "date_entree": "2026-07-08",
       "date_sortie": "2026-07-08",
-      "pnl": -40.0,
+      "pnl": -40,
       "pnl_pct": -6.46,
-      "montant_entree": 619.0,
+      "montant_entree": 619,
       "id": 1751500000119
     },
     {
@@ -101,9 +113,9 @@
       "prix_sortie": 3.42,
       "date_entree": "2026-07-08",
       "date_sortie": "2026-07-08",
-      "pnl": 253.0,
+      "pnl": 253,
       "pnl_pct": 17.36,
-      "montant_entree": 1457.0,
+      "montant_entree": 1457,
       "id": 1751500000118
     },
     {
@@ -161,9 +173,9 @@
       "prix_sortie": 2.99,
       "date_entree": "2026-07-08",
       "date_sortie": "2026-07-08",
-      "pnl": 9.0,
+      "pnl": 9,
       "pnl_pct": 1.01,
-      "montant_entree": 888.0,
+      "montant_entree": 888,
       "id": 1751500000114
     },
     {
@@ -191,9 +203,9 @@
       "prix_sortie": 3.37,
       "date_entree": "2026-07-08",
       "date_sortie": "2026-07-08",
-      "pnl": 56.0,
+      "pnl": 56,
       "pnl_pct": 1.05,
-      "montant_entree": 5336.0,
+      "montant_entree": 5336,
       "id": 1751500000112
     },
     {
@@ -232,13 +244,13 @@
       "emet": "Goldman",
       "isin": "DE000GW60PL5",
       "qty": 180,
-      "prix_entree": 3.0,
+      "prix_entree": 3,
       "prix_sortie": 3.09,
       "date_entree": "2026-07-08",
       "date_sortie": "2026-07-08",
       "pnl": 16.2,
-      "pnl_pct": 3.0,
-      "montant_entree": 540.0,
+      "pnl_pct": 3,
+      "montant_entree": 540,
       "id": 1751500000109
     },
     {
@@ -251,7 +263,7 @@
       "prix_sortie": 7.73,
       "date_entree": "2026-07-08",
       "date_sortie": "2026-07-08",
-      "pnl": 18.0,
+      "pnl": 18,
       "pnl_pct": 8.42,
       "montant_entree": 213.9,
       "id": 1751500000108
@@ -296,9 +308,9 @@
       "prix_sortie": 1.75,
       "date_entree": "2026-07-07",
       "date_sortie": "2026-07-07",
-      "pnl": 7.0,
+      "pnl": 7,
       "pnl_pct": 0.1,
-      "montant_entree": 6818.0,
+      "montant_entree": 6818,
       "id": 1751500000105
     },
     {
@@ -326,9 +338,9 @@
       "prix_sortie": 1.68,
       "date_entree": "2026-07-07",
       "date_sortie": "2026-07-07",
-      "pnl": 968.0,
+      "pnl": 968,
       "pnl_pct": 16.35,
-      "montant_entree": 5920.0,
+      "montant_entree": 5920,
       "id": 1751500000103
     },
     {
@@ -341,9 +353,9 @@
       "prix_sortie": 1.84,
       "date_entree": "2026-07-07",
       "date_sortie": "2026-07-07",
-      "pnl": -864.0,
+      "pnl": -864,
       "pnl_pct": -19.82,
-      "montant_entree": 4360.0,
+      "montant_entree": 4360,
       "id": 1751500000102
     },
     {
@@ -356,9 +368,9 @@
       "prix_sortie": 1.4,
       "date_entree": "2026-07-07",
       "date_sortie": "2026-07-07",
-      "pnl": -18.0,
+      "pnl": -18,
       "pnl_pct": -0.71,
-      "montant_entree": 2538.0,
+      "montant_entree": 2538,
       "id": 1751500000101
     },
     {
@@ -401,9 +413,9 @@
       "prix_sortie": 5.77,
       "date_entree": "2026-07-07",
       "date_sortie": "2026-07-07",
-      "pnl": 41.0,
+      "pnl": 41,
       "pnl_pct": 7.65,
-      "montant_entree": 536.0,
+      "montant_entree": 536,
       "id": 1751500000098
     },
     {
@@ -416,9 +428,9 @@
       "prix_sortie": 5.48,
       "date_entree": "2026-07-06",
       "date_sortie": "2026-07-06",
-      "pnl": -46.0,
+      "pnl": -46,
       "pnl_pct": -1.38,
-      "montant_entree": 3334.0,
+      "montant_entree": 3334,
       "id": 1751500000097
     },
     {
@@ -431,9 +443,9 @@
       "prix_sortie": 1.47,
       "date_entree": "2026-07-06",
       "date_sortie": "2026-07-06",
-      "pnl": 60.0,
+      "pnl": 60,
       "pnl_pct": 7.3,
-      "montant_entree": 822.0,
+      "montant_entree": 822,
       "id": 1751500000096
     },
     {
@@ -446,9 +458,9 @@
       "prix_sortie": 4.38,
       "date_entree": "2026-07-06",
       "date_sortie": "2026-07-06",
-      "pnl": 16.0,
+      "pnl": 16,
       "pnl_pct": 1.86,
-      "montant_entree": 860.0,
+      "montant_entree": 860,
       "id": 1751500000095
     },
     {
@@ -461,9 +473,9 @@
       "prix_sortie": 5.78,
       "date_entree": "2026-07-06",
       "date_sortie": "2026-07-06",
-      "pnl": -4.0,
+      "pnl": -4,
       "pnl_pct": -0.69,
-      "montant_entree": 582.0,
+      "montant_entree": 582,
       "id": 1751500000094
     },
     {
@@ -478,7 +490,7 @@
       "date_sortie": "2026-07-06",
       "pnl": -17.5,
       "pnl_pct": -1.91,
-      "montant_entree": 917.0,
+      "montant_entree": 917,
       "id": 1751500000093
     },
     {
@@ -491,9 +503,9 @@
       "prix_sortie": 1.83,
       "date_entree": "2026-07-06",
       "date_sortie": "2026-07-06",
-      "pnl": -3.0,
+      "pnl": -3,
       "pnl_pct": -0.54,
-      "montant_entree": 552.0,
+      "montant_entree": 552,
       "id": 1751500000092
     },
     {
@@ -508,7 +520,7 @@
       "date_sortie": "2026-07-06",
       "pnl": 4.5,
       "pnl_pct": 0.7,
-      "montant_entree": 639.0,
+      "montant_entree": 639,
       "id": 1751500000091
     },
     {
@@ -521,9 +533,9 @@
       "prix_sortie": 5.85,
       "date_entree": "2026-07-06",
       "date_sortie": "2026-07-06",
-      "pnl": -48.0,
+      "pnl": -48,
       "pnl_pct": -1.35,
-      "montant_entree": 3558.0,
+      "montant_entree": 3558,
       "id": 1751500000090
     },
     {
@@ -536,9 +548,9 @@
       "prix_sortie": 2.03,
       "date_entree": "2026-07-06",
       "date_sortie": "2026-07-06",
-      "pnl": -14.0,
+      "pnl": -14,
       "pnl_pct": -6.45,
-      "montant_entree": 217.0,
+      "montant_entree": 217,
       "id": 1751500000089
     },
     {
@@ -551,9 +563,9 @@
       "prix_sortie": 2.16,
       "date_entree": "2026-07-06",
       "date_sortie": "2026-07-06",
-      "pnl": -9.0,
+      "pnl": -9,
       "pnl_pct": -1.03,
-      "montant_entree": 873.0,
+      "montant_entree": 873,
       "id": 1751500000088
     },
     {
@@ -581,9 +593,9 @@
       "prix_sortie": 2.17,
       "date_entree": "2026-07-06",
       "date_sortie": "2026-07-06",
-      "pnl": 60.0,
+      "pnl": 60,
       "pnl_pct": 7.43,
-      "montant_entree": 808.0,
+      "montant_entree": 808,
       "id": 1751500000086
     },
     {
@@ -608,7 +620,7 @@
       "isin": "DE000FG038Q4",
       "qty": 290,
       "prix_entree": 1.77,
-      "prix_sortie": 2.0,
+      "prix_sortie": 2,
       "date_entree": "2026-07-06",
       "date_sortie": "2026-07-06",
       "pnl": 66.7,
@@ -626,9 +638,9 @@
       "prix_sortie": 6.41,
       "date_entree": "2026-07-03",
       "date_sortie": "2026-07-03",
-      "pnl": -3.0,
+      "pnl": -3,
       "pnl_pct": -0.16,
-      "montant_entree": 1926.0,
+      "montant_entree": 1926,
       "id": 1751500000083
     },
     {
@@ -641,9 +653,9 @@
       "prix_sortie": 2.39,
       "date_entree": "2026-07-03",
       "date_sortie": "2026-07-03",
-      "pnl": 0.0,
-      "pnl_pct": 0.0,
-      "montant_entree": 1195.0,
+      "pnl": 0,
+      "pnl_pct": 0,
+      "montant_entree": 1195,
       "id": 1751500000082
     },
     {
@@ -656,9 +668,9 @@
       "prix_sortie": 6.4,
       "date_entree": "2026-07-03",
       "date_sortie": "2026-07-03",
-      "pnl": 108.0,
+      "pnl": 108,
       "pnl_pct": 2.89,
-      "montant_entree": 3732.0,
+      "montant_entree": 3732,
       "id": 1751500000081
     },
     {
@@ -716,8 +728,8 @@
       "prix_sortie": 2.38,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-03",
-      "pnl": 0.0,
-      "pnl_pct": 0.0,
+      "pnl": 0,
+      "pnl_pct": 0,
       "montant_entree": 2118.2,
       "id": 1751500000077
     },
@@ -746,9 +758,9 @@
       "prix_sortie": 2.28,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 455.0,
+      "pnl": 455,
       "pnl_pct": 6.05,
-      "montant_entree": 7525.0,
+      "montant_entree": 7525,
       "id": 1751500000075
     },
     {
@@ -761,9 +773,9 @@
       "prix_sortie": 2.95,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 56.0,
+      "pnl": 56,
       "pnl_pct": 0.68,
-      "montant_entree": 8204.0,
+      "montant_entree": 8204,
       "id": 1751500000074
     },
     {
@@ -776,9 +788,9 @@
       "prix_sortie": 3.51,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": -104.0,
+      "pnl": -104,
       "pnl_pct": -2.23,
-      "montant_entree": 4667.0,
+      "montant_entree": 4667,
       "id": 1751500000073
     },
     {
@@ -821,9 +833,9 @@
       "prix_sortie": 1.89,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 50.0,
+      "pnl": 50,
       "pnl_pct": 5.59,
-      "montant_entree": 895.0,
+      "montant_entree": 895,
       "id": 1751500000070
     },
     {
@@ -836,9 +848,9 @@
       "prix_sortie": 1.85,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 60.0,
+      "pnl": 60,
       "pnl_pct": 3.35,
-      "montant_entree": 1790.0,
+      "montant_entree": 1790,
       "id": 1751500000069
     },
     {
@@ -851,9 +863,9 @@
       "prix_sortie": 2.68,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 81.0,
+      "pnl": 81,
       "pnl_pct": 2.29,
-      "montant_entree": 3537.0,
+      "montant_entree": 3537,
       "id": 1751500000068
     },
     {
@@ -866,9 +878,9 @@
       "prix_sortie": 1.74,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": -22.0,
+      "pnl": -22,
       "pnl_pct": -2.25,
-      "montant_entree": 979.0,
+      "montant_entree": 979,
       "id": 1751500000067
     },
     {
@@ -883,7 +895,7 @@
       "date_sortie": "2026-07-02",
       "pnl": 40.5,
       "pnl_pct": 1.15,
-      "montant_entree": 3537.0,
+      "montant_entree": 3537,
       "id": 1751500000066
     },
     {
@@ -896,9 +908,9 @@
       "prix_sortie": 3.82,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": -275.0,
+      "pnl": -275,
       "pnl_pct": -3.47,
-      "montant_entree": 7915.0,
+      "montant_entree": 7915,
       "id": 1751500000065
     },
     {
@@ -928,7 +940,7 @@
       "date_sortie": "2026-07-02",
       "pnl": 37.5,
       "pnl_pct": 2.05,
-      "montant_entree": 1825.0,
+      "montant_entree": 1825,
       "id": 1751500000063
     },
     {
@@ -941,9 +953,9 @@
       "prix_sortie": 1.47,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 25.0,
+      "pnl": 25,
       "pnl_pct": 0.68,
-      "montant_entree": 3650.0,
+      "montant_entree": 3650,
       "id": 1751500000062
     },
     {
@@ -956,9 +968,9 @@
       "prix_sortie": 0.6,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": -250.0,
+      "pnl": -250,
       "pnl_pct": -7.69,
-      "montant_entree": 3250.0,
+      "montant_entree": 3250,
       "id": 1751500000061
     },
     {
@@ -971,9 +983,9 @@
       "prix_sortie": 2.28,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 54.0,
+      "pnl": 54,
       "pnl_pct": 1.33,
-      "montant_entree": 4050.0,
+      "montant_entree": 4050,
       "id": 1751500000060
     },
     {
@@ -1001,9 +1013,9 @@
       "prix_sortie": 0.66,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": -390.0,
+      "pnl": -390,
       "pnl_pct": -4.51,
-      "montant_entree": 8640.0,
+      "montant_entree": 8640,
       "id": 1751500000058
     },
     {
@@ -1016,9 +1028,9 @@
       "prix_sortie": 2.17,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": -45.0,
+      "pnl": -45,
       "pnl_pct": -1.36,
-      "montant_entree": 3300.0,
+      "montant_entree": 3300,
       "id": 1751500000057
     },
     {
@@ -1031,9 +1043,9 @@
       "prix_sortie": 0.71,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": -306.0,
+      "pnl": -306,
       "pnl_pct": -7.79,
-      "montant_entree": 3927.0,
+      "montant_entree": 3927,
       "id": 1751500000056
     },
     {
@@ -1076,9 +1088,9 @@
       "prix_sortie": 0.73,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": -180.0,
+      "pnl": -180,
       "pnl_pct": -5.19,
-      "montant_entree": 3465.0,
+      "montant_entree": 3465,
       "id": 1751500000053
     },
     {
@@ -1091,9 +1103,9 @@
       "prix_sortie": 2.2,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 15.0,
+      "pnl": 15,
       "pnl_pct": 0.46,
-      "montant_entree": 3285.0,
+      "montant_entree": 3285,
       "id": 1751500000052
     },
     {
@@ -1106,9 +1118,9 @@
       "prix_sortie": 2.24,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 90.0,
+      "pnl": 90,
       "pnl_pct": 2.75,
-      "montant_entree": 3270.0,
+      "montant_entree": 3270,
       "id": 1751500000051
     },
     {
@@ -1121,9 +1133,9 @@
       "prix_sortie": 2.14,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 0.0,
-      "pnl_pct": 0.0,
-      "montant_entree": 2140.0,
+      "pnl": 0,
+      "pnl_pct": 0,
+      "montant_entree": 2140,
       "id": 1751500000050
     },
     {
@@ -1151,9 +1163,9 @@
       "prix_sortie": 2.1,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": -30.0,
+      "pnl": -30,
       "pnl_pct": -2.78,
-      "montant_entree": 1080.0,
+      "montant_entree": 1080,
       "id": 1751500000048
     },
     {
@@ -1166,9 +1178,9 @@
       "prix_sortie": 2.13,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 5.0,
+      "pnl": 5,
       "pnl_pct": 0.47,
-      "montant_entree": 1060.0,
+      "montant_entree": 1060,
       "id": 1751500000047
     },
     {
@@ -1181,9 +1193,9 @@
       "prix_sortie": 0.79,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 20.0,
+      "pnl": 20,
       "pnl_pct": 2.6,
-      "montant_entree": 770.0,
+      "montant_entree": 770,
       "id": 1751500000046
     },
     {
@@ -1196,9 +1208,9 @@
       "prix_sortie": 2.19,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 42.0,
+      "pnl": 42,
       "pnl_pct": 10.61,
-      "montant_entree": 396.0,
+      "montant_entree": 396,
       "id": 1751500000045
     },
     {
@@ -1211,9 +1223,9 @@
       "prix_sortie": 2.13,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 45.0,
+      "pnl": 45,
       "pnl_pct": 7.58,
-      "montant_entree": 594.0,
+      "montant_entree": 594,
       "id": 1751500000044
     },
     {
@@ -1226,9 +1238,9 @@
       "prix_sortie": 1.98,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": -15.0,
+      "pnl": -15,
       "pnl_pct": -1.49,
-      "montant_entree": 1005.0,
+      "montant_entree": 1005,
       "id": 1751500000043
     },
     {
@@ -1241,9 +1253,9 @@
       "prix_sortie": 0.84,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": -84.0,
+      "pnl": -84,
       "pnl_pct": -12.5,
-      "montant_entree": 672.0,
+      "montant_entree": 672,
       "id": 1751500000042
     },
     {
@@ -1253,12 +1265,12 @@
       "isin": "DE000GW7X8A4",
       "qty": 100,
       "prix_entree": 4.79,
-      "prix_sortie": 5.0,
+      "prix_sortie": 5,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 21.0,
+      "pnl": 21,
       "pnl_pct": 4.38,
-      "montant_entree": 479.0,
+      "montant_entree": 479,
       "id": 1751500000041
     },
     {
@@ -1271,9 +1283,9 @@
       "prix_sortie": 1.77,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 138.0,
+      "pnl": 138,
       "pnl_pct": 14.94,
-      "montant_entree": 924.0,
+      "montant_entree": 924,
       "id": 1751500000040
     },
     {
@@ -1286,9 +1298,9 @@
       "prix_sortie": 1.75,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 84.0,
+      "pnl": 84,
       "pnl_pct": 13.64,
-      "montant_entree": 616.0,
+      "montant_entree": 616,
       "id": 1751500000039
     },
     {
@@ -1301,9 +1313,9 @@
       "prix_sortie": 1.3,
       "date_entree": "2026-07-02",
       "date_sortie": "2026-07-02",
-      "pnl": 10.0,
+      "pnl": 10,
       "pnl_pct": 0.78,
-      "montant_entree": 1290.0,
+      "montant_entree": 1290,
       "id": 1751500000038
     },
     {
@@ -1393,7 +1405,7 @@
       "date_sortie": "2026-07-01",
       "pnl": -46.92,
       "pnl_pct": -9.27,
-      "montant_entree": 506.0,
+      "montant_entree": 506,
       "id": 1751500000032
     },
     {
@@ -1438,7 +1450,7 @@
       "date_sortie": "2026-06-29",
       "pnl": -12.5,
       "pnl_pct": -1.14,
-      "montant_entree": 1095.0,
+      "montant_entree": 1095,
       "id": 1751500000029
     },
     {
@@ -1451,9 +1463,9 @@
       "prix_sortie": 6.09,
       "date_entree": "2026-06-26",
       "date_sortie": "2026-06-26",
-      "pnl": 4.0,
+      "pnl": 4,
       "pnl_pct": 0.33,
-      "montant_entree": 1214.0,
+      "montant_entree": 1214,
       "id": 1751500000028
     },
     {
@@ -1556,9 +1568,9 @@
       "prix_sortie": 5.82,
       "date_entree": "2026-06-25",
       "date_sortie": "2026-06-25",
-      "pnl": 6.0,
+      "pnl": 6,
       "pnl_pct": 0.52,
-      "montant_entree": 1158.0,
+      "montant_entree": 1158,
       "id": 1751500000021
     },
     {
@@ -1571,9 +1583,9 @@
       "prix_sortie": 5.73,
       "date_entree": "2026-06-25",
       "date_sortie": "2026-06-25",
-      "pnl": 68.0,
+      "pnl": 68,
       "pnl_pct": 2.02,
-      "montant_entree": 3370.0,
+      "montant_entree": 3370,
       "id": 1751500000020
     },
     {
@@ -1586,9 +1598,9 @@
       "prix_sortie": 5.66,
       "date_entree": "2026-06-25",
       "date_sortie": "2026-06-25",
-      "pnl": 16.0,
+      "pnl": 16,
       "pnl_pct": 0.47,
-      "montant_entree": 3380.0,
+      "montant_entree": 3380,
       "id": 1751500000019
     },
     {
@@ -1601,9 +1613,9 @@
       "prix_sortie": 5.72,
       "date_entree": "2026-06-25",
       "date_sortie": "2026-06-25",
-      "pnl": 6.0,
+      "pnl": 6,
       "pnl_pct": 1.06,
-      "montant_entree": 566.0,
+      "montant_entree": 566,
       "id": 1751500000018
     },
     {
@@ -1618,7 +1630,7 @@
       "date_sortie": "2026-06-25",
       "pnl": 63.5,
       "pnl_pct": 2.59,
-      "montant_entree": 2452.0,
+      "montant_entree": 2452,
       "id": 1751500000017
     },
     {
@@ -1631,9 +1643,9 @@
       "prix_sortie": 5.37,
       "date_entree": "2026-06-25",
       "date_sortie": "2026-06-25",
-      "pnl": -33.0,
+      "pnl": -33,
       "pnl_pct": -2.01,
-      "montant_entree": 1644.0,
+      "montant_entree": 1644,
       "id": 1751500000016
     },
     {
@@ -1646,9 +1658,9 @@
       "prix_sortie": 5.47,
       "date_entree": "2026-06-25",
       "date_sortie": "2026-06-25",
-      "pnl": 108.0,
+      "pnl": 108,
       "pnl_pct": 5.19,
-      "montant_entree": 2080.0,
+      "montant_entree": 2080,
       "id": 1751500000015
     },
     {
@@ -1691,9 +1703,9 @@
       "prix_sortie": 4.91,
       "date_entree": "2026-06-23",
       "date_sortie": "2026-06-23",
-      "pnl": -11.0,
+      "pnl": -11,
       "pnl_pct": -2.19,
-      "montant_entree": 502.0,
+      "montant_entree": 502,
       "id": 1751500000012
     },
     {
@@ -1721,9 +1733,9 @@
       "prix_sortie": 4.98,
       "date_entree": "2026-06-23",
       "date_sortie": "2026-06-23",
-      "pnl": 70.0,
+      "pnl": 70,
       "pnl_pct": 7.56,
-      "montant_entree": 926.0,
+      "montant_entree": 926,
       "id": 1751500000010
     },
     {
@@ -1781,9 +1793,9 @@
       "prix_sortie": 5.37,
       "date_entree": "2026-06-22",
       "date_sortie": "2026-06-22",
-      "pnl": 180.0,
+      "pnl": 180,
       "pnl_pct": 7.19,
-      "montant_entree": 2505.0,
+      "montant_entree": 2505,
       "id": 1751500000006
     },
     {
@@ -1826,9 +1838,9 @@
       "prix_sortie": 1.87,
       "date_entree": "2026-06-16",
       "date_sortie": "2026-06-18",
-      "pnl": 24.0,
+      "pnl": 24,
       "pnl_pct": 4.47,
-      "montant_entree": 537.0,
+      "montant_entree": 537,
       "id": 1751500000003
     },
     {
@@ -1841,9 +1853,9 @@
       "prix_sortie": 2.83,
       "date_entree": "2026-06-16",
       "date_sortie": "2026-06-16",
-      "pnl": 6.0,
+      "pnl": 6,
       "pnl_pct": 1.07,
-      "montant_entree": 560.0,
+      "montant_entree": 560,
       "id": 1751500000002
     },
     {
@@ -1856,9 +1868,9 @@
       "prix_sortie": 2.78,
       "date_entree": "2026-06-16",
       "date_sortie": "2026-06-16",
-      "pnl": -6.0,
+      "pnl": -6,
       "pnl_pct": -1.07,
-      "montant_entree": 562.0,
+      "montant_entree": 562,
       "id": 1751500000001
     },
     {
@@ -1871,9 +1883,9 @@
       "prix_sortie": 4.04,
       "date_entree": "2026-06-15",
       "date_sortie": "2026-06-15",
-      "pnl": 12.0,
+      "pnl": 12,
       "pnl_pct": 1.51,
-      "montant_entree": 796.0,
+      "montant_entree": 796,
       "id": 1751500000000
     }
   ]
