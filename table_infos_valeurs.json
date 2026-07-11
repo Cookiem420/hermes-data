@@ -1,7 +1,7 @@
 {
   "meta": {
     "description": "Table infos valeurs — Hermès V2",
-    "derniere_maj": "2026-07-04"
+    "derniere_maj": "2026-07-11"
   },
   "valeurs": {
     "FR001400AED5": {
@@ -45,7 +45,7 @@
     "LU1834983550": {
       "isin": "LU1834983550",
       "nom": "AMUNDI STOXX EUROPE 600 BASIC RESOURCES UCITS ETF ACC",
-      "quantite": 7,
+      "quantite": 0,
       "enveloppe": "PEA",
       "cours": 128.9,
       "zones": {
@@ -66,7 +66,7 @@
       "categorie": "ETF_sectoriel",
       "thematique": "Matières 1ères",
       "ancien_etat": null,
-      "etat_actuel": "FULL",
+      "etat_actuel": "WATCHLIST",
       "achat_vente": null,
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
@@ -90,7 +90,7 @@
     "FR0010307819": {
       "isin": "FR0010307819",
       "nom": "LEGRAND",
-      "quantite": 8,
+      "quantite": 11,
       "enveloppe": "PEA",
       "cours": 140.7,
       "zones": {
@@ -180,7 +180,7 @@
     "FR0000038242": {
       "isin": "FR0000038242",
       "nom": "LUMIBIRD",
-      "quantite": 42,
+      "quantite": 19,
       "enveloppe": "PEA",
       "cours": 27.35,
       "zones": {
@@ -192,7 +192,7 @@
         "pivot_source": "weekly",
         "pivot_calcule_le": "2026-07-06T23:31:10.033688+00:00",
         "pivot_semaine": {
-          "high": 26.0,
+          "high": 26,
           "low": 24.45,
           "close": 25.7
         }
@@ -225,7 +225,7 @@
     "DE000A2QP372": {
       "isin": "DE000A2QP372",
       "nom": "ISHARES EURO STOXX BANKS 30-15 UCITS ETF (DE) EUR (ACC)",
-      "quantite": 118,
+      "quantite": 51,
       "enveloppe": "PEA",
       "cours": 41.425,
       "zones": {
@@ -283,7 +283,7 @@
         "pivot_calcule_le": "2026-07-06T23:31:10.036659+00:00",
         "pivot_semaine": {
           "high": 183.4,
-          "low": 167.0,
+          "low": 167,
           "close": 179.2
         }
       },
@@ -360,7 +360,7 @@
     "FR0000065484": {
       "isin": "FR0000065484",
       "nom": "LECTRA",
-      "quantite": 39,
+      "quantite": 0,
       "enveloppe": "PEA",
       "cours": 17.32,
       "zones": {
@@ -381,7 +381,7 @@
       "categorie": "Qualite",
       "thematique": "Tech",
       "ancien_etat": null,
-      "etat_actuel": "FULL",
+      "etat_actuel": "WATCHLIST",
       "achat_vente": null,
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
@@ -464,7 +464,7 @@
         "pivot_semaine": {
           "high": 138.7,
           "low": 82.2,
-          "close": 135.0
+          "close": 135
         }
       },
       "risque": "Spéculatif",
@@ -585,9 +585,9 @@
     "FR0000125486": {
       "isin": "FR0000125486",
       "nom": "VINCI",
-      "quantite": 0,
+      "quantite": 5,
       "enveloppe": "CTO",
-      "cours": 119.0,
+      "cours": 119,
       "zones": {
         "basse_min": 121.4333,
         "basse_max": 124.6667,
@@ -630,7 +630,7 @@
     "US8740391003": {
       "isin": "US8740391003",
       "nom": "TSMC ADR",
-      "quantite": 1,
+      "quantite": 0,
       "enveloppe": "CTO",
       "cours": 434.11,
       "zones": {
@@ -642,7 +642,7 @@
         "pivot_source": "weekly",
         "pivot_calcule_le": "2026-07-06T23:31:10.048426+00:00",
         "pivot_semaine": {
-          "high": 479.0,
+          "high": 479,
           "low": 419.19,
           "close": 434.16
         }
@@ -651,7 +651,7 @@
       "categorie": "Croissance",
       "thematique": "Semi-conducteurs",
       "ancien_etat": null,
-      "etat_actuel": "FULL",
+      "etat_actuel": "WATCHLIST",
       "achat_vente": null,
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
@@ -720,7 +720,7 @@
     "DE0006047004": {
       "isin": "DE0006047004",
       "nom": "HEIDELBERGMAT",
-      "quantite": 2,
+      "quantite": 0,
       "enveloppe": "CTO",
       "cours": 171.1,
       "zones": {
@@ -741,7 +741,7 @@
       "categorie": "Cyclique",
       "thematique": "Matières 1ères",
       "ancien_etat": null,
-      "etat_actuel": "FULL",
+      "etat_actuel": "WATCHLIST",
       "achat_vente": null,
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
@@ -765,7 +765,7 @@
     "LU1681045537": {
       "isin": "LU1681045537",
       "nom": "AMUNDI MSCI WORLD EX EUROPE UCITS ETF - EUR",
-      "quantite": 0,
+      "quantite": 3,
       "enveloppe": "CTO",
       "cours": 686.72,
       "zones": {
@@ -810,7 +810,7 @@
     "IE00BLS09M33": {
       "isin": "IE00BLS09M33",
       "nom": "PENTAIR",
-      "quantite": 5,
+      "quantite": 0,
       "enveloppe": "CTO",
       "cours": 76.19,
       "zones": {
@@ -831,7 +831,7 @@
       "categorie": "Qualite",
       "thematique": "Eau & Env.",
       "ancien_etat": null,
-      "etat_actuel": "FULL",
+      "etat_actuel": "WATCHLIST",
       "achat_vente": null,
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
@@ -855,7 +855,7 @@
     "IE00BKT6FV49": {
       "isin": "IE00BKT6FV49",
       "nom": "ISHARES CORE MSCI JAPAN IMI UCITS ETF EUR HEDGED",
-      "quantite": 0,
+      "quantite": 50,
       "enveloppe": "CTO",
       "cours": 143.81,
       "zones": {
@@ -900,7 +900,7 @@
     "LU1900068328": {
       "isin": "LU1900068328",
       "nom": "AMUNDI MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF ACC",
-      "quantite": 0,
+      "quantite": 6,
       "enveloppe": "CTO",
       "cours": 40.015,
       "zones": {
@@ -1035,7 +1035,7 @@
     "BE0974310428": {
       "isin": "BE0974310428",
       "nom": "X-FAB SILICON",
-      "quantite": 0,
+      "quantite": 80,
       "enveloppe": "PEA-PME",
       "cours": 7.76,
       "zones": {
@@ -2062,7 +2062,7 @@
     "US2358511028": {
       "isin": "US2358511028",
       "nom": "Danaher Corporation",
-      "quantite": 3,
+      "quantite": 0,
       "enveloppe": "CTO",
       "cours": 199.05,
       "zones": {
@@ -2197,7 +2197,7 @@
     "US02079K1079": {
       "isin": "US02079K1079",
       "nom": "ALPHABET-C",
-      "quantite": 3,
+      "quantite": 0,
       "cours": 355.03,
       "zones": {
         "basse_min": 322.9867,
@@ -2218,7 +2218,7 @@
       "thematique": "Tech",
       "enveloppe": "À définir",
       "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
+      "etat_actuel": "WATCHLIST",
       "achat_vente": null,
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
@@ -2288,6 +2288,28 @@
       "sl_actuel": null,
       "derniere_valorisation": 0,
       "signal_sent_at": null
+    },
+    "FR0000124141": {
+      "isin": "FR0000124141",
+      "nom": "VEOLIA",
+      "quantite": 14,
+      "cours": 0,
+      "zones": {
+        "basse_min": 0,
+        "basse_max": 0,
+        "surveillance": 0,
+        "complement": 0,
+        "breakout": 0
+      },
+      "risque": null,
+      "categorie": null,
+      "thematique": null,
+      "enveloppe": "À définir",
+      "ancien_etat": null,
+      "etat_actuel": "NOUVEAU",
+      "achat_vente": null,
+      "q_achat_vente": 0,
+      "prix_achat_vente": 0
     }
   }
 }
