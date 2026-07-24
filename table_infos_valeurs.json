@@ -85,14 +85,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 902.3,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "FR0010307819": {
       "isin": "FR0010307819",
       "nom": "LEGRAND",
       "quantite": 11,
       "enveloppe": "PEA",
-      "cours": 135.3,
+      "cours": 135.25,
       "zones": {
         "basse_min": 128.1333,
         "basse_max": 131.7667,
@@ -129,8 +129,8 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 1488.3,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "derniere_valorisation": 1487.75,
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "FR001400PFU4": {
       "isin": "FR001400PFU4",
@@ -175,7 +175,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "FR0000038242": {
       "isin": "FR0000038242",
@@ -220,7 +220,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 521.55,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "DE000A2QP372": {
       "isin": "DE000A2QP372",
@@ -265,14 +265,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 2053.26,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "FR0010202606": {
       "isin": "FR0010202606",
       "nom": "SIDETRADE",
       "quantite": 4,
       "enveloppe": "PEA",
-      "cours": 205.0,
+      "cours": 204.0,
       "zones": {
         "basse_min": 165.5333,
         "basse_max": 168.6667,
@@ -309,15 +309,15 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 820.0,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "derniere_valorisation": 816.0,
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "FR0011882364": {
       "isin": "FR0011882364",
       "nom": "AMUNDI PEA EAU (MSCI WATER) UCITS ETF - CAPI",
       "quantite": 0,
       "enveloppe": "PEA",
-      "cours": 32.32,
+      "cours": 32.33,
       "zones": {
         "basse_min": 31.785,
         "basse_max": 32.175,
@@ -355,7 +355,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "FR0000065484": {
       "isin": "FR0000065484",
@@ -400,14 +400,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 675.48,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "FR0011341205": {
       "isin": "FR0011341205",
       "nom": "NANOBIOTIX",
       "quantite": 0,
       "enveloppe": "PEA",
-      "cours": 35.52,
+      "cours": 35.5,
       "zones": {
         "basse_min": 27.8533,
         "basse_max": 30.4067,
@@ -445,14 +445,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "FR0010096354": {
       "isin": "FR0010096354",
       "nom": "ABIVAX",
       "quantite": 0,
       "enveloppe": "PEA",
-      "cours": 115.1,
+      "cours": 115.4,
       "zones": {
         "basse_min": 113.6667,
         "basse_max": 116.4333,
@@ -490,7 +490,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "FR0010331421": {
       "isin": "FR0010331421",
@@ -535,7 +535,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 203.01,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "FR0004007813": {
       "isin": "FR0004007813",
@@ -580,7 +580,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "FR0000125486": {
       "isin": "FR0000125486",
@@ -625,7 +625,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 591.75,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "US8740391003": {
       "isin": "US8740391003",
@@ -670,7 +670,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 434.11,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "US98419M1009": {
       "isin": "US98419M1009",
@@ -715,14 +715,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 701.22,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "DE0006047004": {
       "isin": "DE0006047004",
       "nom": "HEIDELBERGMAT",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 168.65,
+      "cours": 168.6,
       "zones": {
         "basse_min": 162.6833,
         "basse_max": 168.3167,
@@ -760,14 +760,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 342.2,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "LU1681045537": {
       "isin": "LU1681045537",
       "nom": "AMUNDI MSCI WORLD EX EUROPE UCITS ETF - EUR",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 680.3,
+      "cours": 680.29,
       "zones": {
         "basse_min": 670.5567,
         "basse_max": 675.0933,
@@ -805,7 +805,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 2038.89,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "IE00BLS09M33": {
       "isin": "IE00BLS09M33",
@@ -850,7 +850,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 380.95,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "IE00BKT6FV49": {
       "isin": "IE00BKT6FV49",
@@ -895,14 +895,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 6886,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "LU1900068328": {
       "isin": "LU1900068328",
       "nom": "AMUNDI MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF ACC",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 38.14,
+      "cours": 38.095,
       "zones": {
         "basse_min": 34.4217,
         "basse_max": 35.8283,
@@ -940,7 +940,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 223.41,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "GB00BNKGZC51": {
       "isin": "GB00BNKGZC51",
@@ -985,7 +985,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0.7,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "DE000HAG0005": {
       "isin": "DE000HAG0005",
@@ -1030,7 +1030,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "BE0974310428": {
       "isin": "BE0974310428",
@@ -1075,7 +1075,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 577.2,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "LU1303940784": {
       "isin": "LU1303940784",
@@ -2102,7 +2102,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 597.15,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "US40131M1099": {
       "isin": "US40131M1099",
@@ -2147,7 +2147,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "US63253U1097": {
       "isin": "US63253U1097",
@@ -2192,7 +2192,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-07-24T12:59:08.993355+00:00"
+      "cours_timestamp": "2026-07-24T13:01:56.097193+00:00"
     },
     "US02079K1079": {
       "isin": "US02079K1079",
@@ -2227,7 +2227,7 @@
       "sl_actuel": 342.08,
       "derniere_valorisation": 0,
       "signal_sent_at": null,
-      "cours_timestamp": "2026-07-24T12:59:06.450488+00:00",
+      "cours_timestamp": "2026-07-24T13:01:53.505779+00:00",
       "signal_id": null
     },
     "US67066G1040": {
@@ -2263,7 +2263,7 @@
       "sl_actuel": null,
       "derniere_valorisation": 1043.8,
       "signal_sent_at": null,
-      "cours_timestamp": "2026-07-24T12:59:06.450431+00:00"
+      "cours_timestamp": "2026-07-24T13:01:53.505720+00:00"
     },
     "DE000GW7X8A4": {
       "isin": "DE000GW7X8A4",
@@ -2321,7 +2321,7 @@
       "sl_actuel": null,
       "derniere_valorisation": 514.22,
       "signal_sent_at": null,
-      "cours_timestamp": "2026-07-24T12:59:06.450434+00:00"
+      "cours_timestamp": "2026-07-24T13:01:53.505723+00:00"
     },
     "DE000GW9LF64": {
       "isin": "DE000GW9LF64",
