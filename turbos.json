@@ -1,5 +1,17 @@
 {
-  "open": [],
+  "open": [
+    {
+      "id": 1785249834216,
+      "sens": "call",
+      "sj": "Cac",
+      "emet": "",
+      "isin": "",
+      "qty": 1941,
+      "prix_entree": 2.07,
+      "date_entree": "2026-07-28",
+      "stop": 1.863
+    }
+  ],
   "closed": [
     {
       "sens": "call",
@@ -10,7 +22,7 @@
       "prix_entree": 1.69,
       "date_entree": "2026-07-28",
       "stop": 1.521,
-      "prix_sortie": 2.0,
+      "prix_sortie": 2,
       "date_sortie": "2026-07-28",
       "pnl": 1570.15,
       "pnl_pct": 18.34,
@@ -60,9 +72,9 @@
       "stop": 1.17,
       "prix_sortie": 1.17,
       "date_sortie": "2026-07-28",
-      "pnl": -390.0,
-      "pnl_pct": -10.0,
-      "montant_entree": 3900.0,
+      "pnl": -390,
+      "pnl_pct": -10,
+      "montant_entree": 3900,
       "id": 24
     },
     {
@@ -76,9 +88,9 @@
       "stop": 1.197,
       "prix_sortie": 1.17,
       "date_sortie": "2026-07-28",
-      "pnl": -480.0,
+      "pnl": -480,
       "pnl_pct": -12.03,
-      "montant_entree": 3990.0,
+      "montant_entree": 3990,
       "id": 23
     },
     {
@@ -92,9 +104,9 @@
       "stop": 1.17,
       "prix_sortie": 1.29,
       "date_sortie": "2026-07-28",
-      "pnl": -50.0,
+      "pnl": -50,
       "pnl_pct": -0.77,
-      "montant_entree": 6500.0,
+      "montant_entree": 6500,
       "id": 22
     },
     {
@@ -108,9 +120,9 @@
       "stop": 1.089,
       "prix_sortie": 1.24,
       "date_sortie": "2026-07-28",
-      "pnl": 120.0,
+      "pnl": 120,
       "pnl_pct": 2.48,
-      "montant_entree": 4840.0,
+      "montant_entree": 4840,
       "id": 21
     },
     {
@@ -124,9 +136,9 @@
       "stop": 1.152,
       "prix_sortie": 1.24,
       "date_sortie": "2026-07-28",
-      "pnl": -160.0,
+      "pnl": -160,
       "pnl_pct": -3.13,
-      "montant_entree": 5120.0,
+      "montant_entree": 5120,
       "id": 20
     },
     {
@@ -140,9 +152,9 @@
       "stop": 1.107,
       "prix_sortie": 1.25,
       "date_sortie": "2026-07-28",
-      "pnl": 20.0,
+      "pnl": 20,
       "pnl_pct": 1.63,
-      "montant_entree": 1230.0,
+      "montant_entree": 1230,
       "id": 19
     },
     {
@@ -156,9 +168,9 @@
       "stop": 1.035,
       "prix_sortie": 1.22,
       "date_sortie": "2026-07-28",
-      "pnl": 105.0,
+      "pnl": 105,
       "pnl_pct": 6.09,
-      "montant_entree": 1725.0,
+      "montant_entree": 1725,
       "id": 18
     },
     {
@@ -318,7 +330,7 @@
       "date_sortie": "2026-07-28",
       "pnl": -161.5,
       "pnl_pct": -27.84,
-      "montant_entree": 580.0,
+      "montant_entree": 580,
       "id": 8
     },
     {
@@ -334,7 +346,7 @@
       "date_sortie": "2026-07-28",
       "pnl": -173.46,
       "pnl_pct": -33.04,
-      "montant_entree": 525.0,
+      "montant_entree": 525,
       "id": 7
     },
     {
@@ -350,7 +362,7 @@
       "date_sortie": "2026-07-28",
       "pnl": -216.5,
       "pnl_pct": -34.09,
-      "montant_entree": 635.0,
+      "montant_entree": 635,
       "id": 6
     },
     {
@@ -362,11 +374,11 @@
       "prix_entree": 2.38,
       "date_entree": "2026-07-28",
       "stop": 2.142,
-      "prix_sortie": 2.0,
+      "prix_sortie": 2,
       "date_sortie": "2026-07-28",
-      "pnl": -190.0,
+      "pnl": -190,
       "pnl_pct": -15.97,
-      "montant_entree": 1190.0,
+      "montant_entree": 1190,
       "id": 5
     },
     {
@@ -378,11 +390,11 @@
       "prix_entree": 2.26,
       "date_entree": "2026-07-28",
       "stop": 2.034,
-      "prix_sortie": 2.0,
+      "prix_sortie": 2,
       "date_sortie": "2026-07-28",
-      "pnl": -65.0,
+      "pnl": -65,
       "pnl_pct": -11.5,
-      "montant_entree": 565.0,
+      "montant_entree": 565,
       "id": 4
     },
     {
@@ -396,9 +408,9 @@
       "stop": 2.034,
       "prix_sortie": 2.46,
       "date_sortie": "2026-07-28",
-      "pnl": 50.0,
+      "pnl": 50,
       "pnl_pct": 8.85,
-      "montant_entree": 565.0,
+      "montant_entree": 565,
       "id": 3
     },
     {
@@ -423,14 +435,14 @@
       "emet": "GSB",
       "isin": "DE000GW8SHZ2",
       "qty": 254,
-      "prix_entree": 2.0,
+      "prix_entree": 2,
       "date_entree": "2026-07-28",
       "stop": 1.8,
       "prix_sortie": 2.25,
       "date_sortie": "2026-07-28",
       "pnl": 63.5,
       "pnl_pct": 12.5,
-      "montant_entree": 508.0,
+      "montant_entree": 508,
       "id": 1
     }
   ]
