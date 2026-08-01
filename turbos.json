@@ -10,6 +10,17 @@
       "prix_entree": 2.95,
       "date_entree": "2026-08-01",
       "stop": 2.655
+    },
+    {
+      "id": 1785551450024,
+      "sens": "call",
+      "sj": "Cac",
+      "emet": "",
+      "isin": "",
+      "qty": 178,
+      "prix_entree": 2.81,
+      "date_entree": "2026-08-01",
+      "stop": 2.529
     }
   ],
   "closed": [
