@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "1.0",
-    "last_run": "2026-08-03T15:01:47.592729+00:00",
+    "last_run": "2026-08-03T15:31:39.407819+00:00",
     "derniere_maj_manuelle": "2026-05-15",
     "market_state": "BULL",
     "engine_paused": false
@@ -535,7 +535,7 @@
     "preferences_globales": {
       "pullback_prefere": false,
       "macd_strict": false,
-      "derniere_mise_a_jour": "2026-08-03T15:01:47.334314+00:00",
+      "derniere_mise_a_jour": "2026-08-03T15:31:39.113318+00:00",
       "refus_30j": {
         "TIMING": 0,
         "CASH": 0,
