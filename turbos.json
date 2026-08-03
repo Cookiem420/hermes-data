@@ -1,5 +1,17 @@
 {
-  "open": [],
+  "open": [
+    {
+      "id": 1785783670850,
+      "sens": "call",
+      "sj": "Cac",
+      "emet": "",
+      "isin": "",
+      "qty": 158,
+      "prix_entree": 1.68,
+      "date_entree": "2026-08-03",
+      "stop": 1.512
+    }
+  ],
   "closed": [
     {
       "id": 1785783627573,
