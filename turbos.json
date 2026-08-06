@@ -1,17 +1,6 @@
 {
   "open": [
     {
-      "id": 1786002338535,
-      "sens": "put",
-      "sj": "Cac",
-      "emet": "",
-      "isin": "",
-      "qty": 235,
-      "prix_entree": 4.25,
-      "date_entree": "2026-08-06",
-      "stop": 3.825
-    },
-    {
       "id": 1786002359236,
       "sens": "put",
       "sj": "Cac",
@@ -24,6 +13,22 @@
     }
   ],
   "closed": [
+    {
+      "id": 1786002338535,
+      "sens": "put",
+      "sj": "Cac",
+      "emet": "",
+      "isin": "",
+      "qty": 235,
+      "prix_entree": 4.25,
+      "date_entree": "2026-08-06",
+      "stop": 3.825,
+      "prix_sortie": 4.59,
+      "date_sortie": "2026-08-06",
+      "pnl": 79.9,
+      "pnl_pct": 8,
+      "montant_entree": 998.75
+    },
     {
       "id": 1786002306539,
       "sens": "put",
