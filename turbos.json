@@ -10,6 +10,17 @@
       "prix_entree": 1.24,
       "date_entree": "2026-08-07",
       "stop": 1.116
+    },
+    {
+      "id": 1786116349118,
+      "sens": "put",
+      "sj": "Cac",
+      "emet": "",
+      "isin": "",
+      "qty": 404,
+      "prix_entree": 1.24,
+      "date_entree": "2026-08-07",
+      "stop": 1.116
     }
   ],
   "closed": [
