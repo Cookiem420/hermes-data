@@ -49,17 +49,17 @@
       "enveloppe": "PEA",
       "cours": 140.36,
       "zones": {
-        "basse_min": 124.0467,
-        "basse_max": 129.2733,
-        "surveillance": 132.4267,
-        "complement": 137.6533,
-        "breakout": 140.8067,
+        "basse_min": 128.4933,
+        "basse_max": 134.4267,
+        "surveillance": 138.1533,
+        "complement": 144.0867,
+        "breakout": 147.8133,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.783979+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.799752+00:00",
         "pivot_semaine": {
-          "high": 135.58,
-          "low": 127.2,
-          "close": 134.5
+          "high": 141.88,
+          "low": 132.22,
+          "close": 140.36
         }
       },
       "risque": "Élevé",
@@ -85,7 +85,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "FR0010307819": {
       "isin": "FR0010307819",
@@ -94,17 +94,17 @@
       "enveloppe": "PEA",
       "cours": 140.2,
       "zones": {
-        "basse_min": 122.2667,
-        "basse_max": 128.2333,
-        "surveillance": 132.1167,
-        "complement": 138.0833,
-        "breakout": 141.9667,
+        "basse_min": 128.1333,
+        "basse_max": 134.1667,
+        "surveillance": 137.4333,
+        "complement": 143.4667,
+        "breakout": 146.7333,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.785588+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.801441+00:00",
         "pivot_semaine": {
-          "high": 136.0,
-          "low": 126.15,
-          "close": 134.2
+          "high": 140.7,
+          "low": 131.4,
+          "close": 140.2
         }
       },
       "risque": "Modéré",
@@ -130,7 +130,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 1542.2,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "FR001400PFU4": {
       "isin": "FR001400PFU4",
@@ -139,17 +139,17 @@
       "enveloppe": "PEA",
       "cours": 24.5,
       "zones": {
-        "basse_min": 18.7,
-        "basse_max": 21.05,
-        "surveillance": 22.5,
-        "complement": 24.85,
-        "breakout": 26.3,
+        "basse_min": 22.3667,
+        "basse_max": 23.4333,
+        "surveillance": 24.1667,
+        "complement": 25.2333,
+        "breakout": 25.9667,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.787158+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.803128+00:00",
         "pivot_semaine": {
-          "high": 23.95,
-          "low": 20.15,
-          "close": 23.4
+          "high": 24.9,
+          "low": 23.1,
+          "close": 24.5
         }
       },
       "risque": "Élevé",
@@ -175,7 +175,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "FR0000038242": {
       "isin": "FR0000038242",
@@ -184,17 +184,17 @@
       "enveloppe": "PEA",
       "cours": 27.0,
       "zones": {
-        "basse_min": 24.8167,
-        "basse_max": 25.7333,
-        "surveillance": 26.6167,
-        "complement": 27.5333,
-        "breakout": 28.4167,
+        "basse_min": 25.8667,
+        "basse_max": 26.4333,
+        "surveillance": 26.7667,
+        "complement": 27.3333,
+        "breakout": 27.6667,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.788699+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.804745+00:00",
         "pivot_semaine": {
-          "high": 27.5,
-          "low": 25.7,
-          "close": 26.65
+          "high": 27.1,
+          "low": 26.2,
+          "close": 27.0
         }
       },
       "risque": "Spéculatif",
@@ -220,7 +220,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 513.0,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "DE000A2QP372": {
       "isin": "DE000A2QP372",
@@ -229,17 +229,17 @@
       "enveloppe": "PEA",
       "cours": 42.795,
       "zones": {
-        "basse_min": 40.1233,
-        "basse_max": 41.0617,
-        "surveillance": 41.7083,
-        "complement": 42.6467,
-        "breakout": 43.2933,
+        "basse_min": 41.485,
+        "basse_max": 42.14,
+        "surveillance": 42.645,
+        "complement": 43.3,
+        "breakout": 43.805,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.790290+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.806366+00:00",
         "pivot_semaine": {
-          "high": 42.355,
-          "low": 40.77,
-          "close": 42.0
+          "high": 43.15,
+          "low": 41.99,
+          "close": 42.795
         }
       },
       "risque": "Modéré",
@@ -265,7 +265,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 2053.26,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "FR0010202606": {
       "isin": "FR0010202606",
@@ -274,17 +274,17 @@
       "enveloppe": "PEA",
       "cours": 202.0,
       "zones": {
-        "basse_min": 192.6667,
-        "basse_max": 199.3333,
-        "surveillance": 210.6667,
-        "complement": 217.3333,
-        "breakout": 228.6667,
+        "basse_min": 194.1333,
+        "basse_max": 198.0667,
+        "surveillance": 201.5333,
+        "complement": 205.4667,
+        "breakout": 208.9333,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.791853+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.807992+00:00",
         "pivot_semaine": {
-          "high": 222.0,
-          "low": 204.0,
-          "close": 206.0
+          "high": 205.0,
+          "low": 197.6,
+          "close": 202.0
         }
       },
       "risque": "Spéculatif",
@@ -310,7 +310,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 808.0,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "FR0011882364": {
       "isin": "FR0011882364",
@@ -319,17 +319,17 @@
       "enveloppe": "PEA",
       "cours": 32.975,
       "zones": {
-        "basse_min": 31.26,
-        "basse_max": 31.69,
-        "surveillance": 32.25,
-        "complement": 32.68,
-        "breakout": 33.24,
+        "basse_min": 31.4883,
+        "basse_max": 32.2317,
+        "surveillance": 32.6583,
+        "complement": 33.4017,
+        "breakout": 33.8283,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.793440+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.809613+00:00",
         "pivot_semaine": {
-          "high": 32.81,
-          "low": 31.82,
-          "close": 32.12
+          "high": 33.085,
+          "low": 31.915,
+          "close": 32.975
         }
       },
       "risque": "Modéré",
@@ -355,7 +355,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "FR0000065484": {
       "isin": "FR0000065484",
@@ -364,17 +364,17 @@
       "enveloppe": "PEA",
       "cours": 22.85,
       "zones": {
-        "basse_min": 16.76,
-        "basse_max": 18.58,
-        "surveillance": 19.94,
-        "complement": 21.76,
-        "breakout": 23.12,
+        "basse_min": 19.65,
+        "basse_max": 21.25,
+        "surveillance": 22.1,
+        "complement": 23.7,
+        "breakout": 24.55,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.795004+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.811236+00:00",
         "pivot_semaine": {
-          "high": 21.3,
-          "low": 18.12,
-          "close": 20.4
+          "high": 22.95,
+          "low": 20.5,
+          "close": 22.85
         }
       },
       "risque": "Spéculatif",
@@ -400,7 +400,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 675.48,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "FR0011341205": {
       "isin": "FR0011341205",
@@ -409,17 +409,17 @@
       "enveloppe": "PEA",
       "cours": 33.46,
       "zones": {
-        "basse_min": 30.86,
-        "basse_max": 32.86,
-        "surveillance": 34.28,
-        "complement": 36.28,
-        "breakout": 37.7,
+        "basse_min": 30.6867,
+        "basse_max": 32.0733,
+        "surveillance": 33.6867,
+        "complement": 35.0733,
+        "breakout": 36.6867,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.796547+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.812856+00:00",
         "pivot_semaine": {
-          "high": 35.7,
-          "low": 32.28,
-          "close": 34.86
+          "high": 35.3,
+          "low": 32.3,
+          "close": 33.46
         }
       },
       "risque": "Spéculatif",
@@ -445,7 +445,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "FR0010096354": {
       "isin": "FR0010096354",
@@ -454,17 +454,17 @@
       "enveloppe": "PEA",
       "cours": 114.1,
       "zones": {
-        "basse_min": 100.7667,
-        "basse_max": 106.5333,
-        "surveillance": 110.0667,
-        "complement": 115.8333,
-        "breakout": 119.3667,
+        "basse_min": 100.9667,
+        "basse_max": 107.5333,
+        "surveillance": 111.5667,
+        "complement": 118.1333,
+        "breakout": 122.1667,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.798238+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.814470+00:00",
         "pivot_semaine": {
-          "high": 113.6,
-          "low": 104.3,
-          "close": 112.3
+          "high": 115.6,
+          "low": 105.0,
+          "close": 114.1
         }
       },
       "risque": "Spéculatif",
@@ -490,7 +490,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "FR0010331421": {
       "isin": "FR0010331421",
@@ -499,17 +499,17 @@
       "enveloppe": "PEA",
       "cours": 1.508,
       "zones": {
-        "basse_min": 1.49,
-        "basse_max": 1.526,
-        "surveillance": 1.584,
-        "complement": 1.62,
-        "breakout": 1.678,
+        "basse_min": 1.4787,
+        "basse_max": 1.4933,
+        "surveillance": 1.5227,
+        "complement": 1.5373,
+        "breakout": 1.5667,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.799793+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.816094+00:00",
         "pivot_semaine": {
-          "high": 1.642,
-          "low": 1.548,
-          "close": 1.562
+          "high": 1.552,
+          "low": 1.508,
+          "close": 1.508
         }
       },
       "risque": "Spéculatif",
@@ -535,7 +535,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 203.01,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "FR0004007813": {
       "isin": "FR0004007813",
@@ -550,7 +550,7 @@
         "complement": 115.25,
         "breakout": 129.9,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.801215+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.817527+00:00",
         "pivot_semaine": {
           "high": 121.5,
           "low": 98.45,
@@ -580,7 +580,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "FR0000125486": {
       "isin": "FR0000125486",
@@ -589,17 +589,17 @@
       "enveloppe": "CTO",
       "cours": 125.35,
       "zones": {
-        "basse_min": 114.7333,
-        "basse_max": 118.8167,
-        "surveillance": 121.6833,
-        "complement": 125.7667,
-        "breakout": 128.6333,
+        "basse_min": 120.25,
+        "basse_max": 122.8,
+        "surveillance": 125.1,
+        "complement": 127.65,
+        "breakout": 129.95,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.802762+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.819142+00:00",
         "pivot_semaine": {
-          "high": 124.55,
-          "low": 117.6,
-          "close": 122.9
+          "high": 127.4,
+          "low": 122.55,
+          "close": 125.35
         }
       },
       "risque": "Modéré",
@@ -625,7 +625,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 626.75,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "US8740391003": {
       "isin": "US8740391003",
@@ -634,17 +634,17 @@
       "enveloppe": "CTO",
       "cours": 420.04,
       "zones": {
-        "basse_min": 356.1167,
-        "basse_max": 379.7133,
-        "surveillance": 396.3167,
-        "complement": 419.9133,
-        "breakout": 436.5167,
+        "basse_min": 386.7468,
+        "basse_max": 403.3934,
+        "surveillance": 414.8467,
+        "complement": 431.4933,
+        "breakout": 442.9466,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.804321+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.820756+00:00",
         "pivot_semaine": {
-          "high": 412.92,
-          "low": 372.72,
-          "close": 403.31
+          "high": 426.3,
+          "low": 398.2001,
+          "close": 420.04
         }
       },
       "risque": "Élevé",
@@ -670,7 +670,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 434.11,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "US98419M1009": {
       "isin": "US98419M1009",
@@ -679,17 +679,17 @@
       "enveloppe": "CTO",
       "cours": 120.32,
       "zones": {
-        "basse_min": 109.2333,
-        "basse_max": 113.0267,
-        "surveillance": 120.0933,
-        "complement": 123.8867,
-        "breakout": 130.9533,
+        "basse_min": 110.7267,
+        "basse_max": 115.5233,
+        "surveillance": 119.6167,
+        "complement": 124.4133,
+        "breakout": 128.5067,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.805875+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.822404+00:00",
         "pivot_semaine": {
-          "high": 127.16,
-          "low": 116.3,
-          "close": 116.82
+          "high": 123.71,
+          "low": 114.82,
+          "close": 120.32
         }
       },
       "risque": "Spéculatif",
@@ -715,7 +715,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "DE0006047004": {
       "isin": "DE0006047004",
@@ -724,17 +724,17 @@
       "enveloppe": "CTO",
       "cours": 160.85,
       "zones": {
-        "basse_min": 151.8667,
-        "basse_max": 155.8833,
-        "surveillance": 163.7167,
-        "complement": 167.7333,
-        "breakout": 175.5667,
+        "basse_min": 157.0167,
+        "basse_max": 158.9333,
+        "surveillance": 162.3667,
+        "complement": 164.2833,
+        "breakout": 167.7167,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.807459+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.824120+00:00",
         "pivot_semaine": {
-          "high": 171.55,
-          "low": 159.7,
-          "close": 159.9
+          "high": 165.8,
+          "low": 160.45,
+          "close": 160.85
         }
       },
       "risque": "Élevé",
@@ -760,7 +760,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 342.2,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "LU1681045537": {
       "isin": "LU1681045537",
@@ -769,17 +769,17 @@
       "enveloppe": "CTO",
       "cours": 699.77,
       "zones": {
-        "basse_min": 664.38,
-        "basse_max": 671.97,
-        "surveillance": 678.7,
-        "complement": 686.29,
-        "breakout": 693.02,
+        "basse_min": 667.3167,
+        "basse_max": 683.5433,
+        "surveillance": 692.1367,
+        "complement": 708.3633,
+        "breakout": 716.9567,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.809021+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.825736+00:00",
         "pivot_semaine": {
-          "high": 685.43,
-          "low": 671.11,
-          "close": 679.56
+          "high": 700.73,
+          "low": 675.91,
+          "close": 699.77
         }
       },
       "risque": "Modéré",
@@ -805,7 +805,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 2038.89,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "IE00BLS09M33": {
       "isin": "IE00BLS09M33",
@@ -814,17 +814,17 @@
       "enveloppe": "CTO",
       "cours": 68.89,
       "zones": {
-        "basse_min": 59.3833,
-        "basse_max": 62.7767,
-        "surveillance": 65.1383,
-        "complement": 68.5317,
-        "breakout": 70.8933,
+        "basse_min": 62.21,
+        "basse_max": 65.55,
+        "surveillance": 68.26,
+        "complement": 71.6,
+        "breakout": 74.31,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.810562+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.827351+00:00",
         "pivot_semaine": {
-          "high": 67.5,
-          "low": 61.745,
-          "close": 66.17
+          "high": 70.97,
+          "low": 64.92,
+          "close": 68.89
         }
       },
       "risque": "Modéré",
@@ -850,7 +850,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 380.95,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "IE00BKT6FV49": {
       "isin": "IE00BKT6FV49",
@@ -859,17 +859,17 @@
       "enveloppe": "CTO",
       "cours": 143.77,
       "zones": {
-        "basse_min": 134.94,
-        "basse_max": 137.27,
-        "surveillance": 139.92,
-        "complement": 142.25,
-        "breakout": 144.9,
+        "basse_min": 133.37,
+        "basse_max": 138.57,
+        "surveillance": 141.17,
+        "complement": 146.37,
+        "breakout": 148.97,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.812104+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.829634+00:00",
         "pivot_semaine": {
-          "high": 142.57,
-          "low": 137.59,
-          "close": 139.6
+          "high": 143.77,
+          "low": 135.97,
+          "close": 143.77
         }
       },
       "risque": "Modéré",
@@ -895,7 +895,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 6886,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "LU1900068328": {
       "isin": "LU1900068328",
@@ -904,17 +904,17 @@
       "enveloppe": "CTO",
       "cours": 38.095,
       "zones": {
-        "basse_min": 34.475,
-        "basse_max": 36.265,
-        "surveillance": 37.255,
-        "complement": 39.045,
-        "breakout": 40.035,
+        "basse_min": 36.2717,
+        "basse_max": 37.1833,
+        "surveillance": 37.8817,
+        "complement": 38.7933,
+        "breakout": 39.4917,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.813640+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.831322+00:00",
         "pivot_semaine": {
-          "high": 38.245,
-          "low": 35.465,
-          "close": 38.055
+          "high": 38.58,
+          "low": 36.97,
+          "close": 38.095
         }
       },
       "risque": "Élevé",
@@ -940,7 +940,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 223.41,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "GB00BNKGZC51": {
       "isin": "GB00BNKGZC51",
@@ -949,17 +949,17 @@
       "enveloppe": "CTO",
       "cours": 0.145,
       "zones": {
-        "basse_min": 0.1315,
-        "basse_max": 0.138,
-        "surveillance": 0.1415,
-        "complement": 0.148,
-        "breakout": 0.1515,
+        "basse_min": 0.1197,
+        "basse_max": 0.1323,
+        "surveillance": 0.1387,
+        "complement": 0.1513,
+        "breakout": 0.1577,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.815396+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.832959+00:00",
         "pivot_semaine": {
           "high": 0.145,
-          "low": 0.135,
-          "close": 0.1445
+          "low": 0.126,
+          "close": 0.145
         }
       },
       "risque": "Spéculatif",
@@ -985,7 +985,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0.72,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "DE000HAG0005": {
       "isin": "DE000HAG0005",
@@ -994,17 +994,17 @@
       "enveloppe": "CTO",
       "cours": 90.32,
       "zones": {
-        "basse_min": 73.3933,
-        "basse_max": 76.1267,
-        "surveillance": 80.9333,
-        "complement": 83.6667,
-        "breakout": 88.4733,
+        "basse_min": 73.2133,
+        "basse_max": 81.7667,
+        "surveillance": 88.3133,
+        "complement": 96.8667,
+        "breakout": 103.4133,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.817144+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.834615+00:00",
         "pivot_semaine": {
-          "high": 85.74,
-          "low": 78.2,
-          "close": 78.86
+          "high": 94.86,
+          "low": 79.76,
+          "close": 90.32
         }
       },
       "risque": "Élevé",
@@ -1030,7 +1030,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "BE0974310428": {
       "isin": "BE0974310428",
@@ -1039,17 +1039,17 @@
       "enveloppe": "PEA-PME",
       "cours": 7.03,
       "zones": {
-        "basse_min": 5.7667,
-        "basse_max": 6.1683,
-        "surveillance": 6.6517,
-        "complement": 7.0533,
-        "breakout": 7.5367,
+        "basse_min": 5.76,
+        "basse_max": 6.395,
+        "surveillance": 6.735,
+        "complement": 7.37,
+        "breakout": 7.71,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.818700+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.836367+00:00",
         "pivot_semaine": {
-          "high": 7.135,
-          "low": 6.25,
-          "close": 6.57
+          "high": 7.075,
+          "low": 6.1,
+          "close": 7.03
         }
       },
       "risque": "Élevé",
@@ -1075,7 +1075,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 562.4,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "LU1303940784": {
       "isin": "LU1303940784",
@@ -2066,17 +2066,17 @@
       "enveloppe": "CTO",
       "cours": 204.76,
       "zones": {
-        "basse_min": 178.59,
-        "basse_max": 187.38,
-        "surveillance": 198.64,
-        "complement": 207.43,
-        "breakout": 218.69,
+        "basse_min": 188.2867,
+        "basse_max": 196.5233,
+        "surveillance": 200.8567,
+        "complement": 209.0933,
+        "breakout": 213.4267,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.820277+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.838053+00:00",
         "pivot_semaine": {
-          "high": 209.9,
-          "low": 189.85,
-          "close": 196.17
+          "high": 205.19,
+          "low": 192.62,
+          "close": 204.76
         }
       },
       "risque": "Modéré",
@@ -2102,7 +2102,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 597.15,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "US40131M1099": {
       "isin": "US40131M1099",
@@ -2111,17 +2111,17 @@
       "enveloppe": "CTO",
       "cours": 168.48,
       "zones": {
-        "basse_min": 134.8967,
-        "basse_max": 143.6233,
-        "surveillance": 149.5867,
-        "complement": 158.3133,
-        "breakout": 164.2767,
+        "basse_min": 145.1733,
+        "basse_max": 156.8267,
+        "surveillance": 166.7033,
+        "complement": 178.3567,
+        "breakout": 188.2333,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.821812+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.839668+00:00",
         "pivot_semaine": {
-          "high": 155.55,
-          "low": 140.86,
-          "close": 152.35
+          "high": 176.58,
+          "low": 155.05,
+          "close": 168.48
         }
       },
       "risque": "Spéculatif",
@@ -2147,7 +2147,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "US63253U1097": {
       "isin": "US63253U1097",
@@ -2156,17 +2156,17 @@
       "enveloppe": "CTO",
       "cours": 322.1,
       "zones": {
-        "basse_min": 239.7567,
-        "basse_max": 254.7083,
-        "surveillance": 262.9792,
-        "complement": 277.9308,
-        "breakout": 286.2017,
+        "basse_min": 238.4267,
+        "basse_max": 280.2634,
+        "surveillance": 301.6366,
+        "complement": 343.4733,
+        "breakout": 364.8465,
         "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-03T23:31:04.823462+00:00",
+        "pivot_calcule_le": "2026-08-10T00:01:27.841327+00:00",
         "pivot_semaine": {
-          "high": 271.25,
-          "low": 248.0275,
-          "close": 269.66
+          "high": 323.0099,
+          "low": 259.8,
+          "close": 322.1
         }
       },
       "risque": "Élevé",
@@ -2192,7 +2192,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-09T23:31:00.119478+00:00"
+      "cours_timestamp": "2026-08-10T00:01:27.778062+00:00"
     },
     "US02079K1079": {
       "isin": "US02079K1079",
