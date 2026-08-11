@@ -85,7 +85,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "FR0010307819": {
       "isin": "FR0010307819",
@@ -130,7 +130,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 1547.7,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "FR001400PFU4": {
       "isin": "FR001400PFU4",
@@ -175,7 +175,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "FR0000038242": {
       "isin": "FR0000038242",
@@ -220,7 +220,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 531.05,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "DE000A2QP372": {
       "isin": "DE000A2QP372",
@@ -265,7 +265,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 2053.26,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "FR0010202606": {
       "isin": "FR0010202606",
@@ -310,7 +310,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 802.0,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "FR0011882364": {
       "isin": "FR0011882364",
@@ -355,7 +355,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "FR0000065484": {
       "isin": "FR0000065484",
@@ -400,7 +400,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 675.48,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "FR0011341205": {
       "isin": "FR0011341205",
@@ -445,7 +445,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "FR0010096354": {
       "isin": "FR0010096354",
@@ -490,7 +490,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "FR0010331421": {
       "isin": "FR0010331421",
@@ -535,7 +535,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 203.01,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "FR0004007813": {
       "isin": "FR0004007813",
@@ -580,7 +580,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "FR0000125486": {
       "isin": "FR0000125486",
@@ -625,7 +625,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 616.5,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "US8740391003": {
       "isin": "US8740391003",
@@ -670,7 +670,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "US98419M1009": {
       "isin": "US98419M1009",
@@ -715,7 +715,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "DE0006047004": {
       "isin": "DE0006047004",
@@ -760,7 +760,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 342.2,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "LU1681045537": {
       "isin": "LU1681045537",
@@ -805,7 +805,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 2038.89,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "IE00BLS09M33": {
       "isin": "IE00BLS09M33",
@@ -850,7 +850,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 380.95,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "IE00BKT6FV49": {
       "isin": "IE00BKT6FV49",
@@ -895,7 +895,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 6886,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "LU1900068328": {
       "isin": "LU1900068328",
@@ -940,7 +940,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 223.41,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "GB00BNKGZC51": {
       "isin": "GB00BNKGZC51",
@@ -985,7 +985,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0.73,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "DE000HAG0005": {
       "isin": "DE000HAG0005",
@@ -1030,7 +1030,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "BE0974310428": {
       "isin": "BE0974310428",
@@ -1075,7 +1075,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 566.0,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "LU1303940784": {
       "isin": "LU1303940784",
@@ -2064,7 +2064,7 @@
       "nom": "Danaher Corporation",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 207.4,
+      "cours": 207.44,
       "zones": {
         "basse_min": 188.2867,
         "basse_max": 196.5233,
@@ -2102,7 +2102,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 597.15,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "US40131M1099": {
       "isin": "US40131M1099",
@@ -2147,7 +2147,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "US63253U1097": {
       "isin": "US63253U1097",
@@ -2192,7 +2192,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-11T20:01:42.512020+00:00"
+      "cours_timestamp": "2026-08-11T20:31:36.456412+00:00"
     },
     "US02079K1079": {
       "isin": "US02079K1079",
@@ -2227,7 +2227,7 @@
       "sl_actuel": 342.08,
       "derniere_valorisation": 0,
       "signal_sent_at": null,
-      "cours_timestamp": "2026-08-11T20:01:39.435780+00:00",
+      "cours_timestamp": "2026-08-11T20:31:33.333407+00:00",
       "signal_id": null
     },
     "US67066G1040": {
@@ -2263,7 +2263,7 @@
       "sl_actuel": 198.27,
       "derniere_valorisation": 0,
       "signal_sent_at": null,
-      "cours_timestamp": "2026-08-11T20:01:39.435782+00:00",
+      "cours_timestamp": "2026-08-11T20:31:33.333410+00:00",
       "signal_id": null
     },
     "DE000GW7X8A4": {
@@ -2322,7 +2322,7 @@
       "sl_actuel": null,
       "derniere_valorisation": 481.74,
       "signal_sent_at": null,
-      "cours_timestamp": "2026-08-11T20:01:39.435720+00:00"
+      "cours_timestamp": "2026-08-11T20:31:33.333347+00:00"
     },
     "DE000GW9LF64": {
       "isin": "DE000GW9LF64",
