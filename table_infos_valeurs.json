@@ -85,7 +85,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "FR0010307819": {
       "isin": "FR0010307819",
@@ -130,7 +130,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 1569.7,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "FR001400PFU4": {
       "isin": "FR001400PFU4",
@@ -175,7 +175,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "FR0000038242": {
       "isin": "FR0000038242",
@@ -220,7 +220,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 541.5,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "DE000A2QP372": {
       "isin": "DE000A2QP372",
@@ -265,7 +265,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 2053.26,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "FR0010202606": {
       "isin": "FR0010202606",
@@ -310,7 +310,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 812.0,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "FR0011882364": {
       "isin": "FR0011882364",
@@ -355,7 +355,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "FR0000065484": {
       "isin": "FR0000065484",
@@ -400,7 +400,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 675.48,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "FR0011341205": {
       "isin": "FR0011341205",
@@ -445,7 +445,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "FR0010096354": {
       "isin": "FR0010096354",
@@ -490,7 +490,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "FR0010331421": {
       "isin": "FR0010331421",
@@ -535,7 +535,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 203.01,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "FR0004007813": {
       "isin": "FR0004007813",
@@ -580,7 +580,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "FR0000125486": {
       "isin": "FR0000125486",
@@ -625,14 +625,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 616.5,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "US8740391003": {
       "isin": "US8740391003",
       "nom": "TSMC ADR",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 428.71,
+      "cours": 429.42,
       "zones": {
         "basse_min": 386.7468,
         "basse_max": 403.3934,
@@ -656,7 +656,7 @@
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
       "historique_refus": [],
-      "sl_actuel": 392.93,
+      "sl_actuel": 393.64,
       "description": "Leader absolu fabrication puces avancées IA. Quasi-monopole sur N3/N2. Conviction forte mais risque géopolitique Taiwan structurel — position taille maîtrisée. Ne pas renforcer au-dessus des zones.",
       "budget_cible": 1800,
       "learning": {
@@ -670,14 +670,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "US98419M1009": {
       "isin": "US98419M1009",
       "nom": "XYLEM",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 121.86,
+      "cours": 121.52,
       "zones": {
         "basse_min": 110.7267,
         "basse_max": 115.5233,
@@ -715,7 +715,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "DE0006047004": {
       "isin": "DE0006047004",
@@ -760,7 +760,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 342.2,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "LU1681045537": {
       "isin": "LU1681045537",
@@ -805,14 +805,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 2038.89,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "IE00BLS09M33": {
       "isin": "IE00BLS09M33",
       "nom": "PENTAIR",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 66.46,
+      "cours": 66.16,
       "zones": {
         "basse_min": 62.21,
         "basse_max": 65.55,
@@ -850,7 +850,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 380.95,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "IE00BKT6FV49": {
       "isin": "IE00BKT6FV49",
@@ -895,7 +895,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 6886,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "LU1900068328": {
       "isin": "LU1900068328",
@@ -940,7 +940,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 223.41,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "GB00BNKGZC51": {
       "isin": "GB00BNKGZC51",
@@ -985,7 +985,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0.73,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "DE000HAG0005": {
       "isin": "DE000HAG0005",
@@ -1030,7 +1030,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "BE0974310428": {
       "isin": "BE0974310428",
@@ -1075,7 +1075,7 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 569.2,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "LU1303940784": {
       "isin": "LU1303940784",
@@ -2064,7 +2064,7 @@
       "nom": "Danaher Corporation",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 206.53,
+      "cours": 206.44,
       "zones": {
         "basse_min": 188.2867,
         "basse_max": 196.5233,
@@ -2102,14 +2102,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 597.15,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "US40131M1099": {
       "isin": "US40131M1099",
       "nom": "Guardant Health Inc",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 164.09,
+      "cours": 164.08,
       "zones": {
         "basse_min": 145.1733,
         "basse_max": 156.8267,
@@ -2147,14 +2147,14 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "US63253U1097": {
       "isin": "US63253U1097",
       "nom": "Natera Inc",
       "quantite": 0,
       "enveloppe": "CTO",
-      "cours": 314.15,
+      "cours": 314.09,
       "zones": {
         "basse_min": 238.4267,
         "basse_max": 280.2634,
@@ -2192,13 +2192,13 @@
       "signal_id": null,
       "signal_sent_at": null,
       "derniere_valorisation": 0,
-      "cours_timestamp": "2026-08-12T17:01:44.003610+00:00"
+      "cours_timestamp": "2026-08-12T17:31:30.418692+00:00"
     },
     "US02079K1079": {
       "isin": "US02079K1079",
       "nom": "ALPHABET-C",
       "quantite": 0,
-      "cours": 341.94,
+      "cours": 341.55,
       "zones": {
         "basse_min": 315.4967,
         "basse_max": 334.4833,
@@ -2227,14 +2227,14 @@
       "sl_actuel": 342.08,
       "derniere_valorisation": 0,
       "signal_sent_at": null,
-      "cours_timestamp": "2026-08-12T17:01:40.618954+00:00",
+      "cours_timestamp": "2026-08-12T17:31:26.748269+00:00",
       "signal_id": null
     },
     "US67066G1040": {
       "isin": "US67066G1040",
       "nom": "NVIDIA",
       "quantite": 0,
-      "cours": 224.01,
+      "cours": 224.09,
       "zones": {
         "basse_min": 184.7467,
         "basse_max": 204.3533,
@@ -2263,7 +2263,7 @@
       "sl_actuel": 198.27,
       "derniere_valorisation": 0,
       "signal_sent_at": null,
-      "cours_timestamp": "2026-08-12T17:01:40.618957+00:00",
+      "cours_timestamp": "2026-08-12T17:31:26.748272+00:00",
       "signal_id": null
     },
     "DE000GW7X8A4": {
@@ -2322,7 +2322,7 @@
       "sl_actuel": null,
       "derniere_valorisation": 482.58,
       "signal_sent_at": null,
-      "cours_timestamp": "2026-08-12T17:01:40.618891+00:00"
+      "cours_timestamp": "2026-08-12T17:31:26.748217+00:00"
     },
     "DE000GW9LF64": {
       "isin": "DE000GW9LF64",
