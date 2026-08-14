@@ -1,11 +1,11 @@
 {
   "meta": {
-    "date_maj": "2026-07-26",
+    "date_maj": "2026-08-14",
     "version": "2.0"
   },
   "cash": {
-    "pea": 2203.29,
-    "cto": 0,
+    "pea": 1014.57,
+    "cto": 600.18,
     "pme": 16.38
   },
   "pea_positions": [
@@ -14,58 +14,65 @@
       "isin": "FR001400AED5",
       "quantite": 23.62,
       "pru": 125.17,
-      "montant": 3505.78
+      "montant": 3589.39
     },
     {
       "nom": "VEOLIA",
       "isin": "FR0000124141",
-      "quantite": 14,
-      "pru": 37.13,
-      "montant": 512.26
+      "quantite": 19,
+      "pru": 36.71,
+      "montant": 650.18
     },
     {
       "nom": "VINCI",
       "isin": "FR0000125486",
       "quantite": 5,
       "pru": 119.21,
-      "montant": 591.75
+      "montant": 609.75
     },
     {
       "nom": "LEGRAND",
       "isin": "FR0010307819",
-      "quantite": 11,
-      "pru": 144.39,
-      "montant": 1477.3
+      "quantite": 13,
+      "pru": 143.75,
+      "montant": 1842.75
     },
     {
       "nom": "LUMIBIRD",
       "isin": "FR0000038242",
       "quantite": 19,
       "pru": 27.03,
-      "montant": 517.75
+      "montant": 540.55
+    },
+    {
+      "nom": "EXAIL TECHNOLOGIES",
+      "isin": "FR0000062671",
+      "quantite": 5,
+      "pru": 125.42,
+      "montant": 622.5
     },
     {
       "nom": "X-FAB SILICON",
       "isin": "BE0974310428",
-      "quantite": 80,
-      "pru": 7.97,
-      "montant": 556.4
+      "quantite": 95,
+      "pru": 7.8,
+      "montant": 658.83
     },
     {
       "nom": "SIDETRADE",
       "isin": "FR0010202606",
       "quantite": 4,
       "pru": 176.08,
-      "montant": 816
+      "montant": 800
     }
   ],
   "cto_positions": [
     {
-      "nom": "AMA CORP",
-      "isin": "GB00BNKGZC51",
-      "quantite": 5,
-      "pru": 6.6,
-      "montant": 0.7
+      "nom": "INNATE PHARMA",
+      "isin": "FR0010331421",
+      "quantite": 108,
+      "pru": 1.94,
+      "montant": 236.52
     }
   ],
   "pme_positions": [
@@ -74,56 +81,56 @@
       "isin": "QS0004065114",
       "quantite": 1,
       "pru": 1000,
-      "montant": 1193.8899999999999
+      "montant": 1199.3600000000001
     },
     {
       "nom": "EAGLESTONE FRANCE",
       "isin": "QS0004120687",
       "quantite": 1,
       "pru": 1000,
-      "montant": 1096.71
+      "montant": 1101.92
     },
     {
       "nom": "PORTEFEUILLE REDLAND",
       "isin": "QS0004138556",
       "quantite": 1,
       "pru": 1000,
-      "montant": 1053.22
+      "montant": 1058.68
     },
     {
       "nom": "OD.BHF IN.F.T.B 3D",
       "isin": "FR001400E4E3",
       "quantite": 10,
       "pru": 100,
-      "montant": 1015.51
+      "montant": 1014.33
     },
     {
       "nom": "MANDARINE EUROPE MICROCAP R EUR",
       "isin": "LU1303940784",
       "quantite": 26,
       "pru": 24.66,
-      "montant": 733.2
+      "montant": 748.02
     },
     {
       "nom": "ALLODIS 2",
       "isin": "QS0004122063",
       "quantite": 1,
       "pru": 1000,
-      "montant": 1091.92
+      "montant": 1097.64
     },
     {
       "nom": "AM.M.III EV.A P.4D",
       "isin": "FR001400E227",
       "quantite": 10.05,
       "pru": 99.54,
-      "montant": 1022.3
+      "montant": 1021.2
     },
     {
       "nom": "QUINTESSENCE",
       "isin": "QS0004062905",
       "quantite": 1,
       "pru": 1000,
-      "montant": 1198.08
+      "montant": 1203.29
     }
   ],
   "av": [
@@ -133,55 +140,55 @@
     },
     {
       "nom": "Pictet Global Megatrend",
-      "valeur": 2311.57
+      "valeur": 2429.72
     },
     {
       "nom": "DWS Concept Kaldemorgen",
-      "valeur": 2059.64
+      "valeur": 2114.04
     },
     {
       "nom": "DWS Top Dividende",
-      "valeur": 3828.1
+      "valeur": 3905.77
     },
     {
       "nom": "Eurose",
-      "valeur": 623.42
+      "valeur": 633.27
     },
     {
       "nom": "ANDERA Dette Privée",
-      "valeur": 1983.28
+      "valeur": 1986.72
     }
   ],
   "pee": [
     {
       "nom": "HSBC EE EURO PME F",
-      "valeur": 1127.55
+      "valeur": 1136.65
     },
     {
       "nom": "HSBC EE ACTIONS EUROPE SOLUTIONS CLIMAT F",
-      "valeur": 1351.72
+      "valeur": 1423.02
     },
     {
       "nom": "HSBC EE ISR ACTIONS EURO F",
-      "valeur": 1940.52
+      "valeur": 2026.83
     },
     {
       "nom": "HSBC EE ISR DIVERSIFIE ET SOLIDAIRE G",
-      "valeur": 995.81
+      "valeur": 1016.19
     },
     {
       "nom": "HSBC EE ISR ACTIONS MONDE F",
-      "valeur": 1529.96
+      "valeur": 1582.92
     },
     {
       "nom": "EMERGENT",
-      "valeur": 581.59
+      "valeur": 580.31
     }
   ],
   "livrets": [
     {
       "nom": "Livret A",
-      "valeur": 13406.69
+      "valeur": 3122.07
     },
     {
       "nom": "Livret $",
@@ -189,24 +196,24 @@
     },
     {
       "nom": "Livret euro",
-      "valeur": 17.2
+      "valeur": 22.24
     },
     {
       "nom": "Compte courant",
-      "valeur": 166.31
+      "valeur": 70.98
     }
   ],
-  "scpi": 7358.62,
-  "revolut": 1289.68,
+  "scpi": 7128.6,
+  "revolut": 1321.52,
   "totaux": {
-    "pea": 10180.529999999999,
-    "cto": 0.7,
-    "pme": 8421.21,
-    "av": 20931.529999999995,
-    "pee": 7527.150000000001,
-    "livrets": 13591.01,
-    "scpi": 7358.62,
-    "revolut": 1289.68,
-    "total": 69300.43
+    "pea": 10328.52,
+    "cto": 836.6999999999999,
+    "pme": 8460.819999999998,
+    "av": 21195.04,
+    "pee": 7765.92,
+    "livrets": 3216.1,
+    "scpi": 7128.6,
+    "revolut": 1321.52,
+    "total": 60253.219999999994
   }
 }
