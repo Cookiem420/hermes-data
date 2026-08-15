@@ -194,7 +194,7 @@
         "pivot_semaine": {
           "high": 27.1,
           "low": 26.2,
-          "close": 27.0
+          "close": 27
         }
       },
       "risque": "Spéculatif",
@@ -282,9 +282,9 @@
         "pivot_source": "weekly",
         "pivot_calcule_le": "2026-08-10T23:31:04.160567+00:00",
         "pivot_semaine": {
-          "high": 205.0,
+          "high": 205,
           "low": 197.6,
-          "close": 202.0
+          "close": 202
         }
       },
       "risque": "Spéculatif",
@@ -463,7 +463,7 @@
         "pivot_calcule_le": "2026-08-10T23:31:04.165821+00:00",
         "pivot_semaine": {
           "high": 115.6,
-          "low": 105.0,
+          "low": 105,
           "close": 114.1
         }
       },
@@ -2301,18 +2301,11 @@
         "basse_max": 34.3833,
         "surveillance": 34.9767,
         "complement": 35.7833,
-        "breakout": 36.3767,
-        "pivot_source": "weekly",
-        "pivot_calcule_le": "2026-08-10T20:43:58.376208",
-        "pivot_semaine": {
-          "high": 35.57,
-          "low": 34.17,
-          "close": 35.19
-        }
+        "breakout": 36.3767
       },
-      "risque": null,
-      "categorie": null,
-      "thematique": null,
+      "risque": "Modéré",
+      "categorie": "Croissance",
+      "thematique": "Eau & Env.",
       "enveloppe": "À définir",
       "ancien_etat": null,
       "etat_actuel": "NOUVEAU",
@@ -2322,7 +2315,8 @@
       "sl_actuel": null,
       "derniere_valorisation": 476.42,
       "signal_sent_at": null,
-      "cours_timestamp": "2026-08-14T20:33:25.912241+00:00"
+      "cours_timestamp": "2026-08-14T20:33:25.912241+00:00",
+      "description": null
     },
     "DE000GW9LF64": {
       "isin": "DE000GW9LF64",
