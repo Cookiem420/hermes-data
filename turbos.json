@@ -11,7 +11,9 @@
       "date_entree": "2026-08-18",
       "stop": 1.34,
       "tp": 1.44
-    },
+    }
+  ],
+  "closed": [
     {
       "id": 1787064815901,
       "sens": "put",
@@ -22,10 +24,13 @@
       "prix_entree": 1.33,
       "date_entree": "2026-08-18",
       "stop": 1.3,
-      "tp": 1.38
-    }
-  ],
-  "closed": [
+      "tp": 1.38,
+      "prix_sortie": 1.37,
+      "date_sortie": "2026-08-18",
+      "pnl": 30.4,
+      "pnl_pct": 3.01,
+      "montant_entree": 1010.8
+    },
     {
       "id": 1787064755926,
       "sens": "put",
