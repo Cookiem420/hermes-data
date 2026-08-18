@@ -11,6 +11,18 @@
       "date_entree": "2026-08-18",
       "stop": 1.34,
       "tp": 1.44
+    },
+    {
+      "id": 1787064815901,
+      "sens": "put",
+      "sj": "Cac",
+      "emet": "",
+      "isin": "",
+      "qty": 760,
+      "prix_entree": 1.33,
+      "date_entree": "2026-08-18",
+      "stop": 1.3,
+      "tp": 1.38
     }
   ],
   "closed": [
