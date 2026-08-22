@@ -15,6 +15,33 @@
       },
       "flux_net": 0,
       "flux_detail": []
+    },
+    {
+      "date": "2026-08-22",
+      "totaux": {
+        "pea": 10004.89,
+        "cto": 2519.27,
+        "pme": 8469.460000000001,
+        "av": 21119.87,
+        "pee": 7600.86,
+        "livrets": 2464.5499999999997,
+        "scpi": 7368.59,
+        "revolut": 1261.41,
+        "total": 60808.90000000001
+      },
+      "flux_net": 621,
+      "flux_detail": [
+        {
+          "type": "apport",
+          "montant": 980,
+          "note": ""
+        },
+        {
+          "type": "retrait",
+          "montant": 359,
+          "note": ""
+        }
+      ]
     }
   ]
 }
