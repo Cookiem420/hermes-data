@@ -1,7 +1,7 @@
 {
   "meta": {
     "description": "Table infos valeurs — Hermès V2",
-    "derniere_maj": "2026-07-26"
+    "derniere_maj": "2026-08-22"
   },
   "valeurs": {
     "FR001400AED5": {
@@ -90,7 +90,7 @@
     "FR0010307819": {
       "isin": "FR0010307819",
       "nom": "LEGRAND",
-      "quantite": 11,
+      "quantite": 13,
       "enveloppe": "PEA",
       "cours": 134.65,
       "zones": {
@@ -193,7 +193,7 @@
         "pivot_calcule_le": "2026-08-17T23:31:00.492238+00:00",
         "pivot_semaine": {
           "high": 28.6,
-          "low": 27.0,
+          "low": 27,
           "close": 28.35
         }
       },
@@ -283,7 +283,7 @@
         "pivot_calcule_le": "2026-08-17T23:31:00.495407+00:00",
         "pivot_semaine": {
           "high": 204.5,
-          "low": 198.0,
+          "low": 198,
           "close": 199.6
         }
       },
@@ -495,7 +495,7 @@
     "FR0010331421": {
       "isin": "FR0010331421",
       "nom": "INNATE PHARMA",
-      "quantite": 0,
+      "quantite": 108,
       "enveloppe": "PEA",
       "cours": 1.908,
       "zones": {
@@ -687,7 +687,7 @@
         "pivot_source": "weekly",
         "pivot_calcule_le": "2026-08-17T23:31:00.509340+00:00",
         "pivot_semaine": {
-          "high": 124.0,
+          "high": 124,
           "low": 119.0001,
           "close": 119.68
         }
@@ -945,7 +945,7 @@
     "GB00BNKGZC51": {
       "isin": "GB00BNKGZC51",
       "nom": "AMA CORP",
-      "quantite": 5,
+      "quantite": 0,
       "enveloppe": "CTO",
       "cours": 0.143,
       "zones": {
@@ -966,7 +966,7 @@
       "categorie": "Speculatif",
       "thematique": "Tech",
       "ancien_etat": null,
-      "etat_actuel": "FULL",
+      "etat_actuel": "WATCHLIST",
       "achat_vente": null,
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
@@ -1035,7 +1035,7 @@
     "BE0974310428": {
       "isin": "BE0974310428",
       "nom": "X-FAB SILICON",
-      "quantite": 80,
+      "quantite": 95,
       "enveloppe": "PEA-PME",
       "cours": 5.92,
       "zones": {
@@ -2165,7 +2165,7 @@
         "pivot_calcule_le": "2026-08-17T23:31:00.526596+00:00",
         "pivot_semaine": {
           "high": 326.03,
-          "low": 305.0,
+          "low": 305,
           "close": 309.93
         }
       },
@@ -2294,7 +2294,7 @@
     "FR0000124141": {
       "isin": "FR0000124141",
       "nom": "VEOLIA",
-      "quantite": 14,
+      "quantite": 19,
       "cours": 34.09,
       "zones": {
         "basse_min": 32.9367,
@@ -2349,6 +2349,28 @@
       "sl_actuel": null,
       "derniere_valorisation": 0,
       "signal_sent_at": null
+    },
+    "FR0000062671": {
+      "isin": "FR0000062671",
+      "nom": "EXAIL TECHNOLOGIES",
+      "quantite": 5,
+      "cours": 0,
+      "zones": {
+        "basse_min": 0,
+        "basse_max": 0,
+        "surveillance": 0,
+        "complement": 0,
+        "breakout": 0
+      },
+      "risque": null,
+      "categorie": null,
+      "thematique": null,
+      "enveloppe": "À définir",
+      "ancien_etat": null,
+      "etat_actuel": "NOUVEAU",
+      "achat_vente": null,
+      "q_achat_vente": 0,
+      "prix_achat_vente": 0
     }
   }
 }
