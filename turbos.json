@@ -1,5 +1,6 @@
 {
-  "open": [
+  "open": [],
+  "closed": [
     {
       "id": 1787574117418,
       "sens": "put",
@@ -10,10 +11,13 @@
       "prix_entree": 2.75,
       "date_entree": "2026-08-24",
       "stop": 2.67,
-      "tp": 2.87
-    }
-  ],
-  "closed": [
+      "tp": 2.87,
+      "prix_sortie": 2.64,
+      "date_sortie": "2026-08-24",
+      "pnl": -20.13,
+      "pnl_pct": -4,
+      "montant_entree": 503.25
+    },
     {
       "id": 1787326890723,
       "sens": "call",
