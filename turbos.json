@@ -1,18 +1,6 @@
 {
   "open": [
     {
-      "id": 1787574257218,
-      "sens": "call",
-      "sj": "cac",
-      "emet": "",
-      "isin": "",
-      "qty": 910,
-      "prix_entree": 1.65,
-      "date_entree": "2026-08-24",
-      "stop": 1.61,
-      "tp": 1.72
-    },
-    {
       "id": 1787574281702,
       "sens": "call",
       "sj": "cac",
@@ -26,6 +14,23 @@
     }
   ],
   "closed": [
+    {
+      "id": 1787574257218,
+      "sens": "call",
+      "sj": "cac",
+      "emet": "",
+      "isin": "",
+      "qty": 910,
+      "prix_entree": 1.65,
+      "date_entree": "2026-08-24",
+      "stop": 1.61,
+      "tp": 1.72,
+      "prix_sortie": 1.49,
+      "date_sortie": "2026-08-24",
+      "pnl": -145.6,
+      "pnl_pct": -9.7,
+      "montant_entree": 1501.5
+    },
     {
       "id": 1787574215138,
       "sens": "put",
