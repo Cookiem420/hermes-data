@@ -11,6 +11,18 @@
       "date_entree": "2026-08-24",
       "stop": 0.92,
       "tp": 0.98
+    },
+    {
+      "id": 1787576717502,
+      "sens": "put",
+      "sj": "car",
+      "emet": "",
+      "isin": "",
+      "qty": 528,
+      "prix_entree": 0.94,
+      "date_entree": "2026-08-24",
+      "stop": 0.92,
+      "tp": 0.98
     }
   ],
   "closed": [
