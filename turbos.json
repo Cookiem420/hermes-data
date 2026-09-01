@@ -1,16 +1,6 @@
 {
   "open": [
     {
-      "isin": "DE000GN2QR12",
-      "qty": 153,
-      "prix_entree": 3.3,
-      "date_entree": "2026-09-01",
-      "sens": "put",
-      "sj": "Cac",
-      "emet": "Goldman",
-      "id": 1793000000001
-    },
-    {
       "id": 1793000000002,
       "sens": "call",
       "sj": "Cac",
