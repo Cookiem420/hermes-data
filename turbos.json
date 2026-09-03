@@ -1,5 +1,6 @@
 {
-  "open": [
+  "open": [],
+  "closed": [
     {
       "sens": "put",
       "sj": "Cac",
@@ -8,10 +9,13 @@
       "qty": 134,
       "prix_entree": 3.77,
       "date_entree": "2026-09-03",
-      "id": 1793100000000
-    }
-  ],
-  "closed": [
+      "id": 1793100000000,
+      "prix_sortie": 3.68,
+      "date_sortie": "2026-09-03",
+      "pnl": -12.06,
+      "pnl_pct": -2.39,
+      "montant_entree": 505.18
+    },
     {
       "sens": "call",
       "isin": "DE000GW77K85",
@@ -20,9 +24,9 @@
       "prix_sortie": 1.73,
       "date_entree": "2026-09-03",
       "date_sortie": "2026-09-03",
-      "pnl": 15.0,
+      "pnl": 15,
       "pnl_pct": 2.98,
-      "montant_entree": 504.0,
+      "montant_entree": 504,
       "id": 1793000000106
     },
     {
@@ -501,8 +505,8 @@
       "prix_sortie": 3.69,
       "date_entree": "2026-08-31",
       "date_sortie": "2026-08-31",
-      "pnl": 0.0,
-      "pnl_pct": 0.0,
+      "pnl": 0,
+      "pnl_pct": 0,
       "montant_entree": 501.84,
       "id": 1793000000069
     },
@@ -516,7 +520,7 @@
       "date_sortie": "2026-08-28",
       "pnl": -17.5,
       "pnl_pct": -3.43,
-      "montant_entree": 510.0,
+      "montant_entree": 510,
       "id": 1793000000068
     },
     {
@@ -605,9 +609,9 @@
       "prix_sortie": 2.8,
       "date_entree": "2026-08-27",
       "date_sortie": "2026-08-27",
-      "pnl": 20.0,
+      "pnl": 20,
       "pnl_pct": 7.69,
-      "montant_entree": 260.0,
+      "montant_entree": 260,
       "id": 1793000000061
     },
     {
@@ -628,7 +632,7 @@
       "isin": "DE000GN2QR12",
       "qty": 141,
       "prix_entree": 1.81,
-      "prix_sortie": 2.0,
+      "prix_sortie": 2,
       "date_entree": "2026-08-27",
       "date_sortie": "2026-08-27",
       "pnl": 26.79,
@@ -800,9 +804,9 @@
       "prix_sortie": 2.66,
       "date_entree": "2026-08-25",
       "date_sortie": "2026-08-25",
-      "pnl": 24.0,
+      "pnl": 24,
       "pnl_pct": 4.72,
-      "montant_entree": 508.0,
+      "montant_entree": 508,
       "id": 1793000000046
     },
     {
@@ -841,7 +845,7 @@
       "date_sortie": "2026-08-24",
       "pnl": -58.8,
       "pnl_pct": -2.86,
-      "montant_entree": 2058.0,
+      "montant_entree": 2058,
       "id": 1793000000043
     },
     {
@@ -862,7 +866,7 @@
       "isin": "DE000FG3ML41",
       "qty": 489,
       "prix_entree": 1.06,
-      "prix_sortie": 1.0,
+      "prix_sortie": 1,
       "date_entree": "2026-08-24",
       "date_sortie": "2026-08-24",
       "pnl": -29.34,
@@ -878,7 +882,7 @@
       "prix_sortie": 1.04,
       "date_entree": "2026-08-24",
       "date_sortie": "2026-08-24",
-      "pnl": 53.0,
+      "pnl": 53,
       "pnl_pct": 10.64,
       "montant_entree": 498.2,
       "id": 1793000000040
@@ -932,7 +936,7 @@
       "date_sortie": "2026-08-24",
       "pnl": 52.2,
       "pnl_pct": 10.59,
-      "montant_entree": 493.0,
+      "montant_entree": 493,
       "id": 1793000000036
     },
     {
@@ -982,7 +986,7 @@
       "prix_sortie": 1.59,
       "date_entree": "2026-08-24",
       "date_sortie": "2026-08-24",
-      "pnl": -66.0,
+      "pnl": -66,
       "pnl_pct": -13.11,
       "montant_entree": 503.25,
       "id": 1793000000032
@@ -1008,9 +1012,9 @@
       "prix_sortie": 2.59,
       "date_entree": "2026-08-21",
       "date_sortie": "2026-08-21",
-      "pnl": 24.0,
+      "pnl": 24,
       "pnl_pct": 10.21,
-      "montant_entree": 235.0,
+      "montant_entree": 235,
       "id": 1793000000030
     },
     {
@@ -1186,39 +1190,39 @@
       "sens": "put",
       "isin": "DE000GU4PL12",
       "qty": 116,
-      "prix_entree": 3.0,
+      "prix_entree": 3,
       "prix_sortie": 3.23,
       "date_entree": "2026-08-19",
       "date_sortie": "2026-08-19",
       "pnl": 26.68,
       "pnl_pct": 7.67,
-      "montant_entree": 348.0,
+      "montant_entree": 348,
       "id": 1793000000016
     },
     {
       "sens": "put",
       "isin": "DE000GU4PL12",
       "qty": 116,
-      "prix_entree": 3.0,
+      "prix_entree": 3,
       "prix_sortie": 3.16,
       "date_entree": "2026-08-19",
       "date_sortie": "2026-08-19",
       "pnl": 18.56,
       "pnl_pct": 5.33,
-      "montant_entree": 348.0,
+      "montant_entree": 348,
       "id": 1793000000015
     },
     {
       "sens": "put",
       "isin": "DE000GU4PL12",
       "qty": 233,
-      "prix_entree": 3.0,
+      "prix_entree": 3,
       "prix_sortie": 2.99,
       "date_entree": "2026-08-19",
       "date_sortie": "2026-08-19",
       "pnl": -2.33,
       "pnl_pct": -0.33,
-      "montant_entree": 699.0,
+      "montant_entree": 699,
       "id": 1793000000014
     },
     {
@@ -1255,9 +1259,9 @@
       "prix_sortie": 2.87,
       "date_entree": "2026-08-18",
       "date_sortie": "2026-08-18",
-      "pnl": 31.0,
+      "pnl": 31,
       "pnl_pct": 12.11,
-      "montant_entree": 256.0,
+      "montant_entree": 256,
       "id": 1793000000011
     },
     {
@@ -1346,9 +1350,9 @@
       "prix_sortie": 1.98,
       "date_entree": "2026-08-17",
       "date_sortie": "2026-08-17",
-      "pnl": 25.0,
+      "pnl": 25,
       "pnl_pct": 2.59,
-      "montant_entree": 965.0,
+      "montant_entree": 965,
       "id": 1793000000004
     },
     {
@@ -1368,13 +1372,13 @@
       "sens": "put",
       "isin": "DE000GU4PL12",
       "qty": 253,
-      "prix_entree": 2.0,
+      "prix_entree": 2,
       "prix_sortie": 1.93,
       "date_entree": "2026-08-17",
       "date_sortie": "2026-08-17",
       "pnl": -17.71,
       "pnl_pct": -3.5,
-      "montant_entree": 506.0,
+      "montant_entree": 506,
       "id": 1793000000002
     },
     {
