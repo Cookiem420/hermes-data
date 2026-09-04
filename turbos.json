@@ -1,5 +1,18 @@
 {
-  "open": [],
+  "open": [
+    {
+      "id": 1793100000003,
+      "sens": "put",
+      "sj": "Cac",
+      "emet": "",
+      "isin": "",
+      "qty": 98,
+      "prix_entree": 5.17,
+      "date_entree": "2026-09-04",
+      "stop": 5.02,
+      "tp": 5.4
+    }
+  ],
   "closed": [
     {
       "id": 1793100000002,
