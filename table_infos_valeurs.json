@@ -1,7 +1,7 @@
 {
   "meta": {
     "description": "Table infos valeurs — Hermès V2",
-    "derniere_maj": "2026-08-22"
+    "derniere_maj": "2026-09-26"
   },
   "valeurs": {
     "FR001400AED5": {
@@ -102,7 +102,7 @@
         "pivot_source": "weekly",
         "pivot_calcule_le": "2026-08-24T23:31:04.527256+00:00",
         "pivot_semaine": {
-          "high": 142.0,
+          "high": 142,
           "low": 134.3,
           "close": 134.65
         }
@@ -180,7 +180,7 @@
     "FR0000038242": {
       "isin": "FR0000038242",
       "nom": "LUMIBIRD",
-      "quantite": 19,
+      "quantite": 26,
       "enveloppe": "PEA",
       "cours": 25.2,
       "zones": {
@@ -270,7 +270,7 @@
     "FR0010202606": {
       "isin": "FR0010202606",
       "nom": "SIDETRADE",
-      "quantite": 4,
+      "quantite": 6,
       "enveloppe": "PEA",
       "cours": 192.6,
       "zones": {
@@ -455,7 +455,7 @@
       "cours": 99.3,
       "zones": {
         "basse_min": 96.2,
-        "basse_max": 99.0,
+        "basse_max": 99,
         "surveillance": 102.45,
         "complement": 105.25,
         "breakout": 108.7,
@@ -495,7 +495,7 @@
     "FR0010331421": {
       "isin": "FR0010331421",
       "nom": "INNATE PHARMA",
-      "quantite": 108,
+      "quantite": 0,
       "enveloppe": "PEA",
       "cours": 1.89,
       "zones": {
@@ -624,7 +624,7 @@
       },
       "signal_id": null,
       "signal_sent_at": null,
-      "derniere_valorisation": 578.0,
+      "derniere_valorisation": 578,
       "cours_timestamp": "2026-08-28T08:31:33.702595+00:00"
     },
     "US8740391003": {
@@ -1035,7 +1035,7 @@
     "BE0974310428": {
       "isin": "BE0974310428",
       "nom": "X-FAB SILICON",
-      "quantite": 95,
+      "quantite": 47,
       "enveloppe": "PEA-PME",
       "cours": 6.35,
       "zones": {
@@ -1080,7 +1080,7 @@
     "LU1303940784": {
       "isin": "LU1303940784",
       "nom": "MANDARINE EUROPE MICROCAP R EUR",
-      "quantite": 26,
+      "quantite": 33,
       "enveloppe": "PEA-PME",
       "cours": 0,
       "zones": {
@@ -1358,7 +1358,7 @@
     "QS0004062905": {
       "isin": "QS0004062905",
       "nom": "QUINTESSENCE",
-      "quantite": 1,
+      "quantite": 0,
       "enveloppe": "PEA-PME",
       "cours": 0,
       "zones": {
@@ -1372,7 +1372,7 @@
       "categorie": "Crowdfunding",
       "thematique": "Immobilier",
       "ancien_etat": null,
-      "etat_actuel": "NOUVEAU",
+      "etat_actuel": "WATCHLIST",
       "achat_vente": null,
       "q_achat_vente": 0,
       "prix_achat_vente": 0,
@@ -2120,7 +2120,7 @@
         "pivot_calcule_le": "2026-08-24T23:31:04.565769+00:00",
         "pivot_semaine": {
           "high": 171.74,
-          "low": 155.0,
+          "low": 155,
           "close": 170.69
         }
       },
@@ -2165,7 +2165,7 @@
         "pivot_calcule_le": "2026-08-24T23:31:04.567363+00:00",
         "pivot_semaine": {
           "high": 333.56,
-          "low": 305.0,
+          "low": 305,
           "close": 332.03
         }
       },
@@ -2294,7 +2294,7 @@
     "FR0000124141": {
       "isin": "FR0000124141",
       "nom": "VEOLIA",
-      "quantite": 19,
+      "quantite": 35,
       "cours": 32.97,
       "zones": {
         "basse_min": 33.31,
@@ -2382,6 +2382,28 @@
       "derniere_valorisation": 622.5,
       "signal_sent_at": null,
       "cours_timestamp": "2026-08-28T08:31:30.492266+00:00"
+    },
+    "QS0004180368": {
+      "isin": "QS0004180368",
+      "nom": "L'ELYSEE",
+      "quantite": 1,
+      "cours": 0,
+      "zones": {
+        "basse_min": 0,
+        "basse_max": 0,
+        "surveillance": 0,
+        "complement": 0,
+        "breakout": 0
+      },
+      "risque": null,
+      "categorie": null,
+      "thematique": null,
+      "enveloppe": "À définir",
+      "ancien_etat": null,
+      "etat_actuel": "NOUVEAU",
+      "achat_vente": null,
+      "q_achat_vente": 0,
+      "prix_achat_vente": 0
     }
   }
 }
