@@ -1,136 +1,128 @@
 {
   "meta": {
-    "date_maj": "2026-08-22",
+    "date_maj": "2026-09-26",
     "version": "2.0"
   },
   "cash": {
-    "pea": 1014.57,
-    "cto": 2313.21,
-    "pme": 16.38
+    "pea": 211.66,
+    "cto": 0,
+    "pme": 14.6
   },
   "pea_positions": [
     {
-      "nom": "PEA PROFILE OFFENSIF SELECT C",
-      "isin": "FR001400AED5",
-      "quantite": 23.62,
-      "pru": 125.17,
-      "montant": 3527.51
-    },
-    {
-      "nom": "VEOLIA",
-      "isin": "FR0000124141",
-      "quantite": 19,
-      "pru": 36.71,
-      "montant": 647.71
+      "nom": "X-FAB SILICON",
+      "isin": "BE0974310428",
+      "quantite": 47,
+      "pru": 7.8,
+      "montant": 307.85
     },
     {
       "nom": "VINCI",
       "isin": "FR0000125486",
       "quantite": 5,
       "pru": 119.21,
-      "montant": 596.5
-    },
-    {
-      "nom": "LEGRAND",
-      "isin": "FR0010307819",
-      "quantite": 13,
-      "pru": 143.75,
-      "montant": 1750.45
+      "montant": 556.5
     },
     {
       "nom": "LUMIBIRD",
       "isin": "FR0000038242",
-      "quantite": 19,
-      "pru": 27.03,
-      "montant": 494.95
+      "quantite": 26,
+      "pru": 26.79,
+      "montant": 617.5
     },
     {
       "nom": "EXAIL TECHNOLOGIES",
       "isin": "FR0000062671",
       "quantite": 5,
       "pru": 125.42,
-      "montant": 622
+      "montant": 622.5
     },
     {
-      "nom": "X-FAB SILICON",
-      "isin": "BE0974310428",
-      "quantite": 95,
-      "pru": 7.8,
-      "montant": 562.4
+      "nom": "VEOLIA",
+      "isin": "FR0000124141",
+      "quantite": 35,
+      "pru": 34.91,
+      "montant": 1097.6
     },
     {
       "nom": "SIDETRADE",
       "isin": "FR0010202606",
-      "quantite": 4,
-      "pru": 176.08,
-      "montant": 788.8
-    }
-  ],
-  "cto_positions": [
+      "quantite": 6,
+      "pru": 180.57,
+      "montant": 1146
+    },
     {
-      "nom": "INNATE PHARMA",
-      "isin": "FR0010331421",
-      "quantite": 108,
-      "pru": 1.94,
-      "montant": 206.06
+      "nom": "LEGRAND",
+      "isin": "FR0010307819",
+      "quantite": 13,
+      "pru": 143.75,
+      "montant": 1753.05
+    },
+    {
+      "nom": "PEA PROFILE OFFENSIF SELECT C",
+      "isin": "FR001400AED5",
+      "quantite": 23.62,
+      "pru": 125.17,
+      "montant": 3473.66
     }
   ],
+  "cto_positions": [],
   "pme_positions": [
+    {
+      "nom": "MANDARINE EUROPE MICROCAP R EUR",
+      "isin": "LU1303940784",
+      "quantite": 33,
+      "pru": 25.54,
+      "montant": 935.22
+    },
     {
       "nom": "RIVIERA",
       "isin": "QS0004065114",
       "quantite": 1,
       "pru": 1000,
-      "montant": 1201.66
+      "montant": 1211.73
     },
     {
       "nom": "EAGLESTONE FRANCE",
       "isin": "QS0004120687",
       "quantite": 1,
       "pru": 1000,
-      "montant": 1104.11
+      "montant": 1113.7
     },
     {
       "nom": "PORTEFEUILLE REDLAND",
       "isin": "QS0004138556",
       "quantite": 1,
       "pru": 1000,
-      "montant": 1060.99
+      "montant": 1071.05
     },
     {
-      "nom": "OD.BHF IN.F.T.B 3D",
-      "isin": "FR001400E4E3",
-      "quantite": 10,
-      "pru": 100,
-      "montant": 1018.68
-    },
-    {
-      "nom": "MANDARINE EUROPE MICROCAP R EUR",
-      "isin": "LU1303940784",
-      "quantite": 26,
-      "pru": 24.66,
-      "montant": 741.52
+      "nom": "L'ELYSEE",
+      "isin": "QS0004180368",
+      "quantite": 1,
+      "pru": 1000,
+      "montant": 1000
     },
     {
       "nom": "ALLODIS 2",
       "isin": "QS0004122063",
       "quantite": 1,
       "pru": 1000,
-      "montant": 1100.05
+      "montant": 1110.6
     },
     {
       "nom": "AM.M.III EV.A P.4D",
       "isin": "FR001400E227",
       "quantite": 10.05,
       "pru": 99.54,
-      "montant": 1020.59
+      "montant": 1017.38
     },
     {
-      "nom": "QUINTESSENCE",
-      "isin": "QS0004062905",
-      "quantite": 1,
-      "pru": 1000,
-      "montant": 1205.48
+      "nom": "OD.BHF IN.F.T.B 3D",
+      "isin": "FR001400E4E3",
+      "quantite": 10,
+      "pru": 100,
+      "montant": 1021.58
     }
   ],
   "av": [
@@ -140,80 +132,80 @@
     },
     {
       "nom": "Pictet Global Megatrend",
-      "valeur": 2358.45
+      "valeur": 2368.3
     },
     {
       "nom": "DWS Concept Kaldemorgen",
-      "valeur": 2091.23
+      "valeur": 2076.92
     },
     {
       "nom": "DWS Top Dividende",
-      "valeur": 3927.73
+      "valeur": 3898.99
     },
     {
       "nom": "Eurose",
-      "valeur": 627.62
+      "valeur": 614.36
     },
     {
       "nom": "ANDERA Dette Privée",
-      "valeur": 1989.32
+      "valeur": 1995.82
     }
   ],
   "pee": [
     {
       "nom": "HSBC EE EURO PME F",
-      "valeur": 1089.92
+      "valeur": 1053.66
     },
     {
       "nom": "HSBC EE ACTIONS EUROPE SOLUTIONS CLIMAT F",
-      "valeur": 1390.12
+      "valeur": 1366.84
     },
     {
       "nom": "HSBC EE ISR ACTIONS EURO F",
-      "valeur": 1986.8
+      "valeur": 1967.07
     },
     {
       "nom": "HSBC EE ISR DIVERSIFIE ET SOLIDAIRE G",
-      "valeur": 1005.07
+      "valeur": 990.97
     },
     {
       "nom": "HSBC EE ISR ACTIONS MONDE F",
-      "valeur": 1550.17
+      "valeur": 1588.04
     },
     {
       "nom": "EMERGENT",
-      "valeur": 578.78
+      "valeur": 592.66
     }
   ],
   "livrets": [
     {
       "nom": "Livret A",
-      "valeur": 1142.07
+      "valeur": 2564.29
     },
     {
       "nom": "Livret $",
-      "valeur": 0.8
+      "valeur": 0.82
     },
     {
       "nom": "Livret euro",
-      "valeur": 266.59
+      "valeur": 20.08
     },
     {
       "nom": "Compte courant",
-      "valeur": 1055.09
+      "valeur": 2.96
     }
   ],
-  "scpi": 7368.59,
-  "revolut": 1261.41,
+  "scpi": 7396.56,
+  "revolut": 1238.49,
   "totaux": {
-    "pea": 10004.89,
-    "cto": 2519.27,
-    "pme": 8469.460000000001,
-    "av": 21119.87,
-    "pee": 7600.86,
-    "livrets": 2464.5499999999997,
-    "scpi": 7368.59,
-    "revolut": 1261.41,
-    "total": 60808.90000000001
+    "pea": 9786.32,
+    "cto": 0,
+    "pme": 8495.86,
+    "av": 21079.91,
+    "pee": 7559.24,
+    "livrets": 2588.15,
+    "scpi": 7396.56,
+    "revolut": 1238.49,
+    "total": 58144.52999999999
   }
 }
