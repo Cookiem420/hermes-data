@@ -1,7 +1,7 @@
 {
   "meta": {
     "description": "Table infos valeurs — Hermès V2",
-    "derniere_maj": "2026-09-26"
+    "derniere_maj": "2026-10-02"
   },
   "valeurs": {
     "FR001400AED5": {
@@ -2387,6 +2387,28 @@
       "isin": "QS0004180368",
       "nom": "L'ELYSEE",
       "quantite": 1,
+      "cours": 0,
+      "zones": {
+        "basse_min": 0,
+        "basse_max": 0,
+        "surveillance": 0,
+        "complement": 0,
+        "breakout": 0
+      },
+      "risque": null,
+      "categorie": null,
+      "thematique": null,
+      "enveloppe": "À définir",
+      "ancien_etat": null,
+      "etat_actuel": "NOUVEAU",
+      "achat_vente": null,
+      "q_achat_vente": 0,
+      "prix_achat_vente": 0
+    },
+    "NL0000226223": {
+      "isin": "NL0000226223",
+      "nom": "STMICROELECTRONICS",
+      "quantite": 4,
       "cours": 0,
       "zones": {
         "basse_min": 0,
